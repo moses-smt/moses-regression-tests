@@ -1,0 +1,27 @@
+#! /bin/sh -w
+
+bin=$1; shift
+testdir=$1; shift
+cd $testdir
+
+extractor=$bin/extractor
+
+size=15
+
+ref=data/reference
+
+
+nbest=data/nbest.gz
+scfile=SCORESTAT
+ffile=FEATSTAT
+
+$extractor --nbest $nbest --reference $ref --ffile $ffile --scfile $scfile
+cat $ffile $scfile
+
+
+$extractor --nbest $nbest --reference $ref --ffile $ffile --scfile $scfile --allow-duplicates
+cat $ffile $scfile
+
+
+
+rm $ffile $scfile
