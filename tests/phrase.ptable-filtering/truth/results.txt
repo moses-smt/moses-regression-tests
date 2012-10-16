@@ -19,4 +19,4 @@ TRANSLATION_OPTION_18=transfer of money :: c=-0.801
 TRANSLATION_OPTION_19=transfers :: c=-0.692
 TRANSLATION_OPTION_20=transfers from :: c=-0.759
 TRANSLATION_1 = from the west .
-TOTAL_WALLTIME ~ 14
+TOTAL_WALLTIME ~ 4
