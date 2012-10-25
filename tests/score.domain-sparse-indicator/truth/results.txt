@@ -1,0 +1,737 @@
+! ! ! ) ||| ! ! ! ) ||| 1 dom_in 1 dom_out 1 |||  ||| 2 2
+! ! ! ||| ! ! ! ! ||| 1 dom_in 1 |||  ||| 4 1
+! ! ! ||| ! ! ! ||| 1 dom_in 1 dom_out 1 |||  ||| 4 2
+! ! ! ||| ! ||| 1 dom_out 1 |||  ||| 4 1
+! ! ! » , ||| &apos; ! ||| 1 dom_out 1 |||  ||| 3 1
+! ! ! » , ||| fluctuations &apos; ! ||| 1 dom_out 1 |||  ||| 3 1
+! ! ! » , ||| rate fluctuations &apos; ! ||| 1 dom_out 1 |||  ||| 3 1
+! ! ! » ||| &apos; ! ||| 1 dom_out 1 |||  ||| 3 1
+! ! ! » ||| fluctuations &apos; ! ||| 1 dom_out 1 |||  ||| 3 1
+! ! ! » ||| rate fluctuations &apos; ! ||| 1 dom_out 1 |||  ||| 3 1
+! ! ) , en caso de ||| ! ) in the event that we ||| 1 dom_in 1 |||  ||| 2 1
+! ! ) , en caso de ||| ! ) in the event that ||| 1 dom_in 1 |||  ||| 2 1
+! ! ) , en caso ||| ! ) in the event ||| 1 dom_in 1 |||  ||| 1 1
+! ! ) , en ||| ! ) in the ||| 1 dom_in 1 |||  ||| 2 1
+! ! ) , en ||| ! ) in ||| 1 dom_in 1 |||  ||| 2 1
+! ! ) , ||| ! ) ||| 1 dom_in 1 |||  ||| 1 1
+! ! ) ||| ! ! ) ||| 1 dom_in 1 dom_out 1 |||  ||| 3 2
+! ! ) ||| ! ) ||| 1 dom_in 1 |||  ||| 3 1
+! ! señores de la tribuna ||| ! ladies and gentlemen in the gallery ||| 1 dom_out 1 |||  ||| 1 1
+! ! señores de la ||| ! ladies and gentlemen in the ||| 1 dom_out 1 |||  ||| 1 1
+! ! señores de ||| ! ladies and gentlemen in ||| 1 dom_out 1 |||  ||| 1 1
+! ! señores ||| ! ladies and gentlemen ||| 1 dom_out 1 |||  ||| 1 1
+! ! ||| ! ! ! ||| 1 dom_in 1 |||  ||| 10 1
+! ! ||| ! ! ||| 1 dom_in 1 dom_out 1 |||  ||| 10 5
+! ! ||| ! ||| 1 dom_in 1 dom_out 1 |||  ||| 10 4
+! &#93; ||| ! ) Member ||| 1 dom_out 1 |||  ||| 2 1
+! &#93; ||| ! ) ||| 1 dom_out 1 |||  ||| 2 1
+! &apos; ||| ! &apos; ||| 1 dom_out 1 |||  ||| 3 1
+! &apos; ||| . &apos; ||| 1 dom_in 1 |||  ||| 3 1
+! &apos; ||| ? &quot; ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; ) , ha terminado , ||| ! &apos; ) , is over , ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; ) , ha terminado ||| ! &apos; ) , is over ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; ) , ha ||| ! &apos; ) , is ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; ) , ||| ! &apos; ) , ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; ) . ||| &apos; ) . ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ) ||| ! &apos; ) ||| 1 dom_in 1 dom_out 1 |||  ||| 17 14
+! &quot; ) ||| ! ) ||| 1 dom_out 1 |||  ||| 17 2
+! &quot; ) ||| &apos; ) ||| 1 dom_out 1 |||  ||| 17 1
+! &quot; , ahora me ha preguntado ||| ! &quot; , asked me ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , ahora ||| ! &quot; , ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , baste para que ||| will be enough to make ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , baste para ||| will be enough to ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , baste ||| will be enough ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , cuando ante el señor ||| ! &apos; , before Mr ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; , cuando ante ||| ! &apos; , before ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; , hay que decir ||| , &apos; it has to be said ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , hay que ||| , &apos; it has to be ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , hay que ||| , &apos; it has to ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , hay ||| , &apos; it has ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , la Comisión da ||| don &apos;t &apos; the Commission is sending ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , la Comisión ||| don &apos;t &apos; the Commission ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , la ||| don &apos;t &apos; the ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , pero el estadista respondería ||| ! &quot; but a statistician would reply ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , pero el estadista ||| ! &quot; but a statistician ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , pero el estadista ||| dreams ! &quot; but a statistician ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , pero el ||| ! &quot; but a ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , pero el ||| dreams ! &quot; but a ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , pero ||| ! &quot; but ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , pero ||| dreams ! &quot; but ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , que es bastante apropiado ||| ! &apos; , which is very fitting ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; , que es bastante ||| ! &apos; , which is very ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; , que es ||| ! &apos; , which is ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; , que hay ||| &apos; , we must ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; , que ||| ! &apos; , which ||| 1 dom_out 1 |||  ||| 2 1
+! &quot; , que ||| &apos; , we ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; , ||| ! &apos; , ||| 1 dom_out 1 |||  ||| 10 2
+! &quot; , ||| ! &apos; ||| 1 dom_in 1 dom_out 1 |||  ||| 10 2
+! &quot; , ||| ! &quot; , ||| 1 dom_in 1 |||  ||| 10 1
+! &quot; , ||| ! &quot; ||| 1 dom_in 1 |||  ||| 10 1
+! &quot; , ||| &apos; , ||| 1 dom_in 1 |||  ||| 10 1
+! &quot; , ||| , &apos; it ||| 1 dom_in 1 |||  ||| 10 1
+! &quot; , ||| don &apos;t &apos; ||| 1 dom_in 1 |||  ||| 10 1
+! &quot; , ||| dreams ! &quot; ||| 1 dom_in 1 |||  ||| 10 1
+! &quot; . Spinelli , que organizó ||| ! &apos; ; Spinelli , who organised ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; . Spinelli , que ||| ! &apos; ; Spinelli , who ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; . Spinelli , ||| ! &apos; ; Spinelli , ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; . Spinelli ||| ! &apos; ; Spinelli ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; . pero allí ||| ! &apos; , but there ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; . pero ||| ! &apos; , but ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; . ||| ! &apos; , ||| 1 dom_in 1 |||  ||| 37 1
+! &quot; . ||| ! &apos; . ||| 1 dom_in 1 dom_out 1 |||  ||| 37 6
+! &quot; . ||| ! &apos; ; ||| 1 dom_in 1 |||  ||| 37 1
+! &quot; . ||| ! &apos; ||| 1 dom_in 1 dom_out 1 |||  ||| 37 18
+! &quot; . ||| ! ||| 1 dom_in 1 |||  ||| 37 1
+! &quot; . ||| ! ’ . ||| 1 dom_in 1 |||  ||| 37 1
+! &quot; . ||| &apos; ! ||| 1 dom_out 1 |||  ||| 37 3
+! &quot; . ||| &apos; . ||| 1 dom_out 1 |||  ||| 37 3
+! &quot; . ||| &quot; . ||| 1 dom_in 1 |||  ||| 37 1
+! &quot; . ||| . ||| 1 dom_in 1 |||  ||| 37 1
+! &quot; . ||| me &apos; . ||| 1 dom_out 1 |||  ||| 37 1
+! &quot; .Eliminar el trabajo ||| ! &apos; To take away the jobs ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; .Eliminar el ||| ! &apos; To take away the ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; .Eliminar ||| ! &apos; To take away ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; ; Grupos PPE y ECR ||| ! &apos; ; PPE and ECR Groups ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; Grupos Verts / ALE ||| ! &apos; ; Verts / ALE Group ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; Grupos Verts / ||| ! &apos; ; Verts / ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; Grupos Verts ||| ! &apos; ; Verts ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; el sombrero ||| &apos; , and the ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; el ||| &apos; , and the ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; es hora de que ||| ! &apos; ; it is time for ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; es hora ||| ! &apos; ; it is time ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; es ||| ! &apos; ; it is ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; ; ||| ! &apos; ; ||| 1 dom_out 1 |||  ||| 4 3
+! &quot; ; ||| &apos; , and ||| 1 dom_out 1 |||  ||| 4 1
+! &quot; ? . ||| ! &apos; ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; a lo que podrían decir ||| ! &quot; at what they might claim ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; a lo que podrían ||| ! &quot; at what they might ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; a lo que ||| ! &quot; at what ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; a ||| ! &quot; at ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; contesta el presidente . ||| ! &quot; replied the President . ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; contesta el presidente . ||| use ! &quot; replied the President . ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; contesta el presidente ||| ! &quot; replied the President ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; contesta el presidente ||| use ! &quot; replied the President ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; contesta el presidente ||| usually use ! &quot; replied the President ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; contesta el ||| ! &quot; replied the ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; contesta el ||| use ! &quot; replied the ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; contesta el ||| usually use ! &quot; replied the ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; contesta la otra vaca . ||| , &quot; replied the other cow . ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; contesta la otra vaca ||| , &quot; replied the other cow ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; contesta la otra ||| , &quot; replied the other ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; contesta la ||| , &quot; replied the ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; contesta ||| ! &quot; replied ||| 1 dom_in 1 |||  ||| 4 1
+! &quot; contesta ||| , &quot; replied ||| 1 dom_in 1 |||  ||| 4 1
+! &quot; contesta ||| use ! &quot; replied ||| 1 dom_in 1 |||  ||| 4 1
+! &quot; contesta ||| usually use ! &quot; replied ||| 1 dom_in 1 |||  ||| 4 1
+! &quot; en cuanto a estos ||| ! &apos; when it comes to these ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; en cuanto a ||| ! &apos; when it comes to ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; en cuanto ||| ! &apos; when it comes ||| 1 dom_out 1 |||  ||| 1 1
+! &quot; en su informe ||| this &apos; in your report ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; en su ||| this &apos; in your ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; en ||| ! &apos; when ||| 1 dom_out 1 |||  ||| 3 1
+! &quot; en ||| enough is enough &apos; ||| 1 dom_out 1 |||  ||| 3 1
+! &quot; en ||| this &apos; in ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; era el grito de ||| ! &apos; was what ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; era el grito ||| ! &apos; was what ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; era el ||| ! &apos; was ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; era ||| ! &apos; was ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; exclamó , &quot; ||| ! &apos; she exclaimed . &apos; They ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; exclamó , &quot; ||| ! &apos; she exclaimed . &apos; ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; exclamó , ||| ! &apos; she exclaimed . ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; exclamó ||| ! &apos; she exclaimed ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; le contesté ||| be carried out in another Member States ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; le dije . ||| ! &quot; I said to her . ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; le dije ||| ! &quot; I said to her ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; le dije ||| ! &quot; I said to ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; le dije ||| ! &quot; I said ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; le ||| ! &quot; I ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| Member State are to be carried out ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| Member State are to be carried ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| Member State are to be ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| State are to be carried out in ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| State are to be carried out ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| State are to be carried ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| State are to be ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| are to be carried out in another ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| are to be carried out in ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| are to be carried out ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| are to be carried ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| are to be ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| be carried out in another Member ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| be carried out in another ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| be carried out in ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| be carried out ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| be carried ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| be ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| one Member State are to be carried ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| one Member State are to be ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| to be carried out in another Member ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| to be carried out in another ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| to be carried out in ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| to be carried out ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| to be carried ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; le ||| to be ||| 1 dom_in 1 |||  ||| 27 1
+! &quot; me contestó el piloto . ||| ? &apos; replied the pilot . ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; me contestó el piloto ||| ? &apos; replied the pilot ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; me contestó el ||| ? &apos; replied the ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; me contestó ||| ? &apos; replied ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; se ||| ! &apos; is ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; y quisiera ||| ! &apos; I would like everyone in ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; y quisiera ||| ! &apos; I would like everyone ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; y quisiera ||| ! &apos; I would like ||| 1 dom_in 1 |||  ||| 3 1
+! &quot; y ver con toda ||| ! &apos; and see in all its ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; y ver con toda ||| ! &apos; and see in all ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; y ver con ||| ! &apos; and see in ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; y ver ||| ! &apos; and see ||| 1 dom_in 1 |||  ||| 1 1
+! &quot; y ||| ! &apos; I ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; y ||| ! &apos; and ||| 1 dom_in 1 |||  ||| 2 1
+! &quot; ||| ! &apos; ( DE ) ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| ! &apos; ( DE ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| ! &apos; ( ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| ! &apos; ) ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| ! &apos; . ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| ! &apos; ||| 1 dom_in 1 dom_out 1 |||  ||| 169 75
+! &quot; ||| ! &quot; ||| 1 dom_in 1 |||  ||| 169 13
+! &quot; ||| ! ||| 1 dom_out 1 |||  ||| 169 3
+! &quot; ||| ! ’ ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| ! ” ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| &apos; ! ||| 1 dom_in 1 dom_out 1 |||  ||| 169 3
+! &quot; ||| &apos; , ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| &apos; . ||| 1 dom_in 1 |||  ||| 169 2
+! &quot; ||| &apos; ||| 1 dom_in 1 dom_out 1 |||  ||| 169 8
+! &quot; ||| &quot; ! ||| 1 dom_in 1 |||  ||| 169 2
+! &quot; ||| &quot; . ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| &quot; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| , &apos; ||| 1 dom_in 1 |||  ||| 169 2
+! &quot; ||| , &quot; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| . ||| 1 dom_in 1 dom_out 1 |||  ||| 169 6
+! &quot; ||| ? &apos; ||| 1 dom_in 1 |||  ||| 169 2
+! &quot; ||| Member State are to be carried out ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| Member State are to be carried ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| Member State are to be ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| State are to be carried out in ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| State are to be carried out ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| State are to be carried ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| State are to be ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| are ! &apos; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| are to be carried out in another ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| are to be carried out in ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| are to be carried out ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| are to be carried ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| are to be ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| be carried out in another Member ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| be carried out in another ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| be carried out in ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| be carried out ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| be carried ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| be ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| do , &apos; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| down ! &apos; ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| dreams ! &quot; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| enough is enough &apos; ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| happen . ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| is ! &apos; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| it is ! &apos; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| me &apos; ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| must happen . ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| one Member State are to be carried ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| one Member State are to be ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| prison ! &apos; ) ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| prison ! &apos; ||| 1 dom_out 1 |||  ||| 169 1
+! &quot; ||| that must happen . ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| this &apos; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| to be carried out in another Member ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| to be carried out in another ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| to be carried out in ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| to be carried out ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| to be carried ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| to be ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| use ! &quot; ||| 1 dom_in 1 |||  ||| 169 1
+! &quot; ||| usually use ! &quot; ||| 1 dom_in 1 |||  ||| 169 1
+! ( aquí nadie es tonto ) ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! ( aquí nadie es tonto ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! ( aquí nadie es ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! ( aquí nadie ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! ( aquí ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! ( faltan menos de ocho meses ||| , in less than eight months ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ocho meses ||| in less than eight months ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ocho meses ||| soon , in less than eight months ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ocho ||| , in less than eight ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ocho ||| in less than eight ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ocho ||| soon , in less than eight ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ||| , in less than ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ||| in less than ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos de ||| soon , in less than ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos ||| , in less ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos ||| in less ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan menos ||| soon , in less ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan ||| , in ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan ||| in ||| 1 dom_in 1 |||  ||| 3 1
+! ( faltan ||| soon , in ||| 1 dom_in 1 |||  ||| 3 1
+! ( ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! ( ¡ No , quiere decir ||| ! ||| 1 dom_in 1 |||  ||| 1 1
+! ( ¡ No , quiere ||| ! ||| 1 dom_in 1 |||  ||| 1 1
+! ( ¡ No , ||| ! ||| 1 dom_in 1 |||  ||| 1 1
+! ( ¡ No ||| ! ||| 1 dom_in 1 |||  ||| 1 1
+! ) , como si la educación ||| ! ) as if education ||| 1 dom_in 1 |||  ||| 1 1
+! ) , como si ||| ! ) as if ||| 1 dom_in 1 |||  ||| 1 1
+! ) , como ||| ! ) , as ||| 1 dom_out 1 |||  ||| 2 1
+! ) , como ||| ! ) as ||| 1 dom_in 1 |||  ||| 2 1
+! ) , el cumplimiento del ||| ! ) , the implementation of the ||| 1 dom_in 1 |||  ||| 1 1
+! ) , el cumplimiento ||| ! ) , the implementation ||| 1 dom_in 1 |||  ||| 1 1
+! ) , el ||| ! ) , the ||| 1 dom_in 1 |||  ||| 1 1
+! ) , fue un acto vergonzoso ||| , was an outrageous act ||| 1 dom_out 1 |||  ||| 1 1
+! ) , fue un ||| , was an ||| 1 dom_out 1 |||  ||| 1 1
+! ) , fue ||| , was ||| 1 dom_out 1 |||  ||| 1 1
+! ) , investigación , competitividad e ||| ! ) , research , competitiveness and ||| 1 dom_in 1 |||  ||| 1 1
+! ) , investigación , competitividad ||| ! ) , research , competitiveness ||| 1 dom_in 1 |||  ||| 1 1
+! ) , investigación , ||| ! ) , research , ||| 1 dom_in 1 |||  ||| 1 1
+! ) , investigación ||| ! ) , research ||| 1 dom_in 1 |||  ||| 1 1
+! ) , mientras que 100 fueron ||| ! ) , while over 100 went ||| 1 dom_in 1 |||  ||| 1 1
+! ) , mientras que 100 ||| ! ) , while over 100 ||| 1 dom_in 1 |||  ||| 1 1
+! ) , mientras que ||| ! ) , while over ||| 1 dom_in 1 |||  ||| 2 1
+! ) , mientras que ||| ! ) , while ||| 1 dom_in 1 |||  ||| 2 1
+! ) , no podríamos haber alcanzado ||| ) , we could not have achieved ||| 1 dom_in 1 |||  ||| 1 1
+! ) , no podríamos haber ||| ) , we could not have ||| 1 dom_in 1 |||  ||| 1 1
+! ) , no podríamos ||| ) , we could not ||| 1 dom_in 1 |||  ||| 1 1
+! ) , o su egonet ||| ! ) , or rather their egonet ||| 1 dom_in 1 |||  ||| 1 1
+! ) , o ||| ! ) , or ||| 1 dom_in 1 |||  ||| 1 1
+! ) , puedo decirles que , ||| ! ) - ||| 1 dom_in 1 |||  ||| 1 1
+! ) , se aleja completamente de ||| ! ) is entirely at odds with ||| 1 dom_out 1 |||  ||| 1 1
+! ) , se aleja completamente ||| ! ) is entirely at odds ||| 1 dom_out 1 |||  ||| 3 1
+! ) , se aleja completamente ||| ! ) is entirely at ||| 1 dom_out 1 |||  ||| 3 1
+! ) , se aleja completamente ||| ! ) is entirely ||| 1 dom_out 1 |||  ||| 3 1
+! ) , se aleja ||| ! ) is ||| 1 dom_out 1 |||  ||| 1 1
+! ) , se ||| ! ) is ||| 1 dom_out 1 |||  ||| 1 1
+! ) , sólo puede ser el ||| ! - can only be a ||| 1 dom_out 1 |||  ||| 1 1
+! ) , sólo puede ser ||| ! - can only be ||| 1 dom_out 1 |||  ||| 1 1
+! ) , sólo puede ||| ! - can only ||| 1 dom_out 1 |||  ||| 1 1
+! ) , todos , o al ||| ! - all , or at ||| 1 dom_in 1 |||  ||| 1 1
+! ) , todos , o ||| ! - all , or ||| 1 dom_in 1 |||  ||| 1 1
+! ) , todos , ||| ! - all , ||| 1 dom_in 1 |||  ||| 1 1
+! ) , todos ||| ! - all ||| 1 dom_in 1 |||  ||| 1 1
+! ) , ||| ! ) , ||| 1 dom_in 1 dom_out 1 |||  ||| 11 6
+! ) , ||| ! ) ||| 1 dom_out 1 |||  ||| 11 1
+! ) , ||| ! - ||| 1 dom_in 1 dom_out 1 |||  ||| 11 2
+! ) , ||| ) , ||| 1 dom_in 1 |||  ||| 11 1
+! ) , ||| , ||| 1 dom_out 1 |||  ||| 11 1
+! ) . ||| ! ) . ||| 1 dom_in 1 |||  ||| 4 2
+! ) . ||| ! ||| 1 dom_out 1 |||  ||| 4 1
+! ) . ||| ) . ||| 1 dom_in 1 |||  ||| 4 1
+! ) Estimado colega Ferber , ||| ! &quot; ) Mr Ferber , ||| 1 dom_in 1 |||  ||| 1 1
+! ) Estimado colega Ferber ||| ! &quot; ) Mr Ferber ||| 1 dom_in 1 |||  ||| 1 1
+! ) Estimado colega ||| ! &quot; ) Mr ||| 1 dom_in 1 |||  ||| 1 1
+! ) como una habitación o ||| - like to a tenement or ||| 1 dom_out 1 |||  ||| 1 1
+! ) como una habitación ||| - like to a tenement ||| 1 dom_out 1 |||  ||| 1 1
+! ) como una ||| - like to a ||| 1 dom_out 1 |||  ||| 1 1
+! ) como ||| - like to ||| 1 dom_out 1 |||  ||| 2 1
+! ) como ||| - like ||| 1 dom_out 1 |||  ||| 2 1
+! ) compaginen ||| ! ) to combine ||| 1 dom_out 1 |||  ||| 1 1
+! ) contrario a los derechos ||| , that runs counter to fundamental rights ||| 1 dom_out 1 |||  ||| 1 1
+! ) contrario a los ||| , that runs counter to fundamental ||| 1 dom_out 1 |||  ||| 1 1
+! ) contrario a ||| , that runs counter to ||| 1 dom_out 1 |||  ||| 1 1
+! ) contrario ||| , that runs counter ||| 1 dom_out 1 |||  ||| 1 1
+! ) existente tiene que ver con ||| exists , relates to ||| 1 dom_out 1 |||  ||| 1 1
+! ) existente tiene que ver ||| exists , relates ||| 1 dom_out 1 |||  ||| 1 1
+! ) existente tiene que ||| exists , ||| 1 dom_out 1 |||  ||| 2 1
+! ) existente tiene que ||| exists ||| 1 dom_out 1 |||  ||| 2 1
+! ) existente tiene ||| exists , ||| 1 dom_out 1 |||  ||| 2 1
+! ) existente tiene ||| exists ||| 1 dom_out 1 |||  ||| 2 1
+! ) existente ||| exists , ||| 1 dom_out 1 |||  ||| 2 1
+! ) existente ||| exists ||| 1 dom_out 1 |||  ||| 2 1
+! ) participar en la ||| ! ) be involved in the ||| 1 dom_out 1 |||  ||| 1 1
+! ) participar en ||| ! ) be involved in ||| 1 dom_out 1 |||  ||| 1 1
+! ) participar ||| ! ) be involved ||| 1 dom_out 1 |||  ||| 1 1
+! ) presupuesto rectificativo en el presente ||| ! ) amending budget in the current ||| 1 dom_in 1 |||  ||| 1 1
+! ) presupuesto rectificativo en el ||| ! ) amending budget in the ||| 1 dom_in 1 |||  ||| 1 1
+! ) presupuesto rectificativo en ||| ! ) amending budget in ||| 1 dom_in 1 |||  ||| 1 1
+! ) presupuesto rectificativo ||| ! ) amending budget ||| 1 dom_in 1 |||  ||| 1 1
+! ) se tiene que preparar bien ||| ! ) has to be well prepared ||| 1 dom_out 1 |||  ||| 1 1
+! ) se tiene que ||| ! ) has to be ||| 1 dom_out 1 |||  ||| 1 1
+! ) y a menudo ilegible ||| ! ) and often unreadable ||| 1 dom_in 1 |||  ||| 1 1
+! ) y a menudo ilegible – ||| ! ) and often unreadable – ||| 1 dom_in 1 |||  ||| 1 1
+! ) y a menudo ||| ! ) and often ||| 1 dom_in 1 |||  ||| 1 1
+! ) y se ratificará en 2009 ||| ! ) and ratified by 2009 ||| 1 dom_in 1 |||  ||| 1 1
+! ) y se ratificará en ||| ! ) and ratified by ||| 1 dom_in 1 |||  ||| 1 1
+! ) y se ||| ! ) and ||| 1 dom_in 1 |||  ||| 1 1
+! ) y ||| ! ) and ||| 1 dom_in 1 |||  ||| 2 2
+! ) ||| ! ) to ||| 1 dom_out 1 |||  ||| 47 1
+! ) ||| ! ) ||| 1 dom_in 1 dom_out 1 |||  ||| 47 38
+! ) ||| ! ||| 1 dom_out 1 |||  ||| 47 1
+! ) ||| ) ||| 1 dom_in 1 dom_out 1 |||  ||| 47 4
+! ) ||| , please ! ) ||| 1 dom_out 1 |||  ||| 47 1
+! ) ||| - ||| 1 dom_out 1 |||  ||| 47 1
+! ) ||| please ! ) ||| 1 dom_out 1 |||  ||| 47 1
+! , 100.000 millones de ecus al ||| ! - 100 billion per ||| 1 dom_out 1 |||  ||| 1 1
+! , 100.000 millones de ||| ! - 100 billion ||| 1 dom_out 1 |||  ||| 1 1
+! , 100.000 ||| ! - 100 ||| 1 dom_out 1 |||  ||| 1 1
+! , Vital . ||| ! , Vital . ||| 1 dom_out 1 |||  ||| 1 1
+! , Vital ||| ! , Vital ||| 1 dom_out 1 |||  ||| 1 1
+! , a condición de que se ||| ! provided that they are ||| 1 dom_out 1 |||  ||| 1 1
+! , a condición de que ||| ! provided that ||| 1 dom_out 1 |||  ||| 1 1
+! , a condición de ||| ! provided ||| 1 dom_out 1 |||  ||| 1 1
+! , a condición ||| ! provided ||| 1 dom_out 1 |||  ||| 1 1
+! , a fin de cuentas ||| , after all ||| 1 dom_in 1 |||  ||| 1 1
+! , a fin de ||| , after ||| 1 dom_in 1 |||  ||| 1 1
+! , a fin ||| , after ||| 1 dom_in 1 |||  ||| 1 1
+! , a menudo la ortodoxia de ||| , the orthodoxy of ||| 1 dom_out 1 |||  ||| 1 1
+! , a menudo la ortodoxia ||| , the orthodoxy ||| 1 dom_out 1 |||  ||| 1 1
+! , a ||| ! ||| 1 dom_out 1 |||  ||| 2 1
+! , a ||| , ||| 1 dom_out 1 |||  ||| 2 1
+! , ahí fuera , delante ||| that ; outside , in front ||| 1 dom_out 1 |||  ||| 1 1
+! , ahí fuera , ||| that ; outside , ||| 1 dom_out 1 |||  ||| 1 1
+! , ahí fuera ||| that ; outside ||| 1 dom_out 1 |||  ||| 1 1
+! , ahí ||| that ; ||| 1 dom_out 1 |||  ||| 1 1
+! , alegato ) del ||| his indictment of ||| 1 dom_out 1 |||  ||| 1 1
+! , alegato ) ||| his indictment ||| 1 dom_out 1 |||  ||| 1 1
+! , alegato ||| his indictment ||| 1 dom_out 1 |||  ||| 1 1
+! , así como , en particular ||| ! that is why I particularly welcome ||| 1 dom_in 1 |||  ||| 2 1
+! , así como , en particular ||| ! that is why I particularly ||| 1 dom_in 1 |||  ||| 2 1
+! , así como , ||| ! that is why I ||| 1 dom_in 1 |||  ||| 1 1
+! , así como ||| ! that is why ||| 1 dom_in 1 |||  ||| 1 1
+! , con ello no quiero ||| of this I do not mean to ||| 1 dom_out 1 |||  ||| 1 1
+! , con ello ||| of this ||| 1 dom_out 1 |||  ||| 1 1
+! , con ||| of ||| 1 dom_out 1 |||  ||| 1 1
+! , creemos que ||| - who ||| 1 dom_in 1 |||  ||| 1 1
+! , creemos ||| - ||| 1 dom_in 1 |||  ||| 1 1
+! , debido a ello ||| behold , as a result of this ||| 1 dom_in 1 |||  ||| 1 1
+! , debido a ||| behold , as a result of ||| 1 dom_in 1 |||  ||| 1 1
+! , debido ||| behold , as a result ||| 1 dom_in 1 |||  ||| 1 1
+! , el ganador del Premio Sajarov ||| ! , the Sakharov Prize winner ||| 1 dom_in 1 |||  ||| 1 1
+! , el ||| ! , the ||| 1 dom_in 1 |||  ||| 1 1
+! , en cuanto a su carta ||| regarding your letter ||| 1 dom_in 1 |||  ||| 1 1
+! , en cuanto a su ||| regarding your ||| 1 dom_in 1 |||  ||| 1 1
+! , en cuanto a ||| regarding ||| 1 dom_in 1 |||  ||| 1 1
+! , en primer término , debido ||| firstly by ||| 1 dom_out 1 |||  ||| 1 1
+! , en primer término , ||| firstly ||| 1 dom_out 1 |||  ||| 1 1
+! , en primer término ||| firstly ||| 1 dom_out 1 |||  ||| 1 1
+! , en un contexto bastante complicado ||| , in rather complicated ||| 1 dom_out 1 |||  ||| 2 1
+! , en un contexto bastante complicado ||| say , in rather complicated ||| 1 dom_out 1 |||  ||| 2 1
+! , en un contexto bastante ||| , in rather ||| 1 dom_out 1 |||  ||| 2 1
+! , en un contexto bastante ||| say , in rather ||| 1 dom_out 1 |||  ||| 2 1
+! , en ||| , in ||| 1 dom_out 1 |||  ||| 2 1
+! , en ||| say , in ||| 1 dom_out 1 |||  ||| 2 1
+! , es ||| principle is also ||| 1 dom_out 1 |||  ||| 2 1
+! , es ||| principle is ||| 1 dom_out 1 |||  ||| 2 1
+! , eso ya lo hemos solicitado ||| are things we have already called for ||| 1 dom_in 1 |||  ||| 3 1
+! , eso ya lo hemos solicitado ||| things we have already called for on ||| 1 dom_in 1 |||  ||| 3 1
+! , eso ya lo hemos solicitado ||| things we have already called for ||| 1 dom_in 1 |||  ||| 3 1
+! , eso ya lo hemos ||| are things we have already ||| 1 dom_in 1 |||  ||| 2 1
+! , eso ya lo hemos ||| things we have already ||| 1 dom_in 1 |||  ||| 2 1
+! , eso ya ||| already ||| 1 dom_in 1 |||  ||| 1 1
+! , esta ||| and that ||| 1 dom_out 1 |||  ||| 1 1
+! , gritan los federalistas y ||| ! &apos; say the federalists , and ||| 1 dom_out 1 |||  ||| 1 1
+! , gritan los federalistas ||| ! &apos; say the federalists , ||| 1 dom_out 1 |||  ||| 1 1
+! , hacer hincapié , hasta nuevo ||| emphasis for ||| 1 dom_out 1 |||  ||| 1 1
+! , hacer hincapié , hasta ||| emphasis for ||| 1 dom_out 1 |||  ||| 1 1
+! , hacer hincapié , ||| emphasis ||| 1 dom_out 1 |||  ||| 1 1
+! , hacer hincapié ||| emphasis ||| 1 dom_out 1 |||  ||| 1 1
+! , hay que hacer algo . ||| , a need to do something ! ||| 1 dom_in 1 |||  ||| 1 1
+! , hay que hacer algo ||| , a need to do something ||| 1 dom_in 1 |||  ||| 1 1
+! , hay que hacer ||| , a need to do ||| 1 dom_in 1 |||  ||| 1 1
+! , hay que ||| , a need to ||| 1 dom_in 1 |||  ||| 1 1
+! , hay ||| , a need ||| 1 dom_in 1 |||  ||| 1 1
+! , la Comisión de Cultura tiene ||| and that the Committee on Culture has ||| 1 dom_out 1 |||  ||| 1 1
+! , la Comisión de Cultura ||| already and that the Committee on Culture ||| 1 dom_out 1 |||  ||| 2 1
+! , la Comisión de Cultura ||| and that the Committee on Culture ||| 1 dom_out 1 |||  ||| 2 1
+! , la Comisión de ||| already and that the Committee on ||| 1 dom_out 1 |||  ||| 2 1
+! , la Comisión de ||| and that the Committee on ||| 1 dom_out 1 |||  ||| 2 1
+! , la Comisión ||| already and that the Committee ||| 1 dom_out 1 |||  ||| 2 1
+! , la Comisión ||| and that the Committee ||| 1 dom_out 1 |||  ||| 2 1
+! , la ||| already and that the ||| 1 dom_out 1 |||  ||| 2 1
+! , la ||| and that the ||| 1 dom_out 1 |||  ||| 2 1
+! , lo acepto , pero yo ||| ! I accept that , but I ||| 1 dom_in 1 |||  ||| 1 1
+! , lo acepto , pero ||| ! I accept that , but ||| 1 dom_in 1 |||  ||| 1 1
+! , lo acepto , ||| ! I accept that , ||| 1 dom_in 1 |||  ||| 1 1
+! , lo acepto ||| ! I accept that ||| 1 dom_in 1 |||  ||| 2 1
+! , lo acepto ||| ! I accept ||| 1 dom_in 1 |||  ||| 2 1
+! , lo ||| ! I ||| 1 dom_in 1 |||  ||| 1 1
+! , me refiero naturalmente a un ||| , I mean of course in ||| 1 dom_in 1 |||  ||| 1 1
+! , me refiero naturalmente a ||| , I mean of course in ||| 1 dom_in 1 |||  ||| 1 1
+! , me refiero naturalmente ||| , I mean of course ||| 1 dom_in 1 |||  ||| 1 1
+! , me refiero ||| , I mean ||| 1 dom_in 1 |||  ||| 1 1
+! , me ||| , I ||| 1 dom_in 1 |||  ||| 1 1
+! , pero , ||| . but ||| 1 dom_in 1 |||  ||| 1 1
+! , pero , ¿ por qué ||| . but why is ||| 1 dom_in 1 |||  ||| 1 1
+! , pero ||| . but ||| 1 dom_in 1 |||  ||| 1 1
+! , por su trabajo . ||| , on his work . ||| 1 dom_in 1 |||  ||| 1 1
+! , por su trabajo ||| , on his work ||| 1 dom_in 1 |||  ||| 1 1
+! , por su ||| , on his ||| 1 dom_in 1 |||  ||| 1 1
+! , por ||| , on ||| 1 dom_in 1 |||  ||| 1 1
+! , que ahora se ha ||| ! , which has now been called ||| 1 dom_in 1 |||  ||| 1 1
+! , que ahora ||| ! , which has now ||| 1 dom_in 1 |||  ||| 1 1
+! , que ||| ! , which has ||| 1 dom_in 1 |||  ||| 2 1
+! , que ||| ! , which ||| 1 dom_in 1 |||  ||| 2 1
+! , se puede discutir sobre ||| we can argue about ||| 1 dom_in 1 |||  ||| 1 1
+! , se puede discutir ||| we can argue ||| 1 dom_in 1 |||  ||| 1 1
+! , se puede ||| we can ||| 1 dom_in 1 |||  ||| 1 1
+! , se votarán mañana . ||| be put to the vote tomorrow . ||| 1 dom_out 1 |||  ||| 2 1
+! , se votarán mañana . ||| put to the vote tomorrow . ||| 1 dom_out 1 |||  ||| 2 1
+! , se votarán mañana ||| be put to the vote tomorrow ||| 1 dom_out 1 |||  ||| 2 1
+! , se votarán mañana ||| put to the vote tomorrow ||| 1 dom_out 1 |||  ||| 2 1
+! , se votarán ||| be put to the vote ||| 1 dom_out 1 |||  ||| 2 1
+! , se votarán ||| put to the vote ||| 1 dom_out 1 |||  ||| 2 1
+! , se ||| be put to the ||| 1 dom_out 1 |||  ||| 3 1
+! , se ||| put to the ||| 1 dom_out 1 |||  ||| 3 1
+! , se ||| we ||| 1 dom_in 1 |||  ||| 3 1
+! , sentaría los fundamentos estables ||| will provide the stable foundation ||| 1 dom_out 1 |||  ||| 1 1
+! , sentaría los ||| will provide the ||| 1 dom_out 1 |||  ||| 1 1
+! , sentaría ||| will provide ||| 1 dom_out 1 |||  ||| 1 1
+! , señor Presidente en ejercicio del ||| good work , President-in-Office of the ||| 1 dom_in 1 |||  ||| 2 1
+! , señor Presidente en ejercicio del ||| the good work , President-in-Office of the ||| 1 dom_in 1 |||  ||| 2 1
+! , señor Presidente en ejercicio ||| good work , President-in-Office ||| 1 dom_in 1 |||  ||| 2 1
+! , señor Presidente en ejercicio ||| the good work , President-in-Office ||| 1 dom_in 1 |||  ||| 2 1
+! , sobre cuándo levantarse por la ||| . when we get up in the ||| 1 dom_in 1 |||  ||| 1 1
+! , sobre cuándo levantarse por ||| . when we get up in ||| 1 dom_in 1 |||  ||| 1 1
+! , sobre cuándo levantarse ||| . when we get up ||| 1 dom_in 1 |||  ||| 1 1
+! , sobre cuándo ||| . when we ||| 1 dom_in 1 |||  ||| 1 1
+! , sobre ||| . ||| 1 dom_in 1 |||  ||| 1 1
+! , una integración . ||| even integration ! ||| 1 dom_out 1 |||  ||| 1 1
+! , una integración ||| even integration ||| 1 dom_out 1 |||  ||| 1 1
+! , una ||| even ||| 1 dom_out 1 |||  ||| 1 1
+! , y nosotros -el Parlamento Europeo- ||| and Parliament ||| 1 dom_out 1 |||  ||| 2 1
+! , y nosotros -el Parlamento Europeo- ||| marvellous and Parliament ||| 1 dom_out 1 |||  ||| 2 1
+! , y nosotros -el ||| and ||| 1 dom_out 1 |||  ||| 2 1
+! , y nosotros -el ||| marvellous and ||| 1 dom_out 1 |||  ||| 2 1
+! , y nosotros ||| and ||| 1 dom_out 1 |||  ||| 2 1
+! , y nosotros ||| marvellous and ||| 1 dom_out 1 |||  ||| 2 1
+! , y ||| and ||| 1 dom_out 1 |||  ||| 2 1
+! , y ||| marvellous and ||| 1 dom_out 1 |||  ||| 2 1
+! , ya ||| , because ||| 1 dom_in 1 |||  ||| 1 1
+! , ||| ! , ||| 1 dom_in 1 dom_out 1 |||  ||| 32 3
+! , ||| ! - ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| ! ||| 1 dom_in 1 dom_out 1 |||  ||| 32 3
+! , ||| , ||| 1 dom_in 1 dom_out 1 |||  ||| 32 10
+! , ||| - ||| 1 dom_in 1 |||  ||| 32 1
+! , ||| . ||| 1 dom_in 1 |||  ||| 32 2
+! , ||| already and that ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| and that ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| and ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| be put to ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| be put ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| behold , ||| 1 dom_in 1 |||  ||| 32 1
+! , ||| good work , ||| 1 dom_in 1 |||  ||| 32 1
+! , ||| principle ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| put to ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| put ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| say , ||| 1 dom_out 1 |||  ||| 32 1
+! , ||| the good work , ||| 1 dom_in 1 |||  ||| 32 1
+! , ¡ Fatuzzo ! &quot; ||| , Mr Fatuzzo ! &quot; ||| 1 dom_in 1 |||  ||| 1 1
+! , ¡ Fatuzzo ! ||| , Mr Fatuzzo ! ||| 1 dom_in 1 |||  ||| 1 1
+! , ¡ más agencias comunitarias ! ||| ! more Community agencies ||| 1 dom_out 1 |||  ||| 1 1
+! , ¡ más agencias comunitarias ||| ! more Community agencies ||| 1 dom_out 1 |||  ||| 1 1
+! , ¡ más inspectores comunitarios ! ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! , ¡ más ||| ! more ||| 1 dom_out 1 |||  ||| 1 1
+! , ¡ sólo queremos un ||| . we only want a ||| 1 dom_out 1 |||  ||| 1 1
+! , ¡ sólo queremos ||| . we only want ||| 1 dom_out 1 |||  ||| 1 1
+! , ¡ sólo ||| . we only ||| 1 dom_out 1 |||  ||| 1 1
+! , ¡ ||| ! ||| 1 dom_out 1 |||  ||| 2 1
+! , ¡ ||| . we ||| 1 dom_out 1 |||  ||| 2 1
+! , ¿ a quién ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! , ¿ a ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! , ¿ ||| ! ||| 1 dom_out 1 |||  ||| 1 1
+! - , como era , por ||| . this is the ||| 1 dom_in 1 |||  ||| 1 1
+! - , como era , ||| . this is the ||| 1 dom_in 1 |||  ||| 1 1
+! - , como era ||| . this is the ||| 1 dom_in 1 |||  ||| 1 1
+! - , con el informe que ||| support ||| 1 dom_in 1 |||  ||| 1 1
+! - , con el informe ||| support ||| 1 dom_in 1 |||  ||| 1 1
+! - , definitivamente privados de toda ||| ! - permanently deprived of any ||| 1 dom_in 1 |||  ||| 1 1
+! - , definitivamente privados de ||| ! - permanently deprived of ||| 1 dom_in 1 |||  ||| 1 1
+! - , definitivamente privados ||| ! - permanently deprived ||| 1 dom_in 1 |||  ||| 1 1
+! - , definitivamente ||| ! - permanently ||| 1 dom_in 1 |||  ||| 1 1
+! - , e ||| ! - and borders on ||| 1 dom_in 1 |||  ||| 3 1
+! - , e ||| ! - and borders ||| 1 dom_in 1 |||  ||| 3 1
+! - , e ||| ! - and ||| 1 dom_in 1 |||  ||| 3 1
+! - , mientras que se suele ||| ! - whereas one would usually ||| 1 dom_out 1 |||  ||| 1 1
+! - , mientras que se ||| ! - whereas one would ||| 1 dom_out 1 |||  ||| 1 1
+! - , mientras que ||| ! - whereas ||| 1 dom_out 1 |||  ||| 1 1
+! - , no creo que ||| ! - I do not think that ||| 1 dom_in 1 |||  ||| 1 1
+! - , no creo ||| ! - I do not think ||| 1 dom_in 1 |||  ||| 1 1
+! - , no veo que ||| ! - I do not see that ||| 1 dom_out 1 |||  ||| 1 1
+! - , no veo ||| ! - I do not see ||| 1 dom_out 1 |||  ||| 1 1
+! - , no ||| ! - I do not ||| 1 dom_in 1 |||  ||| 1 1
+! - , pero , ||| - but ||| 1 dom_out 1 |||  ||| 1 1
+! - , pero , ¡ no ||| - but not ||| 1 dom_out 1 |||  ||| 1 1
+! - , pero , ¡ ||| - but ||| 1 dom_out 1 |||  ||| 1 1
+! - , pero el Gobierno británico ||| ! - but the British Government ||| 1 dom_in 1 |||  ||| 1 1
+! - , pero el ||| ! - but the ||| 1 dom_in 1 |||  ||| 1 1
+! - , pero es mucho más ||| ! - but it is much more ||| 1 dom_out 1 |||  ||| 1 1
+! - , pero es mucho ||| ! - but it is much ||| 1 dom_out 1 |||  ||| 1 1
+! - , pero es ||| ! - but it is ||| 1 dom_out 1 |||  ||| 1 1
+! - , pero también y ||| give or take a little - and ||| 1 dom_out 1 |||  ||| 2 1
+! - , pero también y ||| or take a little - and ||| 1 dom_out 1 |||  ||| 2 1
+! - , pero también ||| give or take a little - ||| 1 dom_out 1 |||  ||| 2 1
+! - , pero también ||| or take a little - ||| 1 dom_out 1 |||  ||| 2 1
+! - , pero ||| ! - but ||| 1 dom_in 1 dom_out 1 |||  ||| 5 2
+! - , pero ||| - but ||| 1 dom_out 1 |||  ||| 5 1
+! - , pero ||| give or take a little - ||| 1 dom_out 1 |||  ||| 5 1
+! - , pero ||| or take a little - ||| 1 dom_out 1 |||  ||| 5 1
+! - , reconozco que la edad ||| ! - I recognise that age ||| 1 dom_in 1 |||  ||| 1 1
+! - , reconozco que ||| ! - I recognise that ||| 1 dom_in 1 |||  ||| 1 1
+! - , reconozco ||| ! - I recognise ||| 1 dom_in 1 |||  ||| 1 1
+! - , sin que ||| else - without even having ||| 1 dom_out 1 |||  ||| 1 1
+! - , sin ||| else - without even ||| 1 dom_out 1 |||  ||| 1 1
+! - , soplará en la ||| ! - it will be off the ||| 1 dom_out 1 |||  ||| 1 1
+! - , soplará en ||| ! - it will be off ||| 1 dom_out 1 |||  ||| 1 1
+! - , tener ||| does not make a summer ||| 1 dom_out 1 |||  ||| 3 1
+! - , tener ||| does not make a ||| 1 dom_out 1 |||  ||| 3 1
+! - , tener ||| does not make ||| 1 dom_out 1 |||  ||| 3 1
+! - , ||| ! - I ||| 1 dom_in 1 |||  ||| 15 2
+! - , ||| ! - it ||| 1 dom_out 1 |||  ||| 15 1
+! - , ||| ! - ||| 1 dom_in 1 dom_out 1 |||  ||| 15 6
+! - , ||| - ||| 1 dom_out 1 |||  ||| 15 1
+! - , ||| does not ||| 1 dom_out 1 |||  ||| 15 1
+! - , ||| does ||| 1 dom_out 1 |||  ||| 15 1
+! - , ||| else - ||| 1 dom_out 1 |||  ||| 15 1
+! - , ||| give or take a little - ||| 1 dom_out 1 |||  ||| 15 1
+! - , ||| or take a little - ||| 1 dom_out 1 |||  ||| 15 1
+! - . ||| ! ||| 1 dom_in 1 dom_out 1 |||  ||| 12 11
+! - . ||| . ||| 1 dom_in 1 |||  ||| 12 1
+! - Reconozco gustosamente ||| ! I readily concede ||| 1 dom_in 1 |||  ||| 1 1
+! - The EU , the Millennium ||| ! the EU , the Millennium ||| 1 dom_in 1 |||  ||| 1 1
+! - The EU , the ||| ! the EU , the ||| 1 dom_in 1 |||  ||| 1 1
+! - The EU , ||| ! the EU , ||| 1 dom_in 1 |||  ||| 1 1
+! - The EU ||| ! the EU ||| 1 dom_in 1 |||  ||| 1 1
+! - The ||| ! the ||| 1 dom_in 1 |||  ||| 1 1
+! - a los &quot; documentos clasificados ||| ! - to &apos; classified documents ||| 1 dom_in 1 |||  ||| 1 1
+! - a los &quot; ||| ! - to &apos; ||| 1 dom_in 1 |||  ||| 1 1
+! - a ||| ! - to ||| 1 dom_in 1 |||  ||| 1 1
+! - al descubrir que ||| ! - to discover that ||| 1 dom_out 1 |||  ||| 1 1
+! - al descubrir ||| ! - to discover ||| 1 dom_out 1 |||  ||| 1 1
+! - al ||| ! - to ||| 1 dom_out 1 |||  ||| 1 1
+! - con una flamante moneda única ||| - one with a brand-new single currency ||| 1 dom_out 1 |||  ||| 1 1
+! - con una flamante ||| - one with a brand-new ||| 1 dom_out 1 |||  ||| 3 1
+! - con una flamante ||| forget - one with a brand-new ||| 1 dom_out 1 |||  ||| 3 1
+! - con una flamante ||| not forget - one with a brand-new ||| 1 dom_out 1 |||  ||| 3 1
+! - con una ||| &apos;s not forget - one with a ||| 1 dom_out 1 |||  ||| 4 1
+! - con una ||| - one with a ||| 1 dom_out 1 |||  ||| 4 1
+! - con una ||| forget - one with a ||| 1 dom_out 1 |||  ||| 4 1
+! - con una ||| not forget - one with a ||| 1 dom_out 1 |||  ||| 4 1
+! - con ||| &apos;s not forget - one with ||| 1 dom_out 1 |||  ||| 5 1
+! - con ||| - one with ||| 1 dom_out 1 |||  ||| 5 1
+! - con ||| forget - one with ||| 1 dom_out 1 |||  ||| 5 1
+! - con ||| it ||| 1 dom_in 1 |||  ||| 5 1
+! - con ||| not forget - one with ||| 1 dom_out 1 |||  ||| 5 1
+! - concebir un programa específico para ||| ! create a programme specific to ||| 1 dom_in 1 |||  ||| 1 1
+! - concebir un programa específico ||| ! create a programme specific ||| 1 dom_in 1 |||  ||| 1 1
+! - concebir un programa ||| ! create a programme ||| 1 dom_in 1 |||  ||| 1 1
+! - concebir un ||| ! create a ||| 1 dom_in 1 |||  ||| 1 1
+! - concebir ||| ! create ||| 1 dom_in 1 |||  ||| 1 1
+! - de la energía antes de ||| ! - of the energy before ||| 1 dom_out 1 |||  ||| 1 1
+! - de la energía antes ||| ! - of the energy before ||| 1 dom_out 1 |||  ||| 1 1
+! - de la energía ||| ! - of the energy ||| 1 dom_out 1 |||  ||| 1 1
+! - de la ||| ! - of the ||| 1 dom_out 1 |||  ||| 1 1
+! - de los gastos operativos son ||| ! - of operational expenses are ||| 1 dom_out 1 |||  ||| 1 1
+! - de los gastos operativos ||| ! - of operational expenses ||| 1 dom_out 1 |||  ||| 1 1
+! - de ||| ! - of ||| 1 dom_out 1 |||  ||| 2 2
+! - del ponente liberal , como ||| of the liberal rapporteur ||| 1 dom_out 1 |||  ||| 1 1
+! - del ponente liberal , ||| of the liberal rapporteur ||| 1 dom_out 1 |||  ||| 1 1
+! - del ponente liberal ||| of the liberal rapporteur ||| 1 dom_out 1 |||  ||| 1 1
+! - del ||| of the ||| 1 dom_out 1 |||  ||| 1 1
+! - desde un punto de ||| emphasize , from an ||| 1 dom_out 1 |||  ||| 1 1
+! - desde un punto ||| emphasize , from an ||| 1 dom_out 1 |||  ||| 1 1
+! - desde un ||| emphasize , from an ||| 1 dom_out 1 |||  ||| 1 1
+! - desde ||| emphasize , from ||| 1 dom_out 1 |||  ||| 1 1
+! - el Sr. ||| Parliament ||| 1 dom_out 1 |||  ||| 1 1
+! - el ||| Parliament ||| 1 dom_out 1 |||  ||| 1 1
+! - en un instrumento jurídico ||| ! in an interminable legal ||| 1 dom_out 1 |||  ||| 3 1
+! - en un instrumento jurídico ||| is ! in an interminable legal ||| 1 dom_out 1 |||  ||| 3 1
+! - en un instrumento jurídico ||| it is ! in an interminable legal ||| 1 dom_out 1 |||  ||| 3 1
+! - en un instrumento ||| ! in an interminable ||| 1 dom_out 1 |||  ||| 3 1
+! - en un instrumento ||| is ! in an interminable ||| 1 dom_out 1 |||  ||| 3 1
+! - en un instrumento ||| it is ! in an interminable ||| 1 dom_out 1 |||  ||| 3 1
+! - en un ||| ! in an ||| 1 dom_out 1 |||  ||| 3 1
+! - en un ||| is ! in an ||| 1 dom_out 1 |||  ||| 3 1
+! - en un ||| it is ! in an ||| 1 dom_out 1 |||  ||| 3 1
+! - en ||| ! in ||| 1 dom_out 1 |||  ||| 3 1
+! - en ||| is ! in ||| 1 dom_out 1 |||  ||| 3 1
+! - en ||| it is ! in ||| 1 dom_out 1 |||  ||| 3 1
+! - establecen que el acceso de ||| ! - stipulate that access to ||| 1 dom_in 1 |||  ||| 1 1
+! - establecen que el acceso ||| ! - stipulate that access ||| 1 dom_in 1 |||  ||| 1 1
+! - establecen que ||| ! - stipulate that ||| 1 dom_in 1 |||  ||| 1 1
+! - establecen ||| ! - stipulate ||| 1 dom_in 1 |||  ||| 1 1
+! - ha actuado a tiempo : ||| ! - took timely action : it ||| 1 dom_in 1 |||  ||| 2 1
+! - ha actuado a tiempo : ||| ! - took timely action : ||| 1 dom_in 1 |||  ||| 2 1
+! - ha actuado a tiempo ||| ! - took timely action ||| 1 dom_in 1 |||  ||| 2 1
+! - ha actuado a tiempo ||| ! - took timely ||| 1 dom_in 1 |||  ||| 2 1
+! - ha actuado a ||| ! - took ||| 1 dom_in 1 |||  ||| 1 1
+! - ha actuado ||| ! - took ||| 1 dom_in 1 |||  ||| 1 1
+! - hemos creado 500.000 ||| ! - we have created 500 ||| 1 dom_out 1 |||  ||| 1 1
+! - hemos creado ||| ! - we have created ||| 1 dom_out 1 |||  ||| 1 1
+! - hemos ||| ! - we have ||| 1 dom_out 1 |||  ||| 1 1
+! - los belgas , los franceses ||| ! - the Belgians , the French ||| 1 dom_in 1 |||  ||| 1 1
+! - los belgas , los ||| ! - the Belgians , the ||| 1 dom_in 1 |||  ||| 1 1
+! - los belgas , ||| ! - the Belgians , ||| 1 dom_in 1 |||  ||| 1 1
+! - los belgas ||| ! - the Belgians ||| 1 dom_in 1 |||  ||| 1 1
+! - los ||| ! - the ||| 1 dom_in 1 |||  ||| 1 1
+! - mientras que el ||| ! - while the ||| 1 dom_out 1 |||  ||| 1 1
+! - mientras que ||| ! - while ||| 1 dom_out 1 |||  ||| 1 1
+! - no atribuya un papel fundamental ||| - did not focus ||| 1 dom_out 1 |||  ||| 1 1
+! - no atribuya un papel ||| - did not focus ||| 1 dom_out 1 |||  ||| 1 1
+! - no atribuya un ||| - did not focus ||| 1 dom_out 1 |||  ||| 1 1
+! - no atribuya ||| - did not focus ||| 1 dom_out 1 |||  ||| 1 1
+! - no ||| - did not ||| 1 dom_out 1 |||  ||| 2 1
+! - no ||| . ||| 1 dom_out 1 |||  ||| 2 1
+! - obliga a las empresas a ||| ! - that is forcing companies to ||| 1 dom_out 1 |||  ||| 1 1
+! - obliga a las empresas ||| ! - that is forcing companies ||| 1 dom_out 1 |||  ||| 1 1
+! - obliga a ||| ! - that is forcing ||| 1 dom_out 1 |||  ||| 1 1
+! - para abordar esta terrible ||| ! - to deal with this terrible ||| 1 dom_out 1 |||  ||| 1 1
+! - para abordar esta ||| ! - to deal with this ||| 1 dom_out 1 |||  ||| 1 1
+! - para abordar ||| ! - to deal with ||| 1 dom_out 1 |||  ||| 1 1
+! - para ||| ! - to ||| 1 dom_out 1 |||  ||| 1 1
+! - pedir a los contribuyentes de ||| ! - to ask ordinary taxpayers of ||| 1 dom_out 1 |||  ||| 1 1
+! - pedir a los contribuyentes ||| ! - to ask ordinary taxpayers ||| 1 dom_out 1 |||  ||| 1 1
+! - pedir a ||| ! - to ask ordinary ||| 1 dom_out 1 |||  ||| 1 1
+! - pedir ||| ! - to ask ||| 1 dom_out 1 |||  ||| 1 1
+! - pero el hecho es que ||| ! - but in fact , ||| 1 dom_out 1 |||  ||| 1 1
+! - pero el hecho ||| ! - but in fact ||| 1 dom_out 1 |||  ||| 1 1
+! - pero el ||| ! - but in ||| 1 dom_out 1 |||  ||| 1 1
+! - pero ||| ! - but ||| 1 dom_out 1 |||  ||| 1 1
+! - por decirlo claramente . ||| , to put it quite bluntly . ||| 1 dom_out 1 |||  ||| 1 1
+! - por decirlo claramente ||| , to put it quite bluntly ||| 1 dom_out 1 |||  ||| 1 1
+! - por decirlo ||| , to put it ||| 1 dom_out 1 |||  ||| 1 1
+! - por desajuste de ||| out . ||| 1 dom_out 1 |||  ||| 2 1
+! - por desajuste de ||| watch out . ||| 1 dom_out 1 |||  ||| 2 1
+! - por desajuste ||| out . ||| 1 dom_out 1 |||  ||| 2 1
+! - por desajuste ||| watch out . ||| 1 dom_out 1 |||  ||| 2 1
+! - por ||| , to ||| 1 dom_out 1 |||  ||| 2 1
+! - por ||| . ||| 1 dom_out 1 |||  ||| 2 1
+! - que , con ||| , with ||| 1 dom_out 1 |||  ||| 1 1
+! - que , ||| , ||| 1 dom_out 1 |||  ||| 1 1
+! - que era el ||| ! - that it was the ||| 1 dom_out 1 |||  ||| 1 1
+! - que era el único ||| ! - that it was the only ||| 1 dom_out 1 |||  ||| 1 1
+! - que era ||| ! - that it was ||| 1 dom_out 1 |||  ||| 1 1
+! - que estemos en contra del ||| that we disagree with the ||| 1 dom_out 1 |||  ||| 1 1
+! - que estemos en contra ||| that we disagree with ||| 1 dom_out 1 |||  ||| 1 1
+! - que interesa a ||| ! - which is of interest to ||| 1 dom_out 1 |||  ||| 1 1
+! - que interesa ||| ! - which is of interest ||| 1 dom_out 1 |||  ||| 1 1
+! - que presentó la propuesta de ||| ! - who tabled the proposal for ||| 1 dom_in 1 |||  ||| 1 1
+! - que presentó la propuesta ||| ! - who tabled the proposal ||| 1 dom_in 1 |||  ||| 1 1
+! - que presentó la ||| ! - who tabled the ||| 1 dom_in 1 |||  ||| 1 1
+! - que presentó ||| ! - who tabled ||| 1 dom_in 1 |||  ||| 1 1
+! - que ||| ! - I ||| 1 dom_in 1 |||  ||| 5 1
+! - que ||| ! - that ||| 1 dom_out 1 |||  ||| 5 1
+! - que ||| ! - which ||| 1 dom_out 1 |||  ||| 5 1
+! - que ||| ! - who ||| 1 dom_in 1 |||  ||| 5 1
+! - que ||| that ||| 1 dom_out 1 |||  ||| 5 1
+! - sobre la coordinación en el ||| - relating to applying coordination in the ||| 1 dom_in 1 |||  ||| 1 1
+! - sobre la coordinación en ||| - relating to applying coordination in ||| 1 dom_in 1 |||  ||| 1 1
+! - sobre la coordinación ||| - relating to applying coordination ||| 1 dom_in 1 |||  ||| 1 1
+! - sobre la ||| - relating to applying ||| 1 dom_in 1 |||  ||| 1 1
+! - sobre ||| - relating to ||| 1 dom_in 1 |||  ||| 2 1
+! - sobre ||| - relating ||| 1 dom_in 1 |||  ||| 2 1
+! - y el 0,1 % del ||| ! - and 0.1 % of the ||| 1 dom_out 1 |||  ||| 1 1
+! - y el 0,1 % ||| ! - and 0.1 % ||| 1 dom_out 1 |||  ||| 1 1
+! - y las violaciones de ||| ! - denounced infringements of ||| 1 dom_out 1 |||  ||| 1 1
+! - y las violaciones ||| ! - denounced infringements ||| 1 dom_out 1 |||  ||| 1 1
+! - y limita así la sobreexplotación ||| ! - thereby restricting the overexploitation ||| 1 dom_in 1 |||  ||| 1 1
+! - y limita así la ||| ! - thereby restricting the ||| 1 dom_in 1 |||  ||| 1 1
+! - y limita así ||| ! - thereby restricting ||| 1 dom_in 1 |||  ||| 1 1
+! - y no selectivamente , para ||| fully , and not selectively - so ||| 1 dom_out 1 |||  ||| 1 1
+! - y no selectivamente , ||| fully , and not selectively - ||| 1 dom_out 1 |||  ||| 1 1
+! - y no selectivamente ||| fully , and not selectively ||| 1 dom_out 1 |||  ||| 1 1
+! - y no ||| fully , and not ||| 1 dom_out 1 |||  ||| 1 1
+! - y ||| ! - and ||| 1 dom_out 1 |||  ||| 3 1
+! - y ||| ! - denounced ||| 1 dom_out 1 |||  ||| 3 1
+! - y ||| fully , and ||| 1 dom_out 1 |||  ||| 3 1
+! - ||| ! - ||| 1 dom_in 1 dom_out 1 |||  ||| 24 24

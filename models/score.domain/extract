@@ -1,0 +1,1000 @@
+! ! ! ) ||| ! ! ! ) ||| 0-0 1-1 2-1 2-2 3-3 ||| 1880141
+! ! ! ) ||| ! ! ! ) ||| 0-0 1-1 2-2 3-3 ||| 838709
+! ! ! ||| ! ! ! ! ||| 0-0 0-1 1-2 2-3 ||| 20689
+! ! ! ||| ! ! ! ||| 0-0 1-1 2-1 2-2 ||| 1880141
+! ! ! ||| ! ! ! ||| 0-0 1-1 2-2 ||| 838709
+! ! ! ||| ! ||| 0-0 1-0 2-0 ||| 1705770
+! ! ! » , ||| &apos; ! ||| 3-0 0-1 1-1 2-1 ||| 1705770
+! ! ! » , ||| fluctuations &apos; ! ||| 3-1 0-2 1-2 2-2 ||| 1705770
+! ! ! » , ||| rate fluctuations &apos; ! ||| 3-2 0-3 1-3 2-3 ||| 1705770
+! ! ! » ||| &apos; ! ||| 3-0 0-1 1-1 2-1 ||| 1705770
+! ! ! » ||| fluctuations &apos; ! ||| 3-1 0-2 1-2 2-2 ||| 1705770
+! ! ! » ||| rate fluctuations &apos; ! ||| 3-2 0-3 1-3 2-3 ||| 1705770
+! ! ) , en caso de ||| ! ) in the event that we ||| 0-0 1-0 2-1 4-2 5-4 6-5 ||| 405195
+! ! ) , en caso de ||| ! ) in the event that ||| 0-0 1-0 2-1 4-2 5-4 6-5 ||| 405195
+! ! ) , en caso ||| ! ) in the event ||| 0-0 1-0 2-1 4-2 5-4 ||| 405195
+! ! ) , en ||| ! ) in the ||| 0-0 1-0 2-1 4-2 ||| 405195
+! ! ) , en ||| ! ) in ||| 0-0 1-0 2-1 4-2 ||| 405195
+! ! ) , ||| ! ) ||| 0-0 1-0 2-1 ||| 405195
+! ! ) ||| ! ! ) ||| 0-0 1-0 1-1 2-2 ||| 1880141
+! ! ) ||| ! ! ) ||| 0-0 1-1 2-2 ||| 838709
+! ! ) ||| ! ) ||| 0-0 1-0 2-1 ||| 405195
+! ! señores de la tribuna ||| ! ladies and gentlemen in the gallery ||| 0-0 1-0 2-1 2-2 2-3 3-4 4-5 5-6 ||| 1585386
+! ! señores de la ||| ! ladies and gentlemen in the ||| 0-0 1-0 2-1 2-2 2-3 3-4 4-5 ||| 1585386
+! ! señores de ||| ! ladies and gentlemen in ||| 0-0 1-0 2-1 2-2 2-3 3-4 ||| 1585386
+! ! señores ||| ! ladies and gentlemen ||| 0-0 1-0 2-1 2-2 2-3 ||| 1585386
+! ! ||| ! ! ! ||| 0-0 0-1 1-2 ||| 20689
+! ! ||| ! ! ||| 0-0 1-0 1-1 ||| 1733235
+! ! ||| ! ! ||| 0-0 1-0 1-1 ||| 1880141
+! ! ||| ! ! ||| 0-0 1-1 ||| 20689
+! ! ||| ! ! ||| 0-0 1-1 ||| 838709
+! ! ||| ! ! ||| 0-0 1-1 ||| 838709
+! ! ||| ! ||| 0-0 1-0 ||| 1585386
+! ! ||| ! ||| 0-0 1-0 ||| 268817
+! ! ||| ! ||| 0-0 1-0 ||| 405195
+! ! ||| ! ||| 0-0 1-0 ||| 997044
+! &#93; ||| ! ) Member ||| 0-0 1-1 ||| 1682515
+! &#93; ||| ! ) ||| 0-0 1-1 ||| 1682515
+! &apos; ||| ! &apos; ||| 0-0 1-1 ||| 1021572
+! &apos; ||| . &apos; ||| 0-0 1-1 ||| 137377
+! &apos; ||| ? &quot; ||| 0-0 1-1 ||| 16716
+! &quot; ) , ha terminado , ||| ! &apos; ) , is over , ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 992563
+! &quot; ) , ha terminado ||| ! &apos; ) , is over ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 992563
+! &quot; ) , ha ||| ! &apos; ) , is ||| 0-0 1-1 2-2 3-3 4-4 ||| 992563
+! &quot; ) , ||| ! &apos; ) , ||| 0-0 1-1 2-2 3-3 ||| 992563
+! &quot; ) . ||| &apos; ) . ||| 1-0 2-1 3-2 ||| 1018532
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1076772
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1082226
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1146243
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1247730
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1395261
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1477476
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1477478
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 1477485
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 779654
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 808889
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 836688
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 912850
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 913931
+! &quot; ) ||| ! &apos; ) ||| 0-0 1-1 2-2 ||| 992563
+! &quot; ) ||| ! ) ||| 0-0 1-0 2-1 ||| 1153901
+! &quot; ) ||| ! ) ||| 0-0 2-1 ||| 1451998
+! &quot; ) ||| &apos; ) ||| 1-0 2-1 ||| 1018532
+! &quot; , ahora me ha preguntado ||| ! &quot; , asked me ||| 0-0 1-1 2-2 5-3 6-3 4-4 ||| 72743
+! &quot; , ahora ||| ! &quot; , ||| 0-0 1-1 2-2 ||| 72743
+! &quot; , baste para que ||| will be enough to make ||| 3-0 3-1 3-2 4-3 5-4 ||| 104684
+! &quot; , baste para ||| will be enough to ||| 3-0 3-1 3-2 4-3 ||| 104684
+! &quot; , baste ||| will be enough ||| 3-0 3-1 3-2 ||| 104684
+! &quot; , cuando ante el señor ||| ! &apos; , before Mr ||| 0-0 1-1 2-2 3-3 4-3 5-4 6-4 ||| 1173393
+! &quot; , cuando ante ||| ! &apos; , before ||| 0-0 1-1 2-2 3-3 4-3 ||| 1173393
+! &quot; , hay que decir ||| , &apos; it has to be said ||| 0-0 1-1 2-2 3-3 4-4 5-6 ||| 802396
+! &quot; , hay que ||| , &apos; it has to be ||| 0-0 1-1 2-2 3-3 4-4 ||| 802396
+! &quot; , hay que ||| , &apos; it has to ||| 0-0 1-1 2-2 3-3 4-4 ||| 802396
+! &quot; , hay ||| , &apos; it has ||| 0-0 1-1 2-2 3-3 ||| 802396
+! &quot; , la Comisión da ||| don &apos;t &apos; the Commission is sending ||| 0-0 2-1 1-2 3-3 4-4 5-5 5-6 ||| 547070
+! &quot; , la Comisión ||| don &apos;t &apos; the Commission ||| 0-0 2-1 1-2 3-3 4-4 ||| 547070
+! &quot; , la ||| don &apos;t &apos; the ||| 0-0 2-1 1-2 3-3 ||| 547070
+! &quot; , pero el estadista respondería ||| ! &quot; but a statistician would reply ||| 0-0 1-1 3-2 4-3 5-4 6-5 6-6 ||| 92748
+! &quot; , pero el estadista ||| ! &quot; but a statistician ||| 0-0 1-1 3-2 4-3 5-4 ||| 92748
+! &quot; , pero el estadista ||| dreams ! &quot; but a statistician ||| 0-1 1-2 3-3 4-4 5-5 ||| 92748
+! &quot; , pero el ||| ! &quot; but a ||| 0-0 1-1 3-2 4-3 ||| 92748
+! &quot; , pero el ||| dreams ! &quot; but a ||| 0-1 1-2 3-3 4-4 ||| 92748
+! &quot; , pero ||| ! &quot; but ||| 0-0 1-1 3-2 ||| 92748
+! &quot; , pero ||| dreams ! &quot; but ||| 0-1 1-2 3-3 ||| 92748
+! &quot; , que es bastante apropiado ||| ! &apos; , which is very fitting ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 1195343
+! &quot; , que es bastante ||| ! &apos; , which is very ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 1195343
+! &quot; , que es ||| ! &apos; , which is ||| 0-0 1-1 2-2 3-3 4-4 ||| 1195343
+! &quot; , que hay ||| &apos; , we must ||| 1-0 2-1 3-2 4-3 ||| 26136
+! &quot; , que ||| ! &apos; , which ||| 0-0 1-1 2-2 3-3 ||| 1195343
+! &quot; , que ||| &apos; , we ||| 1-0 2-1 3-2 ||| 26136
+! &quot; , ||| ! &apos; , ||| 0-0 1-1 2-2 ||| 1173393
+! &quot; , ||| ! &apos; , ||| 0-0 1-1 2-2 ||| 1195343
+! &quot; , ||| ! &apos; ||| 0-0 1-1 ||| 1311162
+! &quot; , ||| ! &apos; ||| 0-0 1-1 ||| 909673
+! &quot; , ||| ! &quot; , ||| 0-0 1-1 2-2 ||| 72743
+! &quot; , ||| ! &quot; ||| 0-0 1-1 ||| 92748
+! &quot; , ||| &apos; , ||| 1-0 2-1 ||| 26136
+! &quot; , ||| , &apos; it ||| 0-0 1-1 2-2 ||| 802396
+! &quot; , ||| don &apos;t &apos; ||| 0-0 2-1 1-2 ||| 547070
+! &quot; , ||| dreams ! &quot; ||| 0-1 1-2 ||| 92748
+! &quot; . Spinelli , que organizó ||| ! &apos; ; Spinelli , who organised ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 867695
+! &quot; . Spinelli , que ||| ! &apos; ; Spinelli , who ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 867695
+! &quot; . Spinelli , ||| ! &apos; ; Spinelli , ||| 0-0 1-1 2-2 3-3 4-4 ||| 867695
+! &quot; . Spinelli ||| ! &apos; ; Spinelli ||| 0-0 1-1 2-2 3-3 ||| 867695
+! &quot; . pero allí ||| ! &apos; , but there ||| 0-0 1-1 2-2 3-3 4-4 ||| 264019
+! &quot; . pero ||| ! &apos; , but ||| 0-0 1-1 2-2 3-3 ||| 264019
+! &quot; . ||| ! &apos; , ||| 0-0 1-1 2-2 ||| 264019
+! &quot; . ||| ! &apos; . ||| 0-0 1-1 2-2 ||| 1111261
+! &quot; . ||| ! &apos; . ||| 0-0 1-1 2-2 ||| 1231675
+! &quot; . ||| ! &apos; . ||| 0-0 1-1 2-2 ||| 1251822
+! &quot; . ||| ! &apos; . ||| 0-0 1-1 2-2 ||| 764316
+! &quot; . ||| ! &apos; . ||| 0-0 1-1 2-2 ||| 766263
+! &quot; . ||| ! &apos; . ||| 0-0 1-1 2-2 ||| 874658
+! &quot; . ||| ! &apos; ; ||| 0-0 1-1 2-2 ||| 867695
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1036307
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1059140
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1059273
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1086443
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1096048
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1173494
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1277894
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1306417
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1315655
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1315794
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1364590
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 1395266
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 177518
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 224109
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 866657
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 898540
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 966329
+! &quot; . ||| ! &apos; ||| 0-0 2-0 1-1 ||| 994768
+! &quot; . ||| ! ||| 0-0 1-0 2-0 ||| 956641
+! &quot; . ||| ! ’ . ||| 0-0 1-1 2-2 ||| 521436
+! &quot; . ||| &apos; ! ||| 1-0 0-1 2-1 ||| 1046936
+! &quot; . ||| &apos; ! ||| 1-0 0-1 2-1 ||| 1125432
+! &quot; . ||| &apos; ! ||| 1-0 0-1 2-1 ||| 1146179
+! &quot; . ||| &apos; . ||| 0-0 1-0 2-1 ||| 1252874
+! &quot; . ||| &apos; . ||| 1-0 2-1 ||| 1165846
+! &quot; . ||| &apos; . ||| 1-0 2-1 ||| 1408787
+! &quot; . ||| &quot; . ||| 1-0 2-1 ||| 23776
+! &quot; . ||| . ||| 2-0 ||| 182885
+! &quot; . ||| me &apos; . ||| 1-1 2-2 ||| 1165846
+! &quot; .Eliminar el trabajo ||| ! &apos; To take away the jobs ||| 0-0 1-1 2-2 2-3 2-4 3-5 4-6 ||| 866175
+! &quot; .Eliminar el ||| ! &apos; To take away the ||| 0-0 1-1 2-2 2-3 2-4 3-5 ||| 866175
+! &quot; .Eliminar ||| ! &apos; To take away ||| 0-0 1-1 2-2 2-3 2-4 ||| 866175
+! &quot; ; Grupos PPE y ECR ||| ! &apos; ; PPE and ECR Groups ||| 0-0 1-1 2-2 4-3 5-4 6-5 3-6 ||| 1477485
+! &quot; ; Grupos Verts / ALE ||| ! &apos; ; Verts / ALE Group ||| 0-0 1-1 2-2 3-3 4-3 5-4 6-5 6-6 ||| 1477485
+! &quot; ; Grupos Verts / ||| ! &apos; ; Verts / ||| 0-0 1-1 2-2 3-3 4-3 5-4 ||| 1477485
+! &quot; ; Grupos Verts ||| ! &apos; ; Verts ||| 0-0 1-1 2-2 3-3 4-3 ||| 1477485
+! &quot; ; el sombrero ||| &apos; , and the ||| 1-0 0-1 2-2 3-3 ||| 1156202
+! &quot; ; el ||| &apos; , and the ||| 1-0 0-1 2-2 3-3 ||| 1156202
+! &quot; ; es hora de que ||| ! &apos; ; it is time for ||| 0-0 1-1 2-2 3-3 3-4 4-5 5-6 6-6 ||| 1345417
+! &quot; ; es hora ||| ! &apos; ; it is time ||| 0-0 1-1 2-2 3-3 3-4 4-5 ||| 1345417
+! &quot; ; es ||| ! &apos; ; it is ||| 0-0 1-1 2-2 3-3 3-4 ||| 1345417
+! &quot; ; ||| ! &apos; ; ||| 0-0 1-1 2-2 ||| 1345417
+! &quot; ; ||| ! &apos; ; ||| 0-0 1-1 2-2 ||| 1477485
+! &quot; ; ||| ! &apos; ; ||| 0-0 1-1 2-2 ||| 1477485
+! &quot; ; ||| &apos; , and ||| 1-0 0-1 2-2 ||| 1156202
+! &quot; ? . ||| ! &apos; ||| 0-0 2-0 3-0 1-1 ||| 179326
+! &quot; a lo que podrían decir ||| ! &quot; at what they might claim ||| 0-0 1-1 2-2 3-3 4-3 5-4 5-5 6-6 ||| 226741
+! &quot; a lo que podrían ||| ! &quot; at what they might ||| 0-0 1-1 2-2 3-3 4-3 5-4 5-5 ||| 226741
+! &quot; a lo que ||| ! &quot; at what ||| 0-0 1-1 2-2 3-3 4-3 ||| 226741
+! &quot; a ||| ! &quot; at ||| 0-0 1-1 2-2 ||| 226741
+! &quot; contesta el presidente . ||| ! &quot; replied the President . ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 88527
+! &quot; contesta el presidente . ||| use ! &quot; replied the President . ||| 0-1 1-2 2-3 3-4 4-5 5-6 ||| 88527
+! &quot; contesta el presidente ||| ! &quot; replied the President ||| 0-0 1-1 2-2 3-3 4-4 ||| 88527
+! &quot; contesta el presidente ||| use ! &quot; replied the President ||| 0-1 1-2 2-3 3-4 4-5 ||| 88527
+! &quot; contesta el presidente ||| usually use ! &quot; replied the President ||| 0-2 1-3 2-4 3-5 4-6 ||| 88527
+! &quot; contesta el ||| ! &quot; replied the ||| 0-0 1-1 2-2 3-3 ||| 88527
+! &quot; contesta el ||| use ! &quot; replied the ||| 0-1 1-2 2-3 3-4 ||| 88527
+! &quot; contesta el ||| usually use ! &quot; replied the ||| 0-2 1-3 2-4 3-5 ||| 88527
+! &quot; contesta la otra vaca . ||| , &quot; replied the other cow . ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 137379
+! &quot; contesta la otra vaca ||| , &quot; replied the other cow ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 137379
+! &quot; contesta la otra ||| , &quot; replied the other ||| 0-0 1-1 2-2 3-3 4-4 ||| 137379
+! &quot; contesta la ||| , &quot; replied the ||| 0-0 1-1 2-2 3-3 ||| 137379
+! &quot; contesta ||| ! &quot; replied ||| 0-0 1-1 2-2 ||| 88527
+! &quot; contesta ||| , &quot; replied ||| 0-0 1-1 2-2 ||| 137379
+! &quot; contesta ||| use ! &quot; replied ||| 0-1 1-2 2-3 ||| 88527
+! &quot; contesta ||| usually use ! &quot; replied ||| 0-2 1-3 2-4 ||| 88527
+! &quot; en cuanto a estos ||| ! &apos; when it comes to these ||| 0-0 1-1 2-2 3-3 3-4 4-5 5-6 ||| 1196982
+! &quot; en cuanto a ||| ! &apos; when it comes to ||| 0-0 1-1 2-2 3-3 3-4 4-5 ||| 1196982
+! &quot; en cuanto ||| ! &apos; when it comes ||| 0-0 1-1 2-2 3-3 3-4 ||| 1196982
+! &quot; en su informe ||| this &apos; in your report ||| 0-0 1-1 2-2 3-3 4-4 ||| 222031
+! &quot; en su ||| this &apos; in your ||| 0-0 1-1 2-2 3-3 ||| 222031
+! &quot; en ||| ! &apos; when ||| 0-0 1-1 2-2 ||| 1196982
+! &quot; en ||| enough is enough &apos; ||| 0-0 1-3 ||| 1017365
+! &quot; en ||| this &apos; in ||| 0-0 1-1 2-2 ||| 222031
+! &quot; era el grito de ||| ! &apos; was what ||| 0-0 1-1 2-2 4-3 ||| 177584
+! &quot; era el grito ||| ! &apos; was what ||| 0-0 1-1 2-2 4-3 ||| 177584
+! &quot; era el ||| ! &apos; was ||| 0-0 1-1 2-2 ||| 177584
+! &quot; era ||| ! &apos; was ||| 0-0 1-1 2-2 ||| 177584
+! &quot; exclamó , &quot; ||| ! &apos; she exclaimed . &apos; They ||| 0-0 1-1 2-2 2-3 3-4 4-5 ||| 146430
+! &quot; exclamó , &quot; ||| ! &apos; she exclaimed . &apos; ||| 0-0 1-1 2-2 2-3 3-4 4-5 ||| 146430
+! &quot; exclamó , ||| ! &apos; she exclaimed . ||| 0-0 1-1 2-2 2-3 3-4 ||| 146430
+! &quot; exclamó ||| ! &apos; she exclaimed ||| 0-0 1-1 2-2 2-3 ||| 146430
+! &quot; le contesté ||| be carried out in another Member States ||| 0-0 3-6 ||| 140517
+! &quot; le dije . ||| ! &quot; I said to her . ||| 0-0 1-1 2-2 3-3 4-6 ||| 131634
+! &quot; le dije ||| ! &quot; I said to her ||| 0-0 1-1 2-2 3-3 ||| 131634
+! &quot; le dije ||| ! &quot; I said to ||| 0-0 1-1 2-2 3-3 ||| 131634
+! &quot; le dije ||| ! &quot; I said ||| 0-0 1-1 2-2 3-3 ||| 131634
+! &quot; le ||| ! &quot; I ||| 0-0 1-1 2-2 ||| 131634
+! &quot; le ||| Member State are to be carried out ||| 0-4 ||| 140517
+! &quot; le ||| Member State are to be carried ||| 0-4 ||| 140517
+! &quot; le ||| Member State are to be ||| 0-4 ||| 140517
+! &quot; le ||| State are to be carried out in ||| 0-3 ||| 140517
+! &quot; le ||| State are to be carried out ||| 0-3 ||| 140517
+! &quot; le ||| State are to be carried ||| 0-3 ||| 140517
+! &quot; le ||| State are to be ||| 0-3 ||| 140517
+! &quot; le ||| are to be carried out in another ||| 0-2 ||| 140517
+! &quot; le ||| are to be carried out in ||| 0-2 ||| 140517
+! &quot; le ||| are to be carried out ||| 0-2 ||| 140517
+! &quot; le ||| are to be carried ||| 0-2 ||| 140517
+! &quot; le ||| are to be ||| 0-2 ||| 140517
+! &quot; le ||| be carried out in another Member ||| 0-0 ||| 140517
+! &quot; le ||| be carried out in another ||| 0-0 ||| 140517
+! &quot; le ||| be carried out in ||| 0-0 ||| 140517
+! &quot; le ||| be carried out ||| 0-0 ||| 140517
+! &quot; le ||| be carried ||| 0-0 ||| 140517
+! &quot; le ||| be ||| 0-0 ||| 140517
+! &quot; le ||| one Member State are to be carried ||| 0-5 ||| 140517
+! &quot; le ||| one Member State are to be ||| 0-5 ||| 140517
+! &quot; le ||| to be carried out in another Member ||| 0-1 ||| 140517
+! &quot; le ||| to be carried out in another ||| 0-1 ||| 140517
+! &quot; le ||| to be carried out in ||| 0-1 ||| 140517
+! &quot; le ||| to be carried out ||| 0-1 ||| 140517
+! &quot; le ||| to be carried ||| 0-1 ||| 140517
+! &quot; le ||| to be ||| 0-1 ||| 140517
+! &quot; me contestó el piloto . ||| ? &apos; replied the pilot . ||| 0-0 1-1 2-2 3-2 4-3 5-4 6-5 ||| 91297
+! &quot; me contestó el piloto ||| ? &apos; replied the pilot ||| 0-0 1-1 2-2 3-2 4-3 5-4 ||| 91297
+! &quot; me contestó el ||| ? &apos; replied the ||| 0-0 1-1 2-2 3-2 4-3 ||| 91297
+! &quot; me contestó ||| ? &apos; replied ||| 0-0 1-1 2-2 3-2 ||| 91297
+! &quot; se ||| ! &apos; is ||| 0-0 1-1 2-2 ||| 176968
+! &quot; y quisiera ||| ! &apos; I would like everyone in ||| 0-0 1-1 2-2 3-3 3-4 ||| 177518
+! &quot; y quisiera ||| ! &apos; I would like everyone ||| 0-0 1-1 2-2 3-3 3-4 ||| 177518
+! &quot; y quisiera ||| ! &apos; I would like ||| 0-0 1-1 2-2 3-3 3-4 ||| 177518
+! &quot; y ver con toda ||| ! &apos; and see in all its ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 797495
+! &quot; y ver con toda ||| ! &apos; and see in all ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 797495
+! &quot; y ver con ||| ! &apos; and see in ||| 0-0 1-1 2-2 3-3 4-4 ||| 797495
+! &quot; y ver ||| ! &apos; and see ||| 0-0 1-1 2-2 3-3 ||| 797495
+! &quot; y ||| ! &apos; I ||| 0-0 1-1 2-2 ||| 177518
+! &quot; y ||| ! &apos; and ||| 0-0 1-1 2-2 ||| 797495
+! &quot; ||| ! &apos; ( DE ) ||| 0-0 1-1 ||| 899480
+! &quot; ||| ! &apos; ( DE ||| 0-0 1-1 ||| 899480
+! &quot; ||| ! &apos; ( ||| 0-0 1-1 ||| 899480
+! &quot; ||| ! &apos; ) ||| 0-0 1-1 ||| 1155979
+! &quot; ||| ! &apos; . ||| 0-0 1-1 ||| 1353535
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1076772
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1082226
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1111261
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1146243
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 114891
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1155979
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1173393
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1173754
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1195343
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1196982
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 119725
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1199675
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 120005
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1231675
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1247730
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1251822
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1311162
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1334407
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1345417
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1353535
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1395261
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1407326
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 140812
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1431129
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1434073
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 143424
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1441671
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 146430
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 146430
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1464377
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1477476
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1477478
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1477485
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1477485
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 1477485
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 148759
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 153393
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 176968
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 177518
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 177584
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 177899
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 220954
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 227201
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 253434
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 264019
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 42181
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 764316
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 766148
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 766150
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 766155
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 766223
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 766263
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 779642
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 779654
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 790417
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 797495
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 798390
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 803611
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 808889
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 836688
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 839491
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 854758
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 866175
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 867695
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 874658
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 884728
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 899480
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 909673
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 912850
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 913931
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 931056
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 945798
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 985382
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 992563
+! &quot; ||| ! &apos; ||| 0-0 1-1 ||| 993102
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 104090
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 104092
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 104200
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 131487
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 131634
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 137141
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 208156
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 226741
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 72743
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 88527
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 92748
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 92748
+! &quot; ||| ! &quot; ||| 0-0 1-1 ||| 94561
+! &quot; ||| ! ||| 0-0 1-0 ||| 1153901
+! &quot; ||| ! ||| 0-0 ||| 1318583
+! &quot; ||| ! ||| 0-0 ||| 1451998
+! &quot; ||| ! ’ ||| 0-0 1-1 ||| 521436
+! &quot; ||| ! ” ||| 0-0 1-1 ||| 1165324
+! &quot; ||| &apos; ! ||| 1-0 0-1 ||| 1046932
+! &quot; ||| &apos; ! ||| 1-0 0-1 ||| 1212948
+! &quot; ||| &apos; ! ||| 1-0 0-1 ||| 919898
+! &quot; ||| &apos; , ||| 1-0 0-1 ||| 1156202
+! &quot; ||| &apos; . ||| 1-0 0-1 ||| 177634
+! &quot; ||| &apos; . ||| 1-0 0-1 ||| 63610
+! &quot; ||| &apos; ||| 0-0 1-0 ||| 1252874
+! &quot; ||| &apos; ||| 1-0 ||| 1018532
+! &quot; ||| &apos; ||| 1-0 ||| 1165846
+! &quot; ||| &apos; ||| 1-0 ||| 1255290
+! &quot; ||| &apos; ||| 1-0 ||| 1408787
+! &quot; ||| &apos; ||| 1-0 ||| 1431130
+! &quot; ||| &apos; ||| 1-0 ||| 26136
+! &quot; ||| &apos; ||| 1-0 ||| 808288
+! &quot; ||| &quot; ! ||| 1-0 0-1 ||| 220598
+! &quot; ||| &quot; ! ||| 1-0 0-1 ||| 70301
+! &quot; ||| &quot; . ||| 1-0 0-1 ||| 111286
+! &quot; ||| &quot; ||| 1-0 ||| 23776
+! &quot; ||| , &apos; ||| 0-0 1-1 ||| 220830
+! &quot; ||| , &apos; ||| 0-0 1-1 ||| 802396
+! &quot; ||| , &quot; ||| 0-0 1-1 ||| 137379
+! &quot; ||| . ||| 0-0 ||| 114734
+! &quot; ||| . ||| 0-0 ||| 121883
+! &quot; ||| . ||| 0-0 ||| 126573
+! &quot; ||| . ||| 0-0 ||| 1401142
+! &quot; ||| . ||| 0-0 ||| 146363
+! &quot; ||| . ||| 0-0 ||| 94500
+! &quot; ||| ? &apos; ||| 0-0 1-1 ||| 114682
+! &quot; ||| ? &apos; ||| 0-0 1-1 ||| 91297
+! &quot; ||| Member State are to be carried out ||| 0-4 ||| 140517
+! &quot; ||| Member State are to be carried ||| 0-4 ||| 140517
+! &quot; ||| Member State are to be ||| 0-4 ||| 140517
+! &quot; ||| State are to be carried out in ||| 0-3 ||| 140517
+! &quot; ||| State are to be carried out ||| 0-3 ||| 140517
+! &quot; ||| State are to be carried ||| 0-3 ||| 140517
+! &quot; ||| State are to be ||| 0-3 ||| 140517
+! &quot; ||| are ! &apos; ||| 0-1 1-2 ||| 839491
+! &quot; ||| are to be carried out in another ||| 0-2 ||| 140517
+! &quot; ||| are to be carried out in ||| 0-2 ||| 140517
+! &quot; ||| are to be carried out ||| 0-2 ||| 140517
+! &quot; ||| are to be carried ||| 0-2 ||| 140517
+! &quot; ||| are to be ||| 0-2 ||| 140517
+! &quot; ||| be carried out in another Member ||| 0-0 ||| 140517
+! &quot; ||| be carried out in another ||| 0-0 ||| 140517
+! &quot; ||| be carried out in ||| 0-0 ||| 140517
+! &quot; ||| be carried out ||| 0-0 ||| 140517
+! &quot; ||| be carried ||| 0-0 ||| 140517
+! &quot; ||| be ||| 0-0 ||| 140517
+! &quot; ||| do , &apos; ||| 0-1 1-2 ||| 220830
+! &quot; ||| down ! &apos; ||| 0-1 1-2 ||| 1173754
+! &quot; ||| dreams ! &quot; ||| 0-1 1-2 ||| 92748
+! &quot; ||| enough is enough &apos; ||| 0-0 1-3 ||| 1017365
+! &quot; ||| happen . ||| 0-1 ||| 121883
+! &quot; ||| is ! &apos; ||| 0-1 1-2 ||| 114891
+! &quot; ||| it is ! &apos; ||| 0-2 1-3 ||| 114891
+! &quot; ||| me &apos; ||| 1-1 ||| 1165846
+! &quot; ||| must happen . ||| 0-2 ||| 121883
+! &quot; ||| one Member State are to be carried ||| 0-5 ||| 140517
+! &quot; ||| one Member State are to be ||| 0-5 ||| 140517
+! &quot; ||| prison ! &apos; ) ||| 0-1 1-2 ||| 1155979
+! &quot; ||| prison ! &apos; ||| 0-1 1-2 ||| 1155979
+! &quot; ||| that must happen . ||| 0-3 ||| 121883
+! &quot; ||| this &apos; ||| 0-0 1-1 ||| 222031
+! &quot; ||| to be carried out in another Member ||| 0-1 ||| 140517
+! &quot; ||| to be carried out in another ||| 0-1 ||| 140517
+! &quot; ||| to be carried out in ||| 0-1 ||| 140517
+! &quot; ||| to be carried out ||| 0-1 ||| 140517
+! &quot; ||| to be carried ||| 0-1 ||| 140517
+! &quot; ||| to be ||| 0-1 ||| 140517
+! &quot; ||| use ! &quot; ||| 0-1 1-2 ||| 88527
+! &quot; ||| usually use ! &quot; ||| 0-2 1-3 ||| 88527
+! ( aquí nadie es tonto ) ||| ! ||| 0-0 ||| 1682460
+! ( aquí nadie es tonto ||| ! ||| 0-0 ||| 1682460
+! ( aquí nadie es ||| ! ||| 0-0 ||| 1682460
+! ( aquí nadie ||| ! ||| 0-0 ||| 1682460
+! ( aquí ||| ! ||| 0-0 ||| 1682460
+! ( faltan menos de ocho meses ||| , in less than eight months ||| 2-1 3-2 4-3 5-4 6-5 ||| 131558
+! ( faltan menos de ocho meses ||| in less than eight months ||| 2-0 3-1 4-2 5-3 6-4 ||| 131558
+! ( faltan menos de ocho meses ||| soon , in less than eight months ||| 2-2 3-3 4-4 5-5 6-6 ||| 131558
+! ( faltan menos de ocho ||| , in less than eight ||| 2-1 3-2 4-3 5-4 ||| 131558
+! ( faltan menos de ocho ||| in less than eight ||| 2-0 3-1 4-2 5-3 ||| 131558
+! ( faltan menos de ocho ||| soon , in less than eight ||| 2-2 3-3 4-4 5-5 ||| 131558
+! ( faltan menos de ||| , in less than ||| 2-1 3-2 4-3 ||| 131558
+! ( faltan menos de ||| in less than ||| 2-0 3-1 4-2 ||| 131558
+! ( faltan menos de ||| soon , in less than ||| 2-2 3-3 4-4 ||| 131558
+! ( faltan menos ||| , in less ||| 2-1 3-2 ||| 131558
+! ( faltan menos ||| in less ||| 2-0 3-1 ||| 131558
+! ( faltan menos ||| soon , in less ||| 2-2 3-3 ||| 131558
+! ( faltan ||| , in ||| 2-1 ||| 131558
+! ( faltan ||| in ||| 2-0 ||| 131558
+! ( faltan ||| soon , in ||| 2-2 ||| 131558
+! ( ||| ! ||| 0-0 ||| 1682460
+! ( ¡ No , quiere decir ||| ! ||| 0-0 1-0 2-0 3-0 ||| 273151
+! ( ¡ No , quiere ||| ! ||| 0-0 1-0 2-0 3-0 ||| 273151
+! ( ¡ No , ||| ! ||| 0-0 1-0 2-0 3-0 ||| 273151
+! ( ¡ No ||| ! ||| 0-0 1-0 2-0 3-0 ||| 273151
+! ) , como si la educación ||| ! ) as if education ||| 0-0 1-1 2-2 3-2 4-3 5-4 6-4 ||| 252337
+! ) , como si ||| ! ) as if ||| 0-0 1-1 2-2 3-2 4-3 ||| 252337
+! ) , como ||| ! ) , as ||| 0-0 1-1 2-2 3-3 ||| 1847415
+! ) , como ||| ! ) as ||| 0-0 1-1 2-2 3-2 ||| 252337
+! ) , el cumplimiento del ||| ! ) , the implementation of the ||| 0-0 1-1 2-2 3-3 4-4 5-5 5-6 ||| 277136
+! ) , el cumplimiento ||| ! ) , the implementation ||| 0-0 1-1 2-2 3-3 4-4 ||| 277136
+! ) , el ||| ! ) , the ||| 0-0 1-1 2-2 3-3 ||| 277136
+! ) , fue un acto vergonzoso ||| , was an outrageous act ||| 2-0 3-1 4-2 6-3 5-4 ||| 1360894
+! ) , fue un ||| , was an ||| 2-0 3-1 4-2 ||| 1360894
+! ) , fue ||| , was ||| 2-0 3-1 ||| 1360894
+! ) , investigación , competitividad e ||| ! ) , research , competitiveness and ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 716964
+! ) , investigación , competitividad ||| ! ) , research , competitiveness ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 716964
+! ) , investigación , ||| ! ) , research , ||| 0-0 1-1 2-2 3-3 4-4 ||| 716964
+! ) , investigación ||| ! ) , research ||| 0-0 1-1 2-2 3-3 ||| 716964
+! ) , mientras que 100 fueron ||| ! ) , while over 100 went ||| 0-0 1-1 2-2 3-3 4-3 5-5 6-6 ||| 932807
+! ) , mientras que 100 ||| ! ) , while over 100 ||| 0-0 1-1 2-2 3-3 4-3 5-5 ||| 932807
+! ) , mientras que ||| ! ) , while over ||| 0-0 1-1 2-2 3-3 4-3 ||| 932807
+! ) , mientras que ||| ! ) , while ||| 0-0 1-1 2-2 3-3 4-3 ||| 932807
+! ) , no podríamos haber alcanzado ||| ) , we could not have achieved ||| 1-0 2-1 4-2 4-3 3-4 5-5 6-6 ||| 983722
+! ) , no podríamos haber ||| ) , we could not have ||| 1-0 2-1 4-2 4-3 3-4 5-5 ||| 983722
+! ) , no podríamos ||| ) , we could not ||| 1-0 2-1 4-2 4-3 3-4 ||| 983722
+! ) , o su egonet ||| ! ) , or rather their egonet ||| 0-0 1-1 2-2 3-3 5-4 4-5 5-6 ||| 132614
+! ) , o ||| ! ) , or ||| 0-0 1-1 2-2 3-3 ||| 132614
+! ) , puedo decirles que , ||| ! ) - ||| 0-0 1-1 2-2 6-2 ||| 835755
+! ) , se aleja completamente de ||| ! ) is entirely at odds with ||| 0-0 1-1 3-2 5-3 6-6 ||| 1371293
+! ) , se aleja completamente ||| ! ) is entirely at odds ||| 0-0 1-1 3-2 5-3 ||| 1371293
+! ) , se aleja completamente ||| ! ) is entirely at ||| 0-0 1-1 3-2 5-3 ||| 1371293
+! ) , se aleja completamente ||| ! ) is entirely ||| 0-0 1-1 3-2 5-3 ||| 1371293
+! ) , se aleja ||| ! ) is ||| 0-0 1-1 3-2 ||| 1371293
+! ) , se ||| ! ) is ||| 0-0 1-1 3-2 ||| 1371293
+! ) , sólo puede ser el ||| ! - can only be a ||| 0-0 1-1 2-1 4-2 3-3 5-4 6-5 ||| 1484804
+! ) , sólo puede ser ||| ! - can only be ||| 0-0 1-1 2-1 4-2 3-3 5-4 ||| 1484804
+! ) , sólo puede ||| ! - can only ||| 0-0 1-1 2-1 4-2 3-3 ||| 1484804
+! ) , todos , o al ||| ! - all , or at ||| 0-0 1-1 2-1 3-2 4-3 5-4 6-5 ||| 962338
+! ) , todos , o ||| ! - all , or ||| 0-0 1-1 2-1 3-2 4-3 5-4 ||| 962338
+! ) , todos , ||| ! - all , ||| 0-0 1-1 2-1 3-2 4-3 ||| 962338
+! ) , todos ||| ! - all ||| 0-0 1-1 2-1 3-2 ||| 962338
+! ) , ||| ! ) , ||| 0-0 1-1 2-2 ||| 132614
+! ) , ||| ! ) , ||| 0-0 1-1 2-2 ||| 1512106
+! ) , ||| ! ) , ||| 0-0 1-1 2-2 ||| 1847415
+! ) , ||| ! ) , ||| 0-0 1-1 2-2 ||| 277136
+! ) , ||| ! ) , ||| 0-0 1-1 2-2 ||| 716964
+! ) , ||| ! ) , ||| 0-0 1-1 2-2 ||| 932807
+! ) , ||| ! ) ||| 0-0 1-1 ||| 1371293
+! ) , ||| ! - ||| 0-0 1-1 2-1 ||| 1484804
+! ) , ||| ! - ||| 0-0 1-1 2-1 ||| 962338
+! ) , ||| ) , ||| 1-0 2-1 ||| 983722
+! ) , ||| , ||| 2-0 ||| 1360894
+! ) . ||| ! ) . ||| 0-0 1-1 2-2 ||| 198198
+! ) . ||| ! ) . ||| 0-0 1-1 2-2 ||| 892157
+! ) . ||| ! ||| 0-0 ||| 1043096
+! ) . ||| ) . ||| 1-0 2-1 ||| 131660
+! ) Estimado colega Ferber , ||| ! &quot; ) Mr Ferber , ||| 0-0 2-1 1-2 2-3 3-3 4-4 5-5 ||| 145137
+! ) Estimado colega Ferber ||| ! &quot; ) Mr Ferber ||| 0-0 2-1 1-2 2-3 3-3 4-4 ||| 145137
+! ) Estimado colega ||| ! &quot; ) Mr ||| 0-0 2-1 1-2 2-3 3-3 ||| 145137
+! ) como una habitación o ||| - like to a tenement or ||| 1-0 2-1 3-3 4-4 5-5 ||| 1151891
+! ) como una habitación ||| - like to a tenement ||| 1-0 2-1 3-3 4-4 ||| 1151891
+! ) como una ||| - like to a ||| 1-0 2-1 3-3 ||| 1151891
+! ) como ||| - like to ||| 1-0 2-1 ||| 1151891
+! ) como ||| - like ||| 1-0 2-1 ||| 1151891
+! ) compaginen ||| ! ) to combine ||| 0-0 1-1 2-3 ||| 1027662
+! ) contrario a los derechos ||| , that runs counter to fundamental rights ||| 0-0 1-2 2-2 2-3 3-4 4-5 5-6 ||| 1757570
+! ) contrario a los ||| , that runs counter to fundamental ||| 0-0 1-2 2-2 2-3 3-4 4-5 ||| 1757570
+! ) contrario a ||| , that runs counter to ||| 0-0 1-2 2-2 2-3 3-4 ||| 1757570
+! ) contrario ||| , that runs counter ||| 0-0 1-2 2-2 2-3 ||| 1757570
+! ) existente tiene que ver con ||| exists , relates to ||| 2-0 5-2 6-3 ||| 1705846
+! ) existente tiene que ver ||| exists , relates ||| 2-0 5-2 ||| 1705846
+! ) existente tiene que ||| exists , ||| 2-0 ||| 1705846
+! ) existente tiene que ||| exists ||| 2-0 ||| 1705846
+! ) existente tiene ||| exists , ||| 2-0 ||| 1705846
+! ) existente tiene ||| exists ||| 2-0 ||| 1705846
+! ) existente ||| exists , ||| 2-0 ||| 1705846
+! ) existente ||| exists ||| 2-0 ||| 1705846
+! ) participar en la ||| ! ) be involved in the ||| 0-0 1-1 2-2 2-3 3-4 4-5 ||| 1868188
+! ) participar en ||| ! ) be involved in ||| 0-0 1-1 2-2 2-3 3-4 ||| 1868188
+! ) participar ||| ! ) be involved ||| 0-0 1-1 2-2 2-3 ||| 1868188
+! ) presupuesto rectificativo en el presente ||| ! ) amending budget in the current ||| 0-0 1-1 3-2 2-3 4-4 5-5 6-6 ||| 161727
+! ) presupuesto rectificativo en el ||| ! ) amending budget in the ||| 0-0 1-1 3-2 2-3 4-4 5-5 ||| 161727
+! ) presupuesto rectificativo en ||| ! ) amending budget in ||| 0-0 1-1 3-2 2-3 4-4 ||| 161727
+! ) presupuesto rectificativo ||| ! ) amending budget ||| 0-0 1-1 3-2 2-3 ||| 161727
+! ) se tiene que preparar bien ||| ! ) has to be well prepared ||| 0-0 1-1 3-2 4-3 2-4 6-5 5-6 ||| 1052506
+! ) se tiene que ||| ! ) has to be ||| 0-0 1-1 3-2 4-3 2-4 ||| 1052506
+! ) y a menudo ilegible ||| ! ) and often unreadable ||| 0-0 1-1 2-2 3-3 4-3 5-4 ||| 742414
+! ) y a menudo ilegible – ||| ! ) and often unreadable – ||| 0-0 1-1 2-2 3-3 4-3 5-4 6-5 ||| 742414
+! ) y a menudo ||| ! ) and often ||| 0-0 1-1 2-2 3-3 4-3 ||| 742414
+! ) y se ratificará en 2009 ||| ! ) and ratified by 2009 ||| 0-0 1-1 2-2 4-3 4-4 5-4 6-5 ||| 843781
+! ) y se ratificará en ||| ! ) and ratified by ||| 0-0 1-1 2-2 4-3 4-4 5-4 ||| 843781
+! ) y se ||| ! ) and ||| 0-0 1-1 2-2 ||| 843781
+! ) y ||| ! ) and ||| 0-0 1-1 2-2 ||| 742414
+! ) y ||| ! ) and ||| 0-0 1-1 2-2 ||| 843781
+! ) ||| ! ) to ||| 0-0 1-1 ||| 1027662
+! ) ||| ! ) ||| 0-0 1-1 ||| 1027662
+! ) ||| ! ) ||| 0-0 1-1 ||| 1052506
+! ) ||| ! ) ||| 0-0 1-1 ||| 1198034
+! ) ||| ! ) ||| 0-0 1-1 ||| 1212606
+! ) ||| ! ) ||| 0-0 1-1 ||| 132614
+! ) ||| ! ) ||| 0-0 1-1 ||| 1371293
+! ) ||| ! ) ||| 0-0 1-1 ||| 1403219
+! ) ||| ! ) ||| 0-0 1-1 ||| 1512106
+! ) ||| ! ) ||| 0-0 1-1 ||| 151643
+! ) ||| ! ) ||| 0-0 1-1 ||| 1551495
+! ) ||| ! ) ||| 0-0 1-1 ||| 161727
+! ) ||| ! ) ||| 0-0 1-1 ||| 1679998
+! ) ||| ! ) ||| 0-0 1-1 ||| 1694457
+! ) ||| ! ) ||| 0-0 1-1 ||| 1741899
+! ) ||| ! ) ||| 0-0 1-1 ||| 1755408
+! ) ||| ! ) ||| 0-0 1-1 ||| 1759691
+! ) ||| ! ) ||| 0-0 1-1 ||| 1847415
+! ) ||| ! ) ||| 0-0 1-1 ||| 1868188
+! ) ||| ! ) ||| 0-0 1-1 ||| 1884909
+! ) ||| ! ) ||| 0-0 1-1 ||| 198198
+! ) ||| ! ) ||| 0-0 1-1 ||| 236909
+! ) ||| ! ) ||| 0-0 1-1 ||| 252337
+! ) ||| ! ) ||| 0-0 1-1 ||| 254471
+! ) ||| ! ) ||| 0-0 1-1 ||| 263643
+! ) ||| ! ) ||| 0-0 1-1 ||| 272081
+! ) ||| ! ) ||| 0-0 1-1 ||| 277136
+! ) ||| ! ) ||| 0-0 1-1 ||| 30871
+! ) ||| ! ) ||| 0-0 1-1 ||| 356483
+! ) ||| ! ) ||| 0-0 1-1 ||| 395989
+! ) ||| ! ) ||| 0-0 1-1 ||| 716964
+! ) ||| ! ) ||| 0-0 1-1 ||| 742414
+! ) ||| ! ) ||| 0-0 1-1 ||| 835755
+! ) ||| ! ) ||| 0-0 1-1 ||| 838709
+! ) ||| ! ) ||| 0-0 1-1 ||| 843781
+! ) ||| ! ) ||| 0-0 1-1 ||| 892157
+! ) ||| ! ) ||| 0-0 1-1 ||| 912114
+! ) ||| ! ) ||| 0-0 1-1 ||| 912125
+! ) ||| ! ) ||| 0-0 1-1 ||| 932807
+! ) ||| ! ||| 0-0 ||| 1043096
+! ) ||| ) ||| 1-0 ||| 131660
+! ) ||| ) ||| 1-0 ||| 1776069
+! ) ||| ) ||| 1-0 ||| 928889
+! ) ||| ) ||| 1-0 ||| 983722
+! ) ||| , please ! ) ||| 0-2 1-3 ||| 1694457
+! ) ||| - ||| 1-0 ||| 1151891
+! ) ||| please ! ) ||| 0-1 1-2 ||| 1694457
+! , 100.000 millones de ecus al ||| ! - 100 billion per ||| 0-0 1-1 2-2 3-3 4-3 5-4 6-4 ||| 1725257
+! , 100.000 millones de ||| ! - 100 billion ||| 0-0 1-1 2-2 3-3 4-3 ||| 1725257
+! , 100.000 ||| ! - 100 ||| 0-0 1-1 2-2 ||| 1725257
+! , Vital . ||| ! , Vital . ||| 0-0 1-1 2-2 3-3 ||| 1395607
+! , Vital ||| ! , Vital ||| 0-0 1-1 2-2 ||| 1395607
+! , a condición de que se ||| ! provided that they are ||| 0-0 3-1 5-2 6-3 6-4 ||| 1593072
+! , a condición de que ||| ! provided that ||| 0-0 3-1 5-2 ||| 1593072
+! , a condición de ||| ! provided ||| 0-0 3-1 ||| 1593072
+! , a condición ||| ! provided ||| 0-0 3-1 ||| 1593072
+! , a fin de cuentas ||| , after all ||| 1-0 2-1 3-1 5-2 ||| 17264
+! , a fin de ||| , after ||| 1-0 2-1 3-1 ||| 17264
+! , a fin ||| , after ||| 1-0 2-1 3-1 ||| 17264
+! , a menudo la ortodoxia de ||| , the orthodoxy of ||| 1-0 4-1 3-2 5-2 6-3 ||| 1726208
+! , a menudo la ortodoxia ||| , the orthodoxy ||| 1-0 4-1 3-2 5-2 ||| 1726208
+! , a ||| ! ||| 0-0 ||| 1593072
+! , a ||| , ||| 1-0 ||| 1726208
+! , ahí fuera , delante ||| that ; outside , in front ||| 0-0 2-0 1-1 3-2 4-3 5-4 5-5 ||| 1727662
+! , ahí fuera , ||| that ; outside , ||| 0-0 2-0 1-1 3-2 4-3 ||| 1727662
+! , ahí fuera ||| that ; outside ||| 0-0 2-0 1-1 3-2 ||| 1727662
+! , ahí ||| that ; ||| 0-0 2-0 1-1 ||| 1727662
+! , alegato ) del ||| his indictment of ||| 2-0 2-1 4-2 ||| 1573041
+! , alegato ) ||| his indictment ||| 2-0 2-1 ||| 1573041
+! , alegato ||| his indictment ||| 2-0 2-1 ||| 1573041
+! , así como , en particular ||| ! that is why I particularly welcome ||| 0-0 2-1 3-2 2-3 4-4 5-5 6-5 ||| 973531
+! , así como , en particular ||| ! that is why I particularly ||| 0-0 2-1 3-2 2-3 4-4 5-5 6-5 ||| 973531
+! , así como , ||| ! that is why I ||| 0-0 2-1 3-2 2-3 4-4 ||| 973531
+! , así como ||| ! that is why ||| 0-0 2-1 3-2 2-3 ||| 973531
+! , con ello no quiero ||| of this I do not mean to ||| 2-0 3-1 5-2 4-3 4-4 5-5 5-6 ||| 1648452
+! , con ello ||| of this ||| 2-0 3-1 ||| 1648452
+! , con ||| of ||| 2-0 ||| 1648452
+! , creemos que ||| - who ||| 1-0 3-1 ||| 396168
+! , creemos ||| - ||| 1-0 ||| 396168
+! , debido a ello ||| behold , as a result of this ||| 0-0 1-1 2-2 2-4 3-5 4-6 ||| 333449
+! , debido a ||| behold , as a result of ||| 0-0 1-1 2-2 2-4 3-5 ||| 333449
+! , debido ||| behold , as a result ||| 0-0 1-1 2-2 2-4 ||| 333449
+! , el ganador del Premio Sajarov ||| ! , the Sakharov Prize winner ||| 0-0 1-1 2-2 6-3 5-4 3-5 4-5 ||| 445145
+! , el ||| ! , the ||| 0-0 1-1 2-2 ||| 445145
+! , en cuanto a su carta ||| regarding your letter ||| 3-0 4-0 5-1 6-2 ||| 20621
+! , en cuanto a su ||| regarding your ||| 3-0 4-0 5-1 ||| 20621
+! , en cuanto a ||| regarding ||| 3-0 4-0 ||| 20621
+! , en primer término , debido ||| firstly by ||| 2-0 3-0 4-0 6-1 ||| 1787633
+! , en primer término , ||| firstly ||| 2-0 3-0 4-0 ||| 1787633
+! , en primer término ||| firstly ||| 2-0 3-0 4-0 ||| 1787633
+! , en un contexto bastante complicado ||| , in rather complicated ||| 1-0 2-1 3-2 5-2 6-3 ||| 1855558
+! , en un contexto bastante complicado ||| say , in rather complicated ||| 1-1 2-2 3-3 5-3 6-4 ||| 1855558
+! , en un contexto bastante ||| , in rather ||| 1-0 2-1 3-2 5-2 ||| 1855558
+! , en un contexto bastante ||| say , in rather ||| 1-1 2-2 3-3 5-3 ||| 1855558
+! , en ||| , in ||| 1-0 2-1 ||| 1855558
+! , en ||| say , in ||| 1-1 2-2 ||| 1855558
+! , es ||| principle is also ||| 0-0 2-1 ||| 1531359
+! , es ||| principle is ||| 0-0 2-1 ||| 1531359
+! , eso ya lo hemos solicitado ||| are things we have already called for ||| 4-1 5-2 5-3 3-4 6-5 6-6 ||| 71717
+! , eso ya lo hemos solicitado ||| things we have already called for on ||| 4-0 5-1 5-2 3-3 6-4 6-5 ||| 71717
+! , eso ya lo hemos solicitado ||| things we have already called for ||| 4-0 5-1 5-2 3-3 6-4 6-5 ||| 71717
+! , eso ya lo hemos ||| are things we have already ||| 4-1 5-2 5-3 3-4 ||| 71717
+! , eso ya lo hemos ||| things we have already ||| 4-0 5-1 5-2 3-3 ||| 71717
+! , eso ya ||| already ||| 3-0 ||| 71717
+! , esta ||| and that ||| 1-0 2-1 ||| 1666438
+! , gritan los federalistas y ||| ! &apos; say the federalists , and ||| 0-0 2-1 2-2 3-3 4-4 1-5 5-6 ||| 1554061
+! , gritan los federalistas ||| ! &apos; say the federalists , ||| 0-0 2-1 2-2 3-3 4-4 1-5 ||| 1554061
+! , hacer hincapié , hasta nuevo ||| emphasis for ||| 2-0 3-0 5-1 ||| 1513337
+! , hacer hincapié , hasta ||| emphasis for ||| 2-0 3-0 5-1 ||| 1513337
+! , hacer hincapié , ||| emphasis ||| 2-0 3-0 ||| 1513337
+! , hacer hincapié ||| emphasis ||| 2-0 3-0 ||| 1513337
+! , hay que hacer algo . ||| , a need to do something ! ||| 1-0 2-1 2-2 3-3 4-4 5-5 6-6 ||| 929594
+! , hay que hacer algo ||| , a need to do something ||| 1-0 2-1 2-2 3-3 4-4 5-5 ||| 929594
+! , hay que hacer ||| , a need to do ||| 1-0 2-1 2-2 3-3 4-4 ||| 929594
+! , hay que ||| , a need to ||| 1-0 2-1 2-2 3-3 ||| 929594
+! , hay ||| , a need ||| 1-0 2-1 2-2 ||| 929594
+! , la Comisión de Cultura tiene ||| and that the Committee on Culture has ||| 0-0 1-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 1622464
+! , la Comisión de Cultura ||| already and that the Committee on Culture ||| 0-1 1-1 1-2 2-3 3-4 4-5 5-6 ||| 1622464
+! , la Comisión de Cultura ||| and that the Committee on Culture ||| 0-0 1-0 1-1 2-2 3-3 4-4 5-5 ||| 1622464
+! , la Comisión de ||| already and that the Committee on ||| 0-1 1-1 1-2 2-3 3-4 4-5 ||| 1622464
+! , la Comisión de ||| and that the Committee on ||| 0-0 1-0 1-1 2-2 3-3 4-4 ||| 1622464
+! , la Comisión ||| already and that the Committee ||| 0-1 1-1 1-2 2-3 3-4 ||| 1622464
+! , la Comisión ||| and that the Committee ||| 0-0 1-0 1-1 2-2 3-3 ||| 1622464
+! , la ||| already and that the ||| 0-1 1-1 1-2 2-3 ||| 1622464
+! , la ||| and that the ||| 0-0 1-0 1-1 2-2 ||| 1622464
+! , lo acepto , pero yo ||| ! I accept that , but I ||| 0-0 1-1 2-1 3-2 4-4 5-5 6-6 ||| 208328
+! , lo acepto , pero ||| ! I accept that , but ||| 0-0 1-1 2-1 3-2 4-4 5-5 ||| 208328
+! , lo acepto , ||| ! I accept that , ||| 0-0 1-1 2-1 3-2 4-4 ||| 208328
+! , lo acepto ||| ! I accept that ||| 0-0 1-1 2-1 3-2 ||| 208328
+! , lo acepto ||| ! I accept ||| 0-0 1-1 2-1 3-2 ||| 208328
+! , lo ||| ! I ||| 0-0 1-1 2-1 ||| 208328
+! , me refiero naturalmente a un ||| , I mean of course in ||| 1-0 2-1 3-2 4-3 4-4 5-5 ||| 136069
+! , me refiero naturalmente a ||| , I mean of course in ||| 1-0 2-1 3-2 4-3 4-4 5-5 ||| 136069
+! , me refiero naturalmente ||| , I mean of course ||| 1-0 2-1 3-2 4-3 4-4 ||| 136069
+! , me refiero ||| , I mean ||| 1-0 2-1 3-2 ||| 136069
+! , me ||| , I ||| 1-0 2-1 ||| 136069
+! , pero , ||| . but ||| 0-0 2-1 ||| 101873
+! , pero , ¿ por qué ||| . but why is ||| 0-0 2-1 4-2 5-2 6-2 4-3 ||| 101873
+! , pero ||| . but ||| 0-0 2-1 ||| 101873
+! , por su trabajo . ||| , on his work . ||| 1-0 2-1 3-2 4-3 5-4 ||| 167666
+! , por su trabajo ||| , on his work ||| 1-0 2-1 3-2 4-3 ||| 167666
+! , por su ||| , on his ||| 1-0 2-1 3-2 ||| 167666
+! , por ||| , on ||| 1-0 2-1 ||| 167666
+! , que ahora se ha ||| ! , which has now been called ||| 0-0 1-1 2-2 3-4 4-5 5-5 5-6 ||| 974783
+! , que ahora ||| ! , which has now ||| 0-0 1-1 2-2 3-4 ||| 974783
+! , que ||| ! , which has ||| 0-0 1-1 2-2 ||| 974783
+! , que ||| ! , which ||| 0-0 1-1 2-2 ||| 974783
+! , se puede discutir sobre ||| we can argue about ||| 1-0 2-0 3-1 4-2 5-3 ||| 280817
+! , se puede discutir ||| we can argue ||| 1-0 2-0 3-1 4-2 ||| 280817
+! , se puede ||| we can ||| 1-0 2-0 3-1 ||| 280817
+! , se votarán mañana . ||| be put to the vote tomorrow . ||| 0-1 2-3 3-4 4-5 5-6 ||| 1875633
+! , se votarán mañana . ||| put to the vote tomorrow . ||| 0-0 2-2 3-3 4-4 5-5 ||| 1875633
+! , se votarán mañana ||| be put to the vote tomorrow ||| 0-1 2-3 3-4 4-5 ||| 1875633
+! , se votarán mañana ||| put to the vote tomorrow ||| 0-0 2-2 3-3 4-4 ||| 1875633
+! , se votarán ||| be put to the vote ||| 0-1 2-3 3-4 ||| 1875633
+! , se votarán ||| put to the vote ||| 0-0 2-2 3-3 ||| 1875633
+! , se ||| be put to the ||| 0-1 2-3 ||| 1875633
+! , se ||| put to the ||| 0-0 2-2 ||| 1875633
+! , se ||| we ||| 1-0 2-0 ||| 280817
+! , sentaría los fundamentos estables ||| will provide the stable foundation ||| 2-0 2-1 3-2 5-3 4-4 ||| 1843058
+! , sentaría los ||| will provide the ||| 2-0 2-1 3-2 ||| 1843058
+! , sentaría ||| will provide ||| 2-0 2-1 ||| 1843058
+! , señor Presidente en ejercicio del ||| good work , President-in-Office of the ||| 0-0 0-1 1-2 2-3 3-3 4-3 5-3 6-4 6-5 ||| 441934
+! , señor Presidente en ejercicio del ||| the good work , President-in-Office of the ||| 0-1 0-2 1-3 2-4 3-4 4-4 5-4 6-5 6-6 ||| 441934
+! , señor Presidente en ejercicio ||| good work , President-in-Office ||| 0-0 0-1 1-2 2-3 3-3 4-3 5-3 ||| 441934
+! , señor Presidente en ejercicio ||| the good work , President-in-Office ||| 0-1 0-2 1-3 2-4 3-4 4-4 5-4 ||| 441934
+! , sobre cuándo levantarse por la ||| . when we get up in the ||| 0-0 3-1 3-2 4-3 4-4 5-5 6-6 ||| 99563
+! , sobre cuándo levantarse por ||| . when we get up in ||| 0-0 3-1 3-2 4-3 4-4 5-5 ||| 99563
+! , sobre cuándo levantarse ||| . when we get up ||| 0-0 3-1 3-2 4-3 4-4 ||| 99563
+! , sobre cuándo ||| . when we ||| 0-0 3-1 3-2 ||| 99563
+! , sobre ||| . ||| 0-0 ||| 99563
+! , una integración . ||| even integration ! ||| 1-0 2-0 3-1 4-2 ||| 1125703
+! , una integración ||| even integration ||| 1-0 2-0 3-1 ||| 1125703
+! , una ||| even ||| 1-0 2-0 ||| 1125703
+! , y nosotros -el Parlamento Europeo- ||| and Parliament ||| 2-0 5-1 6-1 ||| 1907245
+! , y nosotros -el Parlamento Europeo- ||| marvellous and Parliament ||| 2-1 5-2 6-2 ||| 1907245
+! , y nosotros -el ||| and ||| 2-0 ||| 1907245
+! , y nosotros -el ||| marvellous and ||| 2-1 ||| 1907245
+! , y nosotros ||| and ||| 2-0 ||| 1907245
+! , y nosotros ||| marvellous and ||| 2-1 ||| 1907245
+! , y ||| and ||| 2-0 ||| 1907245
+! , y ||| marvellous and ||| 2-1 ||| 1907245
+! , ya ||| , because ||| 1-0 2-1 ||| 150179
+! , ||| ! , ||| 0-0 1-1 ||| 1395607
+! , ||| ! , ||| 0-0 1-1 ||| 445145
+! , ||| ! , ||| 0-0 1-1 ||| 974783
+! , ||| ! - ||| 0-0 1-1 ||| 1725257
+! , ||| ! ||| 0-0 ||| 1468261
+! , ||| ! ||| 0-0 ||| 1593072
+! , ||| ! ||| 0-0 ||| 973531
+! , ||| , ||| 1-0 ||| 104195
+! , ||| , ||| 1-0 ||| 105551
+! , ||| , ||| 1-0 ||| 136069
+! , ||| , ||| 1-0 ||| 150179
+! , ||| , ||| 1-0 ||| 167666
+! , ||| , ||| 1-0 ||| 17252
+! , ||| , ||| 1-0 ||| 1726208
+! , ||| , ||| 1-0 ||| 17264
+! , ||| , ||| 1-0 ||| 1855558
+! , ||| , ||| 1-0 ||| 929594
+! , ||| - ||| 1-0 ||| 396168
+! , ||| . ||| 0-0 ||| 101873
+! , ||| . ||| 0-0 ||| 99563
+! , ||| already and that ||| 0-1 1-1 1-2 ||| 1622464
+! , ||| and that ||| 0-0 1-0 1-1 ||| 1622464
+! , ||| and ||| 1-0 ||| 1666438
+! , ||| be put to ||| 0-1 ||| 1875633
+! , ||| be put ||| 0-1 ||| 1875633
+! , ||| behold , ||| 0-0 1-1 ||| 333449
+! , ||| good work , ||| 0-0 0-1 1-2 ||| 441934
+! , ||| principle ||| 0-0 ||| 1531359
+! , ||| put to ||| 0-0 ||| 1875633
+! , ||| put ||| 0-0 ||| 1875633
+! , ||| say , ||| 1-1 ||| 1855558
+! , ||| the good work , ||| 0-1 0-2 1-3 ||| 441934
+! , ¡ Fatuzzo ! &quot; ||| , Mr Fatuzzo ! &quot; ||| 1-0 3-1 3-2 2-3 4-3 5-4 ||| 104195
+! , ¡ Fatuzzo ! ||| , Mr Fatuzzo ! ||| 1-0 3-1 3-2 2-3 4-3 ||| 104195
+! , ¡ más agencias comunitarias ! ||| ! more Community agencies ||| 0-0 2-0 3-1 5-2 4-3 ||| 1575991
+! , ¡ más agencias comunitarias ||| ! more Community agencies ||| 0-0 2-0 3-1 5-2 4-3 ||| 1575991
+! , ¡ más inspectores comunitarios ! ||| ! ||| 6-0 ||| 1575991
+! , ¡ más ||| ! more ||| 0-0 2-0 3-1 ||| 1575991
+! , ¡ sólo queremos un ||| . we only want a ||| 0-0 1-1 2-1 3-2 4-3 5-4 ||| 1850326
+! , ¡ sólo queremos ||| . we only want ||| 0-0 1-1 2-1 3-2 4-3 ||| 1850326
+! , ¡ sólo ||| . we only ||| 0-0 1-1 2-1 3-2 ||| 1850326
+! , ¡ ||| ! ||| 0-0 2-0 ||| 1575991
+! , ¡ ||| . we ||| 0-0 1-1 2-1 ||| 1850326
+! , ¿ a quién ||| ! ||| 0-0 ||| 1468261
+! , ¿ a ||| ! ||| 0-0 ||| 1468261
+! , ¿ ||| ! ||| 0-0 ||| 1468261
+! - , como era , por ||| . this is the ||| 0-0 1-1 2-2 4-2 3-3 ||| 176409
+! - , como era , ||| . this is the ||| 0-0 1-1 2-2 4-2 3-3 ||| 176409
+! - , como era ||| . this is the ||| 0-0 1-1 2-2 4-2 3-3 ||| 176409
+! - , con el informe que ||| support ||| 5-0 ||| 108423
+! - , con el informe ||| support ||| 5-0 ||| 108423
+! - , definitivamente privados de toda ||| ! - permanently deprived of any ||| 0-0 1-1 2-1 3-2 4-3 5-4 6-5 ||| 797243
+! - , definitivamente privados de ||| ! - permanently deprived of ||| 0-0 1-1 2-1 3-2 4-3 5-4 ||| 797243
+! - , definitivamente privados ||| ! - permanently deprived ||| 0-0 1-1 2-1 3-2 4-3 ||| 797243
+! - , definitivamente ||| ! - permanently ||| 0-0 1-1 2-1 3-2 ||| 797243
+! - , e ||| ! - and borders on ||| 0-0 1-1 2-1 3-2 ||| 284274
+! - , e ||| ! - and borders ||| 0-0 1-1 2-1 3-2 ||| 284274
+! - , e ||| ! - and ||| 0-0 1-1 2-1 3-2 ||| 284274
+! - , mientras que se suele ||| ! - whereas one would usually ||| 0-0 1-1 2-1 3-2 4-2 5-3 5-4 6-5 ||| 1758428
+! - , mientras que se ||| ! - whereas one would ||| 0-0 1-1 2-1 3-2 4-2 5-3 5-4 ||| 1758428
+! - , mientras que ||| ! - whereas ||| 0-0 1-1 2-1 3-2 4-2 ||| 1758428
+! - , no creo que ||| ! - I do not think that ||| 0-0 1-1 2-2 3-3 3-4 4-5 5-6 ||| 782622
+! - , no creo ||| ! - I do not think ||| 0-0 1-1 2-2 3-3 3-4 4-5 ||| 782622
+! - , no veo que ||| ! - I do not see that ||| 0-0 1-1 4-2 3-3 3-4 4-5 5-6 ||| 1860425
+! - , no veo ||| ! - I do not see ||| 0-0 1-1 4-2 3-3 3-4 4-5 ||| 1860425
+! - , no ||| ! - I do not ||| 0-0 1-1 2-2 3-3 3-4 ||| 782622
+! - , pero , ||| - but ||| 1-0 2-0 3-1 ||| 1641588
+! - , pero , ¡ no ||| - but not ||| 1-0 2-0 3-1 6-2 ||| 1641588
+! - , pero , ¡ ||| - but ||| 1-0 2-0 3-1 ||| 1641588
+! - , pero el Gobierno británico ||| ! - but the British Government ||| 0-0 1-1 2-1 3-2 4-3 6-4 5-5 ||| 417015
+! - , pero el ||| ! - but the ||| 0-0 1-1 2-1 3-2 4-3 ||| 417015
+! - , pero es mucho más ||| ! - but it is much more ||| 0-0 1-1 2-1 3-2 4-3 4-4 5-5 6-6 ||| 1044698
+! - , pero es mucho ||| ! - but it is much ||| 0-0 1-1 2-1 3-2 4-3 4-4 5-5 ||| 1044698
+! - , pero es ||| ! - but it is ||| 0-0 1-1 2-1 3-2 4-3 4-4 ||| 1044698
+! - , pero también y ||| give or take a little - and ||| 2-1 1-5 5-6 ||| 1788296
+! - , pero también y ||| or take a little - and ||| 2-0 1-4 5-5 ||| 1788296
+! - , pero también ||| give or take a little - ||| 2-1 1-5 ||| 1788296
+! - , pero también ||| or take a little - ||| 2-0 1-4 ||| 1788296
+! - , pero ||| ! - but ||| 0-0 1-1 2-1 3-2 ||| 1044698
+! - , pero ||| ! - but ||| 0-0 1-1 2-1 3-2 ||| 417015
+! - , pero ||| - but ||| 1-0 2-0 3-1 ||| 1641588
+! - , pero ||| give or take a little - ||| 2-1 1-5 ||| 1788296
+! - , pero ||| or take a little - ||| 2-0 1-4 ||| 1788296
+! - , reconozco que la edad ||| ! - I recognise that age ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-5 ||| 800044
+! - , reconozco que ||| ! - I recognise that ||| 0-0 1-1 2-2 3-3 4-4 ||| 800044
+! - , reconozco ||| ! - I recognise ||| 0-0 1-1 2-2 3-3 ||| 800044
+! - , sin que ||| else - without even having ||| 0-0 1-1 3-2 3-3 4-4 ||| 1868128
+! - , sin ||| else - without even ||| 0-0 1-1 3-2 3-3 ||| 1868128
+! - , soplará en la ||| ! - it will be off the ||| 0-0 1-1 2-2 3-3 3-4 3-5 4-5 5-6 ||| 1111398
+! - , soplará en ||| ! - it will be off ||| 0-0 1-1 2-2 3-3 3-4 3-5 4-5 ||| 1111398
+! - , tener ||| does not make a summer ||| 2-0 3-2 ||| 1682607
+! - , tener ||| does not make a ||| 2-0 3-2 ||| 1682607
+! - , tener ||| does not make ||| 2-0 3-2 ||| 1682607
+! - , ||| ! - I ||| 0-0 1-1 2-2 ||| 782622
+! - , ||| ! - I ||| 0-0 1-1 2-2 ||| 800044
+! - , ||| ! - it ||| 0-0 1-1 2-2 ||| 1111398
+! - , ||| ! - ||| 0-0 1-1 2-1 ||| 1044698
+! - , ||| ! - ||| 0-0 1-1 2-1 ||| 1758428
+! - , ||| ! - ||| 0-0 1-1 2-1 ||| 284274
+! - , ||| ! - ||| 0-0 1-1 2-1 ||| 417015
+! - , ||| ! - ||| 0-0 1-1 2-1 ||| 797243
+! - , ||| ! - ||| 0-0 1-1 ||| 1860425
+! - , ||| - ||| 1-0 2-0 ||| 1641588
+! - , ||| does not ||| 2-0 ||| 1682607
+! - , ||| does ||| 2-0 ||| 1682607
+! - , ||| else - ||| 0-0 1-1 ||| 1868128
+! - , ||| give or take a little - ||| 2-1 1-5 ||| 1788296
+! - , ||| or take a little - ||| 2-0 1-4 ||| 1788296
+! - . ||| ! ||| 0-0 ||| 1078132
+! - . ||| ! ||| 0-0 ||| 1097122
+! - . ||| ! ||| 0-0 ||| 1137533
+! - . ||| ! ||| 0-0 ||| 1230483
+! - . ||| ! ||| 0-0 ||| 1264387
+! - . ||| ! ||| 0-0 ||| 1335642
+! - . ||| ! ||| 0-0 ||| 1502667
+! - . ||| ! ||| 0-0 ||| 898719
+! - . ||| ! ||| 0-0 ||| 899125
+! - . ||| ! ||| 0-0 ||| 948304
+! - . ||| ! ||| 0-0 ||| 978403
+! - . ||| . ||| 2-0 ||| 157257
+! - Reconozco gustosamente ||| ! I readily concede ||| 0-0 1-1 2-1 3-2 2-3 ||| 270588
+! - The EU , the Millennium ||| ! the EU , the Millennium ||| 0-0 1-1 2-1 3-2 4-3 5-4 6-5 ||| 599680
+! - The EU , the ||| ! the EU , the ||| 0-0 1-1 2-1 3-2 4-3 5-4 ||| 599680
+! - The EU , ||| ! the EU , ||| 0-0 1-1 2-1 3-2 4-3 ||| 599680
+! - The EU ||| ! the EU ||| 0-0 1-1 2-1 3-2 ||| 599680
+! - The ||| ! the ||| 0-0 1-1 2-1 ||| 599680
+! - a los &quot; documentos clasificados ||| ! - to &apos; classified documents ||| 0-0 1-1 2-2 3-3 4-3 6-4 5-5 ||| 172806
+! - a los &quot; ||| ! - to &apos; ||| 0-0 1-1 2-2 3-3 4-3 ||| 172806
+! - a ||| ! - to ||| 0-0 1-1 2-2 ||| 172806
+! - al descubrir que ||| ! - to discover that ||| 0-0 1-1 2-2 3-3 4-4 ||| 1444956
+! - al descubrir ||| ! - to discover ||| 0-0 1-1 2-2 3-3 ||| 1444956
+! - al ||| ! - to ||| 0-0 1-1 2-2 ||| 1444956
+! - con una flamante moneda única ||| - one with a brand-new single currency ||| 1-0 2-2 3-3 4-4 6-5 5-6 ||| 1632626
+! - con una flamante ||| - one with a brand-new ||| 1-0 2-2 3-3 4-4 ||| 1632626
+! - con una flamante ||| forget - one with a brand-new ||| 1-1 2-3 3-4 4-5 ||| 1632626
+! - con una flamante ||| not forget - one with a brand-new ||| 1-2 2-4 3-5 4-6 ||| 1632626
+! - con una ||| &apos;s not forget - one with a ||| 1-3 2-5 3-6 ||| 1632626
+! - con una ||| - one with a ||| 1-0 2-2 3-3 ||| 1632626
+! - con una ||| forget - one with a ||| 1-1 2-3 3-4 ||| 1632626
+! - con una ||| not forget - one with a ||| 1-2 2-4 3-5 ||| 1632626
+! - con ||| &apos;s not forget - one with ||| 1-3 2-5 ||| 1632626
+! - con ||| - one with ||| 1-0 2-2 ||| 1632626
+! - con ||| forget - one with ||| 1-1 2-3 ||| 1632626
+! - con ||| it ||| 2-0 ||| 115497
+! - con ||| not forget - one with ||| 1-2 2-4 ||| 1632626
+! - concebir un programa específico para ||| ! create a programme specific to ||| 0-0 2-1 3-2 4-3 5-4 6-5 ||| 111590
+! - concebir un programa específico ||| ! create a programme specific ||| 0-0 2-1 3-2 4-3 5-4 ||| 111590
+! - concebir un programa ||| ! create a programme ||| 0-0 2-1 3-2 4-3 ||| 111590
+! - concebir un ||| ! create a ||| 0-0 2-1 3-2 ||| 111590
+! - concebir ||| ! create ||| 0-0 2-1 ||| 111590
+! - de la energía antes de ||| ! - of the energy before ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 1907214
+! - de la energía antes ||| ! - of the energy before ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 1907214
+! - de la energía ||| ! - of the energy ||| 0-0 1-1 2-2 3-3 4-4 ||| 1907214
+! - de la ||| ! - of the ||| 0-0 1-1 2-2 3-3 ||| 1907214
+! - de los gastos operativos son ||| ! - of operational expenses are ||| 0-0 1-1 2-2 5-3 3-4 4-4 6-5 ||| 1548445
+! - de los gastos operativos ||| ! - of operational expenses ||| 0-0 1-1 2-2 5-3 3-4 4-4 ||| 1548445
+! - de ||| ! - of ||| 0-0 1-1 2-2 ||| 1548445
+! - de ||| ! - of ||| 0-0 1-1 2-2 ||| 1907214
+! - del ponente liberal , como ||| of the liberal rapporteur ||| 2-0 2-1 4-2 3-3 ||| 1785861
+! - del ponente liberal , ||| of the liberal rapporteur ||| 2-0 2-1 4-2 3-3 ||| 1785861
+! - del ponente liberal ||| of the liberal rapporteur ||| 2-0 2-1 4-2 3-3 ||| 1785861
+! - del ||| of the ||| 2-0 2-1 ||| 1785861
+! - desde un punto de ||| emphasize , from an ||| 0-0 1-1 2-2 3-3 ||| 1553876
+! - desde un punto ||| emphasize , from an ||| 0-0 1-1 2-2 3-3 ||| 1553876
+! - desde un ||| emphasize , from an ||| 0-0 1-1 2-2 3-3 ||| 1553876
+! - desde ||| emphasize , from ||| 0-0 1-1 2-2 ||| 1553876
+! - el Sr. ||| Parliament ||| 2-0 ||| 1528577
+! - el ||| Parliament ||| 2-0 ||| 1528577
+! - en un instrumento jurídico ||| ! in an interminable legal ||| 0-0 2-1 3-2 4-3 5-4 ||| 1501496
+! - en un instrumento jurídico ||| is ! in an interminable legal ||| 0-1 2-2 3-3 4-4 5-5 ||| 1501496
+! - en un instrumento jurídico ||| it is ! in an interminable legal ||| 0-2 2-3 3-4 4-5 5-6 ||| 1501496
+! - en un instrumento ||| ! in an interminable ||| 0-0 2-1 3-2 4-3 ||| 1501496
+! - en un instrumento ||| is ! in an interminable ||| 0-1 2-2 3-3 4-4 ||| 1501496
+! - en un instrumento ||| it is ! in an interminable ||| 0-2 2-3 3-4 4-5 ||| 1501496
+! - en un ||| ! in an ||| 0-0 2-1 3-2 ||| 1501496
+! - en un ||| is ! in an ||| 0-1 2-2 3-3 ||| 1501496
+! - en un ||| it is ! in an ||| 0-2 2-3 3-4 ||| 1501496
+! - en ||| ! in ||| 0-0 2-1 ||| 1501496
+! - en ||| is ! in ||| 0-1 2-2 ||| 1501496
+! - en ||| it is ! in ||| 0-2 2-3 ||| 1501496
+! - establecen que el acceso de ||| ! - stipulate that access to ||| 0-0 1-1 2-2 3-3 4-4 5-4 6-5 ||| 976756
+! - establecen que el acceso ||| ! - stipulate that access ||| 0-0 1-1 2-2 3-3 4-4 5-4 ||| 976756
+! - establecen que ||| ! - stipulate that ||| 0-0 1-1 2-2 3-3 ||| 976756
+! - establecen ||| ! - stipulate ||| 0-0 1-1 2-2 ||| 976756
+! - ha actuado a tiempo : ||| ! - took timely action : it ||| 0-0 1-1 2-2 3-2 5-3 6-5 ||| 404864
+! - ha actuado a tiempo : ||| ! - took timely action : ||| 0-0 1-1 2-2 3-2 5-3 6-5 ||| 404864
+! - ha actuado a tiempo ||| ! - took timely action ||| 0-0 1-1 2-2 3-2 5-3 ||| 404864
+! - ha actuado a tiempo ||| ! - took timely ||| 0-0 1-1 2-2 3-2 5-3 ||| 404864
+! - ha actuado a ||| ! - took ||| 0-0 1-1 2-2 3-2 ||| 404864
+! - ha actuado ||| ! - took ||| 0-0 1-1 2-2 3-2 ||| 404864
+! - hemos creado 500.000 ||| ! - we have created 500 ||| 0-0 1-1 2-2 2-3 3-4 4-5 ||| 1544880
+! - hemos creado ||| ! - we have created ||| 0-0 1-1 2-2 2-3 3-4 ||| 1544880
+! - hemos ||| ! - we have ||| 0-0 1-1 2-2 2-3 ||| 1544880
+! - los belgas , los franceses ||| ! - the Belgians , the French ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 166353
+! - los belgas , los ||| ! - the Belgians , the ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 166353
+! - los belgas , ||| ! - the Belgians , ||| 0-0 1-1 2-2 3-3 4-4 ||| 166353
+! - los belgas ||| ! - the Belgians ||| 0-0 1-1 2-2 3-3 ||| 166353
+! - los ||| ! - the ||| 0-0 1-1 2-2 ||| 166353
+! - mientras que el ||| ! - while the ||| 0-0 1-1 2-2 3-2 4-3 ||| 1326797
+! - mientras que ||| ! - while ||| 0-0 1-1 2-2 3-2 ||| 1326797
+! - no atribuya un papel fundamental ||| - did not focus ||| 1-0 2-1 2-2 3-3 ||| 1582445
+! - no atribuya un papel ||| - did not focus ||| 1-0 2-1 2-2 3-3 ||| 1582445
+! - no atribuya un ||| - did not focus ||| 1-0 2-1 2-2 3-3 ||| 1582445
+! - no atribuya ||| - did not focus ||| 1-0 2-1 2-2 3-3 ||| 1582445
+! - no ||| - did not ||| 1-0 2-1 2-2 ||| 1582445
+! - no ||| . ||| 0-0 ||| 1819687
+! - obliga a las empresas a ||| ! - that is forcing companies to ||| 0-0 1-1 2-2 2-3 2-4 3-4 4-5 5-5 6-6 ||| 1585988
+! - obliga a las empresas ||| ! - that is forcing companies ||| 0-0 1-1 2-2 2-3 2-4 3-4 4-5 5-5 ||| 1585988
+! - obliga a ||| ! - that is forcing ||| 0-0 1-1 2-2 2-3 2-4 3-4 ||| 1585988
+! - para abordar esta terrible ||| ! - to deal with this terrible ||| 0-0 1-1 2-2 3-3 3-4 4-5 5-6 ||| 1388815
+! - para abordar esta ||| ! - to deal with this ||| 0-0 1-1 2-2 3-3 3-4 4-5 ||| 1388815
+! - para abordar ||| ! - to deal with ||| 0-0 1-1 2-2 3-3 3-4 ||| 1388815
+! - para ||| ! - to ||| 0-0 1-1 2-2 ||| 1388815
+! - pedir a los contribuyentes de ||| ! - to ask ordinary taxpayers of ||| 0-0 1-1 2-2 2-3 3-4 4-5 5-5 6-6 ||| 1451915
+! - pedir a los contribuyentes ||| ! - to ask ordinary taxpayers ||| 0-0 1-1 2-2 2-3 3-4 4-5 5-5 ||| 1451915
+! - pedir a ||| ! - to ask ordinary ||| 0-0 1-1 2-2 2-3 3-4 ||| 1451915
+! - pedir ||| ! - to ask ||| 0-0 1-1 2-2 2-3 ||| 1451915
+! - pero el hecho es que ||| ! - but in fact , ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-5 ||| 1350571
+! - pero el hecho ||| ! - but in fact ||| 0-0 1-1 2-2 3-3 4-4 ||| 1350571
+! - pero el ||| ! - but in ||| 0-0 1-1 2-2 3-3 ||| 1350571
+! - pero ||| ! - but ||| 0-0 1-1 2-2 ||| 1350571
+! - por decirlo claramente . ||| , to put it quite bluntly . ||| 1-0 2-1 3-2 3-3 4-4 4-5 5-6 ||| 1573738
+! - por decirlo claramente ||| , to put it quite bluntly ||| 1-0 2-1 3-2 3-3 4-4 4-5 ||| 1573738
+! - por decirlo ||| , to put it ||| 1-0 2-1 3-2 3-3 ||| 1573738
+! - por desajuste de ||| out . ||| 3-0 0-1 ||| 1828863
+! - por desajuste de ||| watch out . ||| 3-1 0-2 ||| 1828863
+! - por desajuste ||| out . ||| 3-0 0-1 ||| 1828863
+! - por desajuste ||| watch out . ||| 3-1 0-2 ||| 1828863
+! - por ||| , to ||| 1-0 2-1 ||| 1573738
+! - por ||| . ||| 0-0 ||| 1828863
+! - que , con ||| , with ||| 3-0 4-1 ||| 1548559
+! - que , ||| , ||| 3-0 ||| 1548559
+! - que era el ||| ! - that it was the ||| 0-0 1-1 2-2 3-3 3-4 4-5 ||| 1682611
+! - que era el único ||| ! - that it was the only ||| 0-0 1-1 2-2 3-3 3-4 4-5 5-6 ||| 1682611
+! - que era ||| ! - that it was ||| 0-0 1-1 2-2 3-3 3-4 ||| 1682611
+! - que estemos en contra del ||| that we disagree with the ||| 2-0 3-1 3-2 4-2 4-3 5-3 6-4 ||| 1499036
+! - que estemos en contra ||| that we disagree with ||| 2-0 3-1 3-2 4-2 4-3 5-3 ||| 1499036
+! - que interesa a ||| ! - which is of interest to ||| 0-0 1-1 2-2 3-3 3-4 3-5 4-6 ||| 1014231
+! - que interesa ||| ! - which is of interest ||| 0-0 1-1 2-2 3-3 3-4 3-5 ||| 1014231
+! - que presentó la propuesta de ||| ! - who tabled the proposal for ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 ||| 903968
+! - que presentó la propuesta ||| ! - who tabled the proposal ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| 903968
+! - que presentó la ||| ! - who tabled the ||| 0-0 1-1 2-2 3-3 4-4 ||| 903968
+! - que presentó ||| ! - who tabled ||| 0-0 1-1 2-2 3-3 ||| 903968
+! - que ||| ! - I ||| 0-0 1-1 2-2 ||| 920546
+! - que ||| ! - that ||| 0-0 1-1 2-2 ||| 1682611
+! - que ||| ! - which ||| 0-0 1-1 2-2 ||| 1014231
+! - que ||| ! - who ||| 0-0 1-1 2-2 ||| 903968
+! - que ||| that ||| 2-0 ||| 1499036
+! - sobre la coordinación en el ||| - relating to applying coordination in the ||| 1-0 2-1 3-3 4-4 5-5 6-6 ||| 393756
+! - sobre la coordinación en ||| - relating to applying coordination in ||| 1-0 2-1 3-3 4-4 5-5 ||| 393756
+! - sobre la coordinación ||| - relating to applying coordination ||| 1-0 2-1 3-3 4-4 ||| 393756
+! - sobre la ||| - relating to applying ||| 1-0 2-1 3-3 ||| 393756
+! - sobre ||| - relating to ||| 1-0 2-1 ||| 393756
+! - sobre ||| - relating ||| 1-0 2-1 ||| 393756
+! - y el 0,1 % del ||| ! - and 0.1 % of the ||| 0-0 1-1 2-2 4-3 3-4 5-4 6-5 6-6 ||| 1244774
+! - y el 0,1 % ||| ! - and 0.1 % ||| 0-0 1-1 2-2 4-3 3-4 5-4 ||| 1244774
+! - y las violaciones de ||| ! - denounced infringements of ||| 0-0 1-1 2-2 3-3 4-3 5-4 ||| 1576998
+! - y las violaciones ||| ! - denounced infringements ||| 0-0 1-1 2-2 3-3 4-3 ||| 1576998
+! - y limita así la sobreexplotación ||| ! - thereby restricting the overexploitation ||| 0-0 1-1 2-2 4-2 3-3 5-4 6-5 ||| 839924
+! - y limita así la ||| ! - thereby restricting the ||| 0-0 1-1 2-2 4-2 3-3 5-4 ||| 839924
+! - y limita así ||| ! - thereby restricting ||| 0-0 1-1 2-2 4-2 3-3 ||| 839924
+! - y no selectivamente , para ||| fully , and not selectively - so ||| 0-0 0-1 1-1 2-2 3-3 4-4 5-5 6-6 ||| 1926391
+! - y no selectivamente , ||| fully , and not selectively - ||| 0-0 0-1 1-1 2-2 3-3 4-4 5-5 ||| 1926391
+! - y no selectivamente ||| fully , and not selectively ||| 0-0 0-1 1-1 2-2 3-3 4-4 ||| 1926391
+! - y no ||| fully , and not ||| 0-0 0-1 1-1 2-2 3-3 ||| 1926391
+! - y ||| ! - and ||| 0-0 1-1 2-2 ||| 1244774
+! - y ||| ! - denounced ||| 0-0 1-1 2-2 ||| 1576998
+! - y ||| fully , and ||| 0-0 0-1 1-1 2-2 ||| 1926391
+! - ||| ! - ||| 0-0 1-1 ||| 1014231
+! - ||| ! - ||| 0-0 1-1 ||| 1111398
+! - ||| ! - ||| 0-0 1-1 ||| 1244774
+! - ||| ! - ||| 0-0 1-1 ||| 1326797
+! - ||| ! - ||| 0-0 1-1 ||| 1350571
+! - ||| ! - ||| 0-0 1-1 ||| 1388815
+! - ||| ! - ||| 0-0 1-1 ||| 1444956
+! - ||| ! - ||| 0-0 1-1 ||| 1451915
+! - ||| ! - ||| 0-0 1-1 ||| 1544880
+! - ||| ! - ||| 0-0 1-1 ||| 1548445
+! - ||| ! - ||| 0-0 1-1 ||| 1576998
+! - ||| ! - ||| 0-0 1-1 ||| 1585988
+! - ||| ! - ||| 0-0 1-1 ||| 1588187
+! - ||| ! - ||| 0-0 1-1 ||| 166353
+! - ||| ! - ||| 0-0 1-1 ||| 1682611
+! - ||| ! - ||| 0-0 1-1 ||| 172806
+! - ||| ! - ||| 0-0 1-1 ||| 1860425
+! - ||| ! - ||| 0-0 1-1 ||| 1885180
+! - ||| ! - ||| 0-0 1-1 ||| 1907214
+! - ||| ! - ||| 0-0 1-1 ||| 222030
+! - ||| ! - ||| 0-0 1-1 ||| 404864
+! - ||| ! - ||| 0-0 1-1 ||| 782622
+! - ||| ! - ||| 0-0 1-1 ||| 800044
+! - ||| ! - ||| 0-0 1-1 ||| 839924

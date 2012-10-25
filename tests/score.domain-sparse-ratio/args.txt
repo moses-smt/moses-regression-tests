@@ -1,0 +1,1 @@
+$data_dir/models/score.domain/extract $data_dir/models/score.domain/lex $outPath --SparseDomainRatio $data_dir/models/score.domain/domain 
