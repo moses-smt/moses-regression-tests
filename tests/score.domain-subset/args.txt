@@ -1,1 +1,1 @@
-$data_dir/models/score.domain/extract $data_dir/models/score.domain/lex $outPath --DomainSubset $data_dir/models/score.domain/domain 
+$data_dir/models/score.domain/extract $data_dir/models/score.domain/lex $outPath --DomainSubset $data_dir/models/score.domain/domain --NoWordAlignment
