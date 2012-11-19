@@ -3,7 +3,7 @@
 use strict;
 use Getopt::Long;
 
-my $mosesRoot, $mosesBin, $test_name, $data_dir, $test_dir, $results_dir;
+my ($mosesRoot, $mosesBin, $test_name, $data_dir, $test_dir, $results_dir);
 
 GetOptions("moses-root=s" => \$mosesRoot,
            "moses-bin=s" => \$mosesBin,
@@ -13,13 +13,18 @@ GetOptions("moses-root=s" => \$mosesRoot,
            "results-dir=s"=> \$results_dir,
           ) or exit 1;
 
-print STDERR "hello world! \n $mosesRoot \n $test_name \n $data_dir \n $test_dir \n $results_dir \n";
-
 my $cmd;
 
-$cmd = "$mosesBin/processPhraseTableMin -in $test_dir/phrase-table.gz -out $results_dir/phrase-table -nscores 5 -threads 4";
+$cmd = "$mosesBin/processPhraseTableMin -in $test_dir/$test_name/phrase-table.gz -out $results_dir/phrase-table -nscores 5 -threads 4";
+print STDERR "Executing: $cmd\n";
 `$cmd`;
 
-$cmd = "md5sum $results_dir/phrase-table > $results_dir/out"
+$cmd = "$mosesBin/processLexicalTableMin -in $test_dir/$test_name/reordering-table.gz -out $results_dir/reordering-table -threads 4";
+print STDERR "Executing: $cmd\n";
+`$cmd`;
+
+$cmd = "md5sum $results_dir/phrase-table.minphr $results_dir/reordering-table.minlexr | cut -f 1 -d ' ' > $results_dir/out";
+print STDERR "Executing: $cmd\n";
+`$cmd`;
 
 
