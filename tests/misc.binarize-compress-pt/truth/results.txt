@@ -1,2 +1,10 @@
-612824705f87e297b917906d53b08d75
-da0d84703cf954ea9e38a340ca408dd0
+0 ||| draft calendar of conferences and meetings in the economic , social and related fields for the biennium 2002 -2003 . (e)  ||| d: 0 -1.6499 0 0 -1.2849 0 0 lm: -48.7038 w: -21 tm: -0.182322 -24.8097 -0.112053 -10.5619 4.99948 ||| -10.7284
+1 ||| international cooperation in the field of the information  ||| d: 0 -2.29846 0 0 -0.643025 0 0 lm: -25.0678 w: -8 tm: -7.40497 -10.3773 -0.289889 -5.58972 3.99959 ||| -4.91989
+2 ||| documentation  ||| d: 0 -0.387116 0 0 0 0 0 lm: -6.58617 w: -1 tm: -0.120628 -0.0240981 -0.0500109 -0.0240981 0.999896 ||| -0.791854
+3 ||| report of the secretary - general on the implementation of the council resolution 2000 / 28 . (f)  ||| d: -12 -0.915572 0 -1.89566 -0.18149 0 -3.09273 lm: -43.473 w: -18 tm: -2.72202 -9.26263 -0.424235 -6.9993 6.99927 ||| -9.13721
+4 ||| long - term programme in support for haiti  ||| d: 0 -1.49003 0 0 -0.710431 0 0 lm: -43.4164 w: -8 tm: -0.302589 -6.68227 -0.457356 -8.33598 2.99969 ||| -5.86011
+5 ||| documentation  ||| d: 0 -0.387116 0 0 0 0 0 lm: -6.58617 w: -1 tm: -0.120628 -0.0240981 -0.0500109 -0.0240981 0.999896 ||| -0.791854
+6 ||| report of the secretary - general ( council decision 2000 / 235 ) . (g)  ||| d: 0 -1.75105 0 0 -1.75669 0 0 lm: -40.9287 w: -15 tm: -0.0621318 -5.24708 -0.0971644 -5.02861 4.99948 ||| -7.13874
+7 ||| malaria and diarreicas diseases , in particular cholera  ||| d: -4 -0.313572 -0.762139 -0.510826 0 0 -1.71374 lm: -43.2929 w: -8 tm: -0.542827 -3.17519 -0.665745 -3.32462 2.99969 ||| -205.872
+8 ||| documentation  ||| d: 0 -0.387116 0 0 0 0 0 lm: -6.58617 w: -1 tm: -0.120628 -0.0240981 -0.0500109 -0.0240981 0.999896 ||| -0.791854
+9 ||| note by the secretary - general transmitting the report of the director general of the world health organization ( council resolution 1998 / 36 )  ||| d: -12 -7.97295 0 -2.56589 -3.58023 0 -5.27332 lm: -71.3034 w: -25 tm: -11.6595 -24.7038 -1.66432 -12.3694 11.9988 ||| -15.642
