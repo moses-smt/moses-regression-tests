@@ -28,10 +28,10 @@ print STDERR "Executing: $cmd\n";
 `$cmd`;
 
 my $origIni = "$test_dir/$test_name/moses.ini";
-my $local_moses_ini = MosesRegressionTesting::get_localized_moses_ini($origIni, $data_dir);
+my $local_moses_ini = MosesRegressionTesting::get_localized_moses_ini($origIni, $data_dir, $results_dir);
 print STDERR "local_moses_ini=$local_moses_ini \n";
 
-$cmd = "$mosesBin/moses -f $local_moses_ini -i $test_dir/$test_name/to-translate.txt -n-best-list $results_dir/out 1";
+$cmd = "$mosesBin/moses -f $local_moses_ini -i $test_dir/$test_name/to-translate.txt";
 print STDERR "Executing: $cmd\n";
 `$cmd`;
 
