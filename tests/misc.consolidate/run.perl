@@ -19,21 +19,10 @@ GetOptions("moses-root=s" => \$mosesRoot,
 
 my $cmd;
 
-$cmd = "$mosesBin/processPhraseTableMin -in $test_dir/$test_name/phrase-table.0-0.1.1.gz -out $results_dir/phrase-table.0-0.1.1 -nscores 5 -threads 4";
+$cmd = "$mosesBin/consolidate  $test_dir/$test_name/phrase-table.1.half.f2e $test_dir/$test_name/phrase-table.1.half.e2f $results_dir/out";
 print STDERR "Executing: $cmd\n";
 `$cmd`;
 
-$cmd = "$mosesBin/processLexicalTableMin -in $test_dir/$test_name/reordering-table.0-0.wbe-msd-bidirectional-fe.gz -out $results_dir/reordering-table.0-0.wbe-msd-bidirectional-fe -threads 4";
-print STDERR "Executing: $cmd\n";
-`$cmd`;
-
-my $origIni = "$test_dir/$test_name/moses.ini";
-my $local_moses_ini = MosesRegressionTesting::get_localized_moses_ini($origIni, $data_dir, $results_dir);
-print STDERR "local_moses_ini=$local_moses_ini \n";
-
-$cmd = "$mosesBin/moses -f $local_moses_ini -i $test_dir/$test_name/to-translate.txt";
-print STDERR "Executing: $cmd\n";
-`$cmd`;
 
 
 
