@@ -1,0 +1,10 @@
+[general]
+source_language = fr
+target_language = en
+strategy = Score
+input_stem = TESTDIR/input
+output_stem = RESULTSDIR/output
+
+[score]
+proportion = 0.5
+score_file = TESTDIR/score
