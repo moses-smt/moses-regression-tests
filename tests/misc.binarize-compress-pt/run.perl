@@ -17,6 +17,8 @@ GetOptions("moses-root=s" => \$mosesRoot,
            "results-dir=s"=> \$results_dir,
           ) or exit 1;
 
+`mkdir -p $results_dir`;
+
 my $cmd;
 
 $cmd = "$mosesBin/processPhraseTableMin -in $test_dir/$test_name/phrase-table.0-0.1.1.gz -out $results_dir/phrase-table.0-0.1.1 -nscores 5 -threads 4";
