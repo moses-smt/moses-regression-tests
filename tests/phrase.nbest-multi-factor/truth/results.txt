@@ -1,8 +1,8 @@
 TRANSLATION_0=there are various different opinions . 
-LMLOAD_TIME ~ 4.512
-PTLOAD_TIME ~ 4.687
-PTLOAD_TIME ~ 6.131
+LMLOAD_TIME ~ 6.780
+PTLOAD_TIME ~ 6.895
+PTLOAD_TIME ~ 7.978
 SCORE_0 = -113.734
-TRANSLATION_0_NBEST_1=there are various different opinions . ||| Distortion_1: 0 LM_1: -21.6664 WordPenalty_1: -6 UnknownWordPenalty_1: -100 PhraseModel_1: -3.46226 -10.822 -2.82666 -9.32004 2.99969 Generation_1: -0.0625204 -18.098 PhraseModel_2: -2.44147 -4.91188 -6.12017 -10.5033 2.99969
-TRANSLATION_0_NBEST_2=there are various other opinions . ||| Distortion_1: 0 LM_1: -25.3276 WordPenalty_1: -6 UnknownWordPenalty_1: -100 PhraseModel_1: -1.94591 -10.3833 -0.693147 -7.77959 1.99979 Generation_1: -0.149241 -16.9924 PhraseModel_2: -0.924822 -4.91188 -3.33314 -10.5033 1.99979
-TOTAL_WALLTIME ~ 7
+TRANSLATION_0_NBEST_1=there are various different opinions . ||| Distortion_0: 0 LM_0: -21.6664 WordPenalty_0: -6 UnknownWordPenalty_0: -100 PhraseModel_0: -3.46226 -10.822 -2.82666 -9.32004 2.99969 Generation_0: -0.0625204 -18.098 PhraseModel_1: -2.44147 -4.91188 -6.12017 -10.5033 2.99969
+TRANSLATION_0_NBEST_2=there are various other opinions . ||| Distortion_0: 0 LM_0: -25.3276 WordPenalty_0: -6 UnknownWordPenalty_0: -100 PhraseModel_0: -1.94591 -10.3833 -0.693147 -7.77959 1.99979 Generation_0: -0.149241 -16.9924 PhraseModel_1: -0.924822 -4.91188 -3.33314 -10.5033 1.99979
+TOTAL_WALLTIME ~ 9

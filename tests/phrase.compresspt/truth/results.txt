@@ -1,11 +1,11 @@
 TRANSLATION_0=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . 
-LMLOAD_TIME ~ 0.141
-PTLOAD_TIME ~ 0.142
-PTLOAD_TIME ~ 0.147
+LMLOAD_TIME ~ 0.087
+PTLOAD_TIME ~ 0.087
+PTLOAD_TIME ~ 0.087
 SCORE_0 = -549.862
-TRANSLATION_0_NBEST_1=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . ||| Distortion_1: 0 LM_1: -112.888 WordPenalty_1: -9 UnknownWordPenalty_1: -500 PhraseModel_1: -5.01064 -2.17433 -1.73026 -6.17638 2.99969 ||| -549.862 ||| 0=0 1=1 2=2 3=3 4=4 5-6=5-6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
-TRANSLATION_0_NBEST_2=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . ||| Distortion_1: 0 LM_1: -112.888 WordPenalty_1: -9 UnknownWordPenalty_1: -500 PhraseModel_1: -6.00156 -2.17433 -1.82688 -6.17638 3.99959 ||| -549.88 ||| 0=0 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
-TRANSLATION_0_NBEST_3=beide Versäumnisse made terroristische Gruppen in Pakistan gestärkt . ||| Distortion_1: 0 LM_1: -116.003 WordPenalty_1: -9 UnknownWordPenalty_1: -500 PhraseModel_1: -1.37305 -2.17433 -1.73026 -2.3922 2.99969 ||| -549.936 ||| 0=0 1=1 2=2 3=3 4=4 5-6=5-6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
-TRANSLATION_0_NBEST_4=beide Versäumnisse made terroristische Gruppen in Pakistan gestärkt . ||| Distortion_1: 0 LM_1: -116.003 WordPenalty_1: -9 UnknownWordPenalty_1: -500 PhraseModel_1: -2.36397 -2.17433 -1.82688 -2.3922 3.99959 ||| -549.953 ||| 0=0 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
-TRANSLATION_0_NBEST_5=beide Versäumnisse , terroristische Gruppen in Pakistan . gestärkt ||| Distortion_1: -3 LM_1: -110.706 WordPenalty_1: -9 UnknownWordPenalty_1: -500 PhraseModel_1: -5.01064 -2.17433 -1.73026 -6.17638 2.99969 ||| -550.572 ||| 0=0 1=1 2=2 3=3 4=4 5-6=5-6 8=7 7=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 8-7 7-8 
+TRANSLATION_0_NBEST_1=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . ||| Distortion_0: 0 LM_0: -112.888 WordPenalty_0: -9 UnknownWordPenalty_0: -500 PhraseModel_0: -5.01064 -2.17433 -1.73026 -6.17638 2.99969 ||| -549.862 ||| 0=0 1=1 2=2 3=3 4=4 5-6=5-6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
+TRANSLATION_0_NBEST_2=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . ||| Distortion_0: 0 LM_0: -112.888 WordPenalty_0: -9 UnknownWordPenalty_0: -500 PhraseModel_0: -6.00156 -2.17433 -1.82688 -6.17638 3.99959 ||| -549.88 ||| 0=0 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
+TRANSLATION_0_NBEST_3=beide Versäumnisse made terroristische Gruppen in Pakistan gestärkt . ||| Distortion_0: 0 LM_0: -116.003 WordPenalty_0: -9 UnknownWordPenalty_0: -500 PhraseModel_0: -1.37305 -2.17433 -1.73026 -2.3922 2.99969 ||| -549.936 ||| 0=0 1=1 2=2 3=3 4=4 5-6=5-6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
+TRANSLATION_0_NBEST_4=beide Versäumnisse made terroristische Gruppen in Pakistan gestärkt . ||| Distortion_0: 0 LM_0: -116.003 WordPenalty_0: -9 UnknownWordPenalty_0: -500 PhraseModel_0: -2.36397 -2.17433 -1.82688 -2.3922 3.99959 ||| -549.953 ||| 0=0 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
+TRANSLATION_0_NBEST_5=beide Versäumnisse , terroristische Gruppen in Pakistan . gestärkt ||| Distortion_0: -3 LM_0: -110.706 WordPenalty_0: -9 UnknownWordPenalty_0: -500 PhraseModel_0: -5.01064 -2.17433 -1.73026 -6.17638 2.99969 ||| -550.572 ||| 0=0 1=1 2=2 3=3 4=4 5-6=5-6 8=7 7=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 8-7 7-8 
 TOTAL_WALLTIME ~ 0
