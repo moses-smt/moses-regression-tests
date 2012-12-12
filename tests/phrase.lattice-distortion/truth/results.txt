@@ -14,40 +14,40 @@ SCORE_4 = 2.004
 SCORE_5 = -0.233
 SCORE_6 = -1.851
 SCORE_7 = -196.549
-TRANSLATION_0_NBEST_1=1 2 ||| Distortion_0: 0 LM_0: -4.30484 WordPenalty_0: -2 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -4.60517 -4.60517
-TRANSLATION_0_NBEST_2=2 1 ||| Distortion_0: -3 LM_0: -9.70915 WordPenalty_0: -2 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -4.60517 -4.60517
-TRANSLATION_1_NBEST_1=1 2 3 ||| Distortion_0: 0 LM_0: -6.08823 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_1_NBEST_2=12 3 ||| Distortion_0: 0 LM_0: -7.98575 WordPenalty_0: -2 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -4.60517 -4.60517
-TRANSLATION_1_NBEST_3=2 3 1 ||| Distortion_0: -3 LM_0: -9.26988 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_1_NBEST_4=1 3 2 ||| Distortion_0: -3 LM_0: -10.7767 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_1_NBEST_5=3 1 2 ||| Distortion_0: -3 LM_0: -10.9714 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_1_NBEST_6=3 12 ||| Distortion_0: -3 LM_0: -10.0318 WordPenalty_0: -2 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -4.60517 -4.60517
-TRANSLATION_1_NBEST_7=3 2 1 ||| Distortion_0: -4 LM_0: -12.57 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_1_NBEST_8=2 1 3 ||| Distortion_0: -3 LM_0: -13.645 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_2_NBEST_1=1 2 3 ||| Distortion_0: 0 LM_0: -6.08823 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_2_NBEST_2=2 3 1 ||| Distortion_0: -3 LM_0: -9.26988 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_2_NBEST_3=1 3 2 ||| Distortion_0: -3 LM_0: -10.7767 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_2_NBEST_4=3 1 2 ||| Distortion_0: -3 LM_0: -10.9714 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_2_NBEST_5=3 2 1 ||| Distortion_0: -4 LM_0: -12.57 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_2_NBEST_6=2 1 3 ||| Distortion_0: -3 LM_0: -13.645 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_3_NBEST_1=1 2 3 ||| Distortion_0: 0 LM_0: -6.08823 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_3_NBEST_2=1 12 ||| Distortion_0: 0 LM_0: -9.28642 WordPenalty_0: -2 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -4.60517 -4.60517
-TRANSLATION_3_NBEST_3=2 3 1 ||| Distortion_0: -3 LM_0: -9.26988 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_3_NBEST_4=1 3 2 ||| Distortion_0: -2 LM_0: -10.7767 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_3_NBEST_5=12 1 ||| Distortion_0: -3 LM_0: -8.59503 WordPenalty_0: -2 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -4.60517 -4.60517
-TRANSLATION_3_NBEST_6=3 1 2 ||| Distortion_0: -4 LM_0: -10.9714 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_3_NBEST_7=3 2 1 ||| Distortion_0: -5 LM_0: -12.57 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_3_NBEST_8=2 1 3 ||| Distortion_0: -4 LM_0: -13.645 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_4_NBEST_1=1234 3 4 5 ||| Distortion_0: -3 LM_0: -8.02249 WordPenalty_0: -4 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -9.21034 -9.21034
-TRANSLATION_4_NBEST_2=4 1234 5 ||| Distortion_0: -3 LM_0: -7.07413 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_4_NBEST_3=3 4 5 1234 ||| Distortion_0: 0 LM_0: -12.8014 WordPenalty_0: -4 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -9.21034 -9.21034
-TRANSLATION_4_NBEST_4=2 3 1234 ||| Distortion_0: 0 LM_0: -10.4352 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_4_NBEST_5=1234 4 5 ||| Distortion_0: -3 LM_0: -7.84275 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_4_NBEST_6=1234 5 4 ||| Distortion_0: -4 LM_0: -6.99714 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_4_NBEST_7=1 1234 ||| Distortion_0: 0 LM_0: -8.4748 WordPenalty_0: -2 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -4.60517 -4.60517
-TRANSLATION_4_NBEST_8=5 4 1234 ||| Distortion_0: -3 LM_0: -8.17776 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_4_NBEST_9=3 4 1234 5 ||| Distortion_0: -3 LM_0: -11.6793 WordPenalty_0: -4 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -9.21034 -9.21034
-TRANSLATION_4_NBEST_10=4 5 1234 ||| Distortion_0: 0 LM_0: -12.0545 WordPenalty_0: -3 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -6.90776 -6.90776
-TRANSLATION_5_NBEST_1=1 ||| Distortion_0: 0 LM_0: -4.54836 WordPenalty_0: -1 UnknownWordPenalty_0: 0 PhraseModel_0: 0 -2.30259 -2.30259
-TRANSLATION_6_NBEST_1=' ||| Distortion_0: 0 LM_0: -101.55 WordPenalty_0: -1 UnknownWordPenalty_0: -100 PhraseModel_0: 0 0 0
-TOTAL_WALLTIME ~ 1
+TRANSLATION_0_NBEST_1=1 2 ||| Distortion0= 0 LM0= -4.30484 WordPenalty0= -2 UnknownWordPenalty0= 0 PhraseModel0= 0 -4.60517 -4.60517
+TRANSLATION_0_NBEST_2=2 1 ||| Distortion0= -3 LM0= -9.70915 WordPenalty0= -2 UnknownWordPenalty0= 0 PhraseModel0= 0 -4.60517 -4.60517
+TRANSLATION_1_NBEST_1=1 2 3 ||| Distortion0= 0 LM0= -6.08823 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_1_NBEST_2=12 3 ||| Distortion0= 0 LM0= -7.98575 WordPenalty0= -2 UnknownWordPenalty0= 0 PhraseModel0= 0 -4.60517 -4.60517
+TRANSLATION_1_NBEST_3=2 3 1 ||| Distortion0= -3 LM0= -9.26988 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_1_NBEST_4=1 3 2 ||| Distortion0= -3 LM0= -10.7767 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_1_NBEST_5=3 1 2 ||| Distortion0= -3 LM0= -10.9714 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_1_NBEST_6=3 12 ||| Distortion0= -3 LM0= -10.0318 WordPenalty0= -2 UnknownWordPenalty0= 0 PhraseModel0= 0 -4.60517 -4.60517
+TRANSLATION_1_NBEST_7=3 2 1 ||| Distortion0= -4 LM0= -12.57 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_1_NBEST_8=2 1 3 ||| Distortion0= -3 LM0= -13.645 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_2_NBEST_1=1 2 3 ||| Distortion0= 0 LM0= -6.08823 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_2_NBEST_2=2 3 1 ||| Distortion0= -3 LM0= -9.26988 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_2_NBEST_3=1 3 2 ||| Distortion0= -3 LM0= -10.7767 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_2_NBEST_4=3 1 2 ||| Distortion0= -3 LM0= -10.9714 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_2_NBEST_5=3 2 1 ||| Distortion0= -4 LM0= -12.57 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_2_NBEST_6=2 1 3 ||| Distortion0= -3 LM0= -13.645 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_3_NBEST_1=1 2 3 ||| Distortion0= 0 LM0= -6.08823 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_3_NBEST_2=1 12 ||| Distortion0= 0 LM0= -9.28642 WordPenalty0= -2 UnknownWordPenalty0= 0 PhraseModel0= 0 -4.60517 -4.60517
+TRANSLATION_3_NBEST_3=2 3 1 ||| Distortion0= -3 LM0= -9.26988 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_3_NBEST_4=1 3 2 ||| Distortion0= -2 LM0= -10.7767 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_3_NBEST_5=12 1 ||| Distortion0= -3 LM0= -8.59503 WordPenalty0= -2 UnknownWordPenalty0= 0 PhraseModel0= 0 -4.60517 -4.60517
+TRANSLATION_3_NBEST_6=3 1 2 ||| Distortion0= -4 LM0= -10.9714 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_3_NBEST_7=3 2 1 ||| Distortion0= -5 LM0= -12.57 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_3_NBEST_8=2 1 3 ||| Distortion0= -4 LM0= -13.645 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_4_NBEST_1=1234 3 4 5 ||| Distortion0= -3 LM0= -8.02249 WordPenalty0= -4 UnknownWordPenalty0= 0 PhraseModel0= 0 -9.21034 -9.21034
+TRANSLATION_4_NBEST_2=4 1234 5 ||| Distortion0= -3 LM0= -7.07413 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_4_NBEST_3=3 4 5 1234 ||| Distortion0= 0 LM0= -12.8014 WordPenalty0= -4 UnknownWordPenalty0= 0 PhraseModel0= 0 -9.21034 -9.21034
+TRANSLATION_4_NBEST_4=2 3 1234 ||| Distortion0= 0 LM0= -10.4352 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_4_NBEST_5=1234 4 5 ||| Distortion0= -3 LM0= -7.84275 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_4_NBEST_6=1234 5 4 ||| Distortion0= -4 LM0= -6.99714 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_4_NBEST_7=1 1234 ||| Distortion0= 0 LM0= -8.4748 WordPenalty0= -2 UnknownWordPenalty0= 0 PhraseModel0= 0 -4.60517 -4.60517
+TRANSLATION_4_NBEST_8=5 4 1234 ||| Distortion0= -3 LM0= -8.17776 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_4_NBEST_9=3 4 1234 5 ||| Distortion0= -3 LM0= -11.6793 WordPenalty0= -4 UnknownWordPenalty0= 0 PhraseModel0= 0 -9.21034 -9.21034
+TRANSLATION_4_NBEST_10=4 5 1234 ||| Distortion0= 0 LM0= -12.0545 WordPenalty0= -3 UnknownWordPenalty0= 0 PhraseModel0= 0 -6.90776 -6.90776
+TRANSLATION_5_NBEST_1=1 ||| Distortion0= 0 LM0= -4.54836 WordPenalty0= -1 UnknownWordPenalty0= 0 PhraseModel0= 0 -2.30259 -2.30259
+TRANSLATION_6_NBEST_1=' ||| Distortion0= 0 LM0= -101.55 WordPenalty0= -1 UnknownWordPenalty0= -100 PhraseModel0= 0 0 0
+TOTAL_WALLTIME ~ 0
