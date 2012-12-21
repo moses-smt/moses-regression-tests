@@ -1,0 +1,130 @@
+reprise ||| resumption ||| mono mono ||| 0.3
+reprise de ||| resumption of ||| mono mono ||| 0.3
+reprise de la ||| resumption of the ||| mono mono ||| 0.3
+reprise de la session ||| resumption of the session ||| mono mono ||| 0.3
+de ||| of ||| mono mono ||| 0.3
+de la ||| of the ||| mono mono ||| 0.3
+de la session ||| of the session ||| mono mono ||| 0.3
+la ||| the ||| mono mono ||| 0.3
+la session ||| the session ||| mono mono ||| 0.3
+session ||| session ||| mono mono ||| 0.3
+je ||| i ||| mono mono ||| 0.7
+je déclare ||| i declare ||| mono mono ||| 0.7
+je déclare reprise ||| i declare resumed ||| mono mono ||| 0.7
+je déclare reprise la ||| i declare resumed the ||| mono mono ||| 0.7
+je déclare reprise la session ||| i declare resumed the session ||| mono mono ||| 0.7
+je déclare reprise la session du ||| i declare resumed the session of the ||| mono other ||| 0.7
+déclare ||| declare ||| mono mono ||| 0.7
+déclare reprise ||| declare resumed ||| mono mono ||| 0.7
+déclare reprise la ||| declare resumed the ||| mono mono ||| 0.7
+déclare reprise la session ||| declare resumed the session ||| mono mono ||| 0.7
+déclare reprise la session du ||| declare resumed the session of the ||| mono other ||| 0.7
+reprise ||| resumed ||| mono mono ||| 0.7
+reprise la ||| resumed the ||| mono mono ||| 0.7
+reprise la session ||| resumed the session ||| mono mono ||| 0.7
+reprise la session du ||| resumed the session of the ||| mono other ||| 0.7
+reprise la session du parlement européen ||| resumed the session of the european parliament ||| mono mono ||| 0.7
+la ||| the ||| mono mono ||| 0.7
+la session ||| the session ||| mono mono ||| 0.7
+la session du ||| the session of the ||| mono other ||| 0.7
+la session du parlement européen ||| the session of the european parliament ||| mono mono ||| 0.7
+session ||| session ||| mono mono ||| 0.7
+session du ||| session of the ||| mono other ||| 0.7
+session du parlement européen ||| session of the european parliament ||| mono mono ||| 0.7
+du ||| of the ||| mono other ||| 0.7
+du parlement européen ||| of the european parliament ||| mono mono ||| 0.7
+du parlement européen qui avait été interrompue ||| of the european parliament adjourned ||| mono mono ||| 0.7
+européen ||| european ||| other swap ||| 0.7
+parlement européen ||| european parliament ||| mono mono ||| 0.7
+parlement européen qui avait été interrompue ||| european parliament adjourned ||| mono mono ||| 0.7
+parlement européen qui avait été interrompue le ||| european parliament adjourned on ||| mono mono ||| 0.7
+parlement ||| parliament ||| swap other ||| 0.7
+qui avait été interrompue ||| adjourned ||| other mono ||| 0.7
+qui avait été interrompue le ||| adjourned on ||| other mono ||| 0.7
+qui avait été interrompue le vendredi ||| adjourned on friday ||| other mono ||| 0.7
+qui avait été interrompue le vendredi 17 ||| adjourned on friday 17 ||| other mono ||| 0.7
+le ||| on ||| mono mono ||| 0.7
+le vendredi ||| on friday ||| mono mono ||| 0.7
+le vendredi 17 ||| on friday 17 ||| mono mono ||| 0.7
+le vendredi 17 décembre ||| on friday 17 december ||| mono mono ||| 0.7
+le vendredi 17 décembre dernier ||| on friday 17 december 1999 ||| mono other ||| 0.7
+le vendredi 17 décembre dernier ||| on friday 17 december 1999 , ||| mono mono ||| 0.7
+le vendredi 17 décembre dernier et ||| on friday 17 december 1999 , and ||| mono mono ||| 0.7
+vendredi ||| friday ||| mono mono ||| 0.7
+vendredi 17 ||| friday 17 ||| mono mono ||| 0.7
+vendredi 17 décembre ||| friday 17 december ||| mono mono ||| 0.7
+vendredi 17 décembre dernier ||| friday 17 december 1999 ||| mono other ||| 0.7
+vendredi 17 décembre dernier ||| friday 17 december 1999 , ||| mono mono ||| 0.7
+vendredi 17 décembre dernier et ||| friday 17 december 1999 , and ||| mono mono ||| 0.7
+vendredi 17 décembre dernier et je ||| friday 17 december 1999 , and i ||| mono mono ||| 0.7
+17 ||| 17 ||| mono mono ||| 0.7
+17 décembre ||| 17 december ||| mono mono ||| 0.7
+17 décembre dernier ||| 17 december 1999 ||| mono other ||| 0.7
+17 décembre dernier ||| 17 december 1999 , ||| mono mono ||| 0.7
+17 décembre dernier et ||| 17 december 1999 , and ||| mono mono ||| 0.7
+17 décembre dernier et je ||| 17 december 1999 , and i ||| mono mono ||| 0.7
+17 décembre dernier et je vous ||| 17 december 1999 , and i would ||| mono mono ||| 0.7
+décembre ||| december ||| mono mono ||| 0.7
+décembre dernier ||| december 1999 ||| mono other ||| 0.7
+décembre dernier ||| december 1999 , ||| mono mono ||| 0.7
+décembre dernier et ||| december 1999 , and ||| mono mono ||| 0.7
+décembre dernier et je ||| december 1999 , and i ||| mono mono ||| 0.7
+décembre dernier et je vous ||| december 1999 , and i would ||| mono mono ||| 0.7
+dernier ||| 1999 ||| mono other ||| 0.7
+dernier ||| 1999 , ||| mono mono ||| 0.7
+dernier et ||| 1999 , and ||| mono mono ||| 0.7
+dernier et je ||| 1999 , and i ||| mono mono ||| 0.7
+dernier et je vous ||| 1999 , and i would ||| mono mono ||| 0.7
+et ||| , and ||| mono mono ||| 0.7
+et je ||| , and i ||| mono mono ||| 0.7
+et je vous ||| , and i would ||| mono mono ||| 0.7
+et ||| and ||| other mono ||| 0.7
+et je ||| and i ||| other mono ||| 0.7
+et je vous ||| and i would ||| other mono ||| 0.7
+je ||| i ||| mono mono ||| 0.7
+je vous ||| i would ||| mono mono ||| 0.7
+vous ||| would ||| mono mono ||| 0.7
+en ||| wish you a happy new year in ||| other mono ||| 0.7
+en ||| you a happy new year in ||| other mono ||| 0.7
+en ||| a happy new year in ||| other mono ||| 0.7
+en espérant ||| a happy new year in the hope ||| other mono ||| 0.7
+en ||| happy new year in ||| other mono ||| 0.7
+en espérant ||| happy new year in the hope ||| other mono ||| 0.7
+en espérant que ||| happy new year in the hope that ||| other mono ||| 0.7
+en ||| new year in ||| other mono ||| 0.7
+en espérant ||| new year in the hope ||| other mono ||| 0.7
+en espérant que ||| new year in the hope that ||| other mono ||| 0.7
+en espérant que vous avez ||| new year in the hope that you ||| other mono ||| 0.7
+en ||| year in ||| other mono ||| 0.7
+en espérant ||| year in the hope ||| other mono ||| 0.7
+en espérant que ||| year in the hope that ||| other mono ||| 0.7
+en espérant que vous avez ||| year in the hope that you ||| other mono ||| 0.7
+en espérant que vous avez passé ||| year in the hope that you enjoyed ||| other mono ||| 0.7
+en ||| in ||| other mono ||| 0.7
+en espérant ||| in the hope ||| other mono ||| 0.7
+en espérant que ||| in the hope that ||| other mono ||| 0.7
+en espérant que vous avez ||| in the hope that you ||| other mono ||| 0.7
+en espérant que vous avez passé ||| in the hope that you enjoyed ||| other mono ||| 0.7
+en espérant que vous avez passé de ||| in the hope that you enjoyed a ||| other mono ||| 0.7
+espérant ||| the hope ||| mono mono ||| 0.7
+espérant que ||| the hope that ||| mono mono ||| 0.7
+espérant que vous avez ||| the hope that you ||| mono mono ||| 0.7
+espérant que vous avez passé ||| the hope that you enjoyed ||| mono mono ||| 0.7
+espérant que vous avez passé de ||| the hope that you enjoyed a ||| mono mono ||| 0.7
+espérant que vous avez passé de bonnes ||| the hope that you enjoyed a pleasant ||| mono mono ||| 0.7
+que ||| that ||| mono mono ||| 0.7
+que vous avez ||| that you ||| mono mono ||| 0.7
+que vous avez passé ||| that you enjoyed ||| mono mono ||| 0.7
+que vous avez passé de ||| that you enjoyed a ||| mono mono ||| 0.7
+que vous avez passé de bonnes ||| that you enjoyed a pleasant ||| mono mono ||| 0.7
+vous avez ||| you ||| mono mono ||| 0.7
+vous avez passé ||| you enjoyed ||| mono mono ||| 0.7
+vous avez passé de ||| you enjoyed a ||| mono mono ||| 0.7
+vous avez passé de bonnes ||| you enjoyed a pleasant ||| mono mono ||| 0.7
+passé ||| enjoyed ||| mono mono ||| 0.7
+passé de ||| enjoyed a ||| mono mono ||| 0.7
+passé de bonnes ||| enjoyed a pleasant ||| mono mono ||| 0.7
+de ||| a ||| mono mono ||| 0.7
+de bonnes ||| a pleasant ||| mono mono ||| 0.7
+bonnes ||| pleasant ||| mono mono ||| 0.7
+. ||| . ||| mono mono ||| 0.7

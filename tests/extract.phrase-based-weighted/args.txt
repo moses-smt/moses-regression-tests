@@ -1,0 +1,1 @@
+$data_dir/models/extract.phrase-based-weighted/en $data_dir/models/extract.phrase-based-weighted/fr $data_dir/models/extract.phrase-based-weighted/align.fr-en $outPath/extract 7 orientation --model wbe-msd --InstanceWeights $data_dir/models/extract.phrase-based-weighted/weights
