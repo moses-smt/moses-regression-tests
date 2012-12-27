@@ -1,0 +1,130 @@
+resumption ||| reprise ||| 0-0 ||| 0.3
+resumption of ||| reprise de ||| 0-0 1-1 ||| 0.3
+resumption of the ||| reprise de la ||| 0-0 1-1 2-2 ||| 0.3
+resumption of the session ||| reprise de la session ||| 0-0 1-1 2-2 3-3 ||| 0.3
+of ||| de ||| 0-0 ||| 0.3
+of the ||| de la ||| 0-0 1-1 ||| 0.3
+of the session ||| de la session ||| 0-0 1-1 2-2 ||| 0.3
+the ||| la ||| 0-0 ||| 0.3
+the session ||| la session ||| 0-0 1-1 ||| 0.3
+session ||| session ||| 0-0 ||| 0.3
+i ||| je ||| 0-0 ||| 0.7
+i declare ||| je déclare ||| 0-0 1-1 ||| 0.7
+i declare resumed ||| je déclare reprise ||| 0-0 1-1 2-2 ||| 0.7
+i declare resumed the ||| je déclare reprise la ||| 0-0 1-1 2-2 3-3 ||| 0.7
+i declare resumed the session ||| je déclare reprise la session ||| 0-0 1-1 2-2 3-3 4-4 ||| 0.7
+i declare resumed the session of the ||| je déclare reprise la session du ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-5 ||| 0.7
+declare ||| déclare ||| 0-0 ||| 0.7
+declare resumed ||| déclare reprise ||| 0-0 1-1 ||| 0.7
+declare resumed the ||| déclare reprise la ||| 0-0 1-1 2-2 ||| 0.7
+declare resumed the session ||| déclare reprise la session ||| 0-0 1-1 2-2 3-3 ||| 0.7
+declare resumed the session of the ||| déclare reprise la session du ||| 0-0 1-1 2-2 3-3 4-4 5-4 ||| 0.7
+resumed ||| reprise ||| 0-0 ||| 0.7
+resumed the ||| reprise la ||| 0-0 1-1 ||| 0.7
+resumed the session ||| reprise la session ||| 0-0 1-1 2-2 ||| 0.7
+resumed the session of the ||| reprise la session du ||| 0-0 1-1 2-2 3-3 4-3 ||| 0.7
+resumed the session of the european parliament ||| reprise la session du parlement européen ||| 0-0 1-1 2-2 3-3 4-3 5-5 6-4 ||| 0.7
+the ||| la ||| 0-0 ||| 0.7
+the session ||| la session ||| 0-0 1-1 ||| 0.7
+the session of the ||| la session du ||| 0-0 1-1 2-2 3-2 ||| 0.7
+the session of the european parliament ||| la session du parlement européen ||| 0-0 1-1 2-2 3-2 4-4 5-3 ||| 0.7
+session ||| session ||| 0-0 ||| 0.7
+session of the ||| session du ||| 0-0 1-1 2-1 ||| 0.7
+session of the european parliament ||| session du parlement européen ||| 0-0 1-1 2-1 3-3 4-2 ||| 0.7
+of the ||| du ||| 0-0 1-0 ||| 0.7
+of the european parliament ||| du parlement européen ||| 0-0 1-0 2-2 3-1 ||| 0.7
+of the european parliament adjourned ||| du parlement européen qui avait été interrompue ||| 0-0 1-0 2-2 3-1 4-3 4-4 4-5 4-6 ||| 0.7
+european ||| européen ||| 0-0 ||| 0.7
+european parliament ||| parlement européen ||| 0-1 1-0 ||| 0.7
+european parliament adjourned ||| parlement européen qui avait été interrompue ||| 0-1 1-0 2-2 2-3 2-4 2-5 ||| 0.7
+european parliament adjourned on ||| parlement européen qui avait été interrompue le ||| 0-1 1-0 2-2 2-3 2-4 2-5 3-6 ||| 0.7
+parliament ||| parlement ||| 0-0 ||| 0.7
+adjourned ||| qui avait été interrompue ||| 0-0 0-1 0-2 0-3 ||| 0.7
+adjourned on ||| qui avait été interrompue le ||| 0-0 0-1 0-2 0-3 1-4 ||| 0.7
+adjourned on friday ||| qui avait été interrompue le vendredi ||| 0-0 0-1 0-2 0-3 1-4 2-5 ||| 0.7
+adjourned on friday 17 ||| qui avait été interrompue le vendredi 17 ||| 0-0 0-1 0-2 0-3 1-4 2-5 3-6 ||| 0.7
+on ||| le ||| 0-0 ||| 0.7
+on friday ||| le vendredi ||| 0-0 1-1 ||| 0.7
+on friday 17 ||| le vendredi 17 ||| 0-0 1-1 2-2 ||| 0.7
+on friday 17 december ||| le vendredi 17 décembre ||| 0-0 1-1 2-2 3-3 ||| 0.7
+on friday 17 december 1999 ||| le vendredi 17 décembre dernier ||| 0-0 1-1 2-2 3-3 4-4 ||| 0.7
+on friday 17 december 1999 , ||| le vendredi 17 décembre dernier ||| 0-0 1-1 2-2 3-3 4-4 ||| 0.7
+on friday 17 december 1999 , and ||| le vendredi 17 décembre dernier et ||| 0-0 1-1 2-2 3-3 4-4 6-5 ||| 0.7
+friday ||| vendredi ||| 0-0 ||| 0.7
+friday 17 ||| vendredi 17 ||| 0-0 1-1 ||| 0.7
+friday 17 december ||| vendredi 17 décembre ||| 0-0 1-1 2-2 ||| 0.7
+friday 17 december 1999 ||| vendredi 17 décembre dernier ||| 0-0 1-1 2-2 3-3 ||| 0.7
+friday 17 december 1999 , ||| vendredi 17 décembre dernier ||| 0-0 1-1 2-2 3-3 ||| 0.7
+friday 17 december 1999 , and ||| vendredi 17 décembre dernier et ||| 0-0 1-1 2-2 3-3 5-4 ||| 0.7
+friday 17 december 1999 , and i ||| vendredi 17 décembre dernier et je ||| 0-0 1-1 2-2 3-3 5-4 6-5 ||| 0.7
+17 ||| 17 ||| 0-0 ||| 0.7
+17 december ||| 17 décembre ||| 0-0 1-1 ||| 0.7
+17 december 1999 ||| 17 décembre dernier ||| 0-0 1-1 2-2 ||| 0.7
+17 december 1999 , ||| 17 décembre dernier ||| 0-0 1-1 2-2 ||| 0.7
+17 december 1999 , and ||| 17 décembre dernier et ||| 0-0 1-1 2-2 4-3 ||| 0.7
+17 december 1999 , and i ||| 17 décembre dernier et je ||| 0-0 1-1 2-2 4-3 5-4 ||| 0.7
+17 december 1999 , and i would ||| 17 décembre dernier et je vous ||| 0-0 1-1 2-2 4-3 5-4 6-5 ||| 0.7
+december ||| décembre ||| 0-0 ||| 0.7
+december 1999 ||| décembre dernier ||| 0-0 1-1 ||| 0.7
+december 1999 , ||| décembre dernier ||| 0-0 1-1 ||| 0.7
+december 1999 , and ||| décembre dernier et ||| 0-0 1-1 3-2 ||| 0.7
+december 1999 , and i ||| décembre dernier et je ||| 0-0 1-1 3-2 4-3 ||| 0.7
+december 1999 , and i would ||| décembre dernier et je vous ||| 0-0 1-1 3-2 4-3 5-4 ||| 0.7
+1999 ||| dernier ||| 0-0 ||| 0.7
+1999 , ||| dernier ||| 0-0 ||| 0.7
+1999 , and ||| dernier et ||| 0-0 2-1 ||| 0.7
+1999 , and i ||| dernier et je ||| 0-0 2-1 3-2 ||| 0.7
+1999 , and i would ||| dernier et je vous ||| 0-0 2-1 3-2 4-3 ||| 0.7
+, and ||| et ||| 1-0 ||| 0.7
+, and i ||| et je ||| 1-0 2-1 ||| 0.7
+, and i would ||| et je vous ||| 1-0 2-1 3-2 ||| 0.7
+and ||| et ||| 0-0 ||| 0.7
+and i ||| et je ||| 0-0 1-1 ||| 0.7
+and i would ||| et je vous ||| 0-0 1-1 2-2 ||| 0.7
+i ||| je ||| 0-0 ||| 0.7
+i would ||| je vous ||| 0-0 1-1 ||| 0.7
+would ||| vous ||| 0-0 ||| 0.7
+wish you a happy new year in ||| en ||| 6-0 ||| 0.7
+you a happy new year in ||| en ||| 5-0 ||| 0.7
+a happy new year in ||| en ||| 4-0 ||| 0.7
+a happy new year in the hope ||| en espérant ||| 4-0 5-1 6-1 ||| 0.7
+happy new year in ||| en ||| 3-0 ||| 0.7
+happy new year in the hope ||| en espérant ||| 3-0 4-1 5-1 ||| 0.7
+happy new year in the hope that ||| en espérant que ||| 3-0 4-1 5-1 6-2 ||| 0.7
+new year in ||| en ||| 2-0 ||| 0.7
+new year in the hope ||| en espérant ||| 2-0 3-1 4-1 ||| 0.7
+new year in the hope that ||| en espérant que ||| 2-0 3-1 4-1 5-2 ||| 0.7
+new year in the hope that you ||| en espérant que vous avez ||| 2-0 3-1 4-1 5-2 6-3 6-4 ||| 0.7
+year in ||| en ||| 1-0 ||| 0.7
+year in the hope ||| en espérant ||| 1-0 2-1 3-1 ||| 0.7
+year in the hope that ||| en espérant que ||| 1-0 2-1 3-1 4-2 ||| 0.7
+year in the hope that you ||| en espérant que vous avez ||| 1-0 2-1 3-1 4-2 5-3 5-4 ||| 0.7
+year in the hope that you enjoyed ||| en espérant que vous avez passé ||| 1-0 2-1 3-1 4-2 5-3 5-4 6-5 ||| 0.7
+in ||| en ||| 0-0 ||| 0.7
+in the hope ||| en espérant ||| 0-0 1-1 2-1 ||| 0.7
+in the hope that ||| en espérant que ||| 0-0 1-1 2-1 3-2 ||| 0.7
+in the hope that you ||| en espérant que vous avez ||| 0-0 1-1 2-1 3-2 4-3 4-4 ||| 0.7
+in the hope that you enjoyed ||| en espérant que vous avez passé ||| 0-0 1-1 2-1 3-2 4-3 4-4 5-5 ||| 0.7
+in the hope that you enjoyed a ||| en espérant que vous avez passé de ||| 0-0 1-1 2-1 3-2 4-3 4-4 5-5 6-6 ||| 0.7
+the hope ||| espérant ||| 0-0 1-0 ||| 0.7
+the hope that ||| espérant que ||| 0-0 1-0 2-1 ||| 0.7
+the hope that you ||| espérant que vous avez ||| 0-0 1-0 2-1 3-2 3-3 ||| 0.7
+the hope that you enjoyed ||| espérant que vous avez passé ||| 0-0 1-0 2-1 3-2 3-3 4-4 ||| 0.7
+the hope that you enjoyed a ||| espérant que vous avez passé de ||| 0-0 1-0 2-1 3-2 3-3 4-4 5-5 ||| 0.7
+the hope that you enjoyed a pleasant ||| espérant que vous avez passé de bonnes ||| 0-0 1-0 2-1 3-2 3-3 4-4 5-5 6-6 ||| 0.7
+that ||| que ||| 0-0 ||| 0.7
+that you ||| que vous avez ||| 0-0 1-1 1-2 ||| 0.7
+that you enjoyed ||| que vous avez passé ||| 0-0 1-1 1-2 2-3 ||| 0.7
+that you enjoyed a ||| que vous avez passé de ||| 0-0 1-1 1-2 2-3 3-4 ||| 0.7
+that you enjoyed a pleasant ||| que vous avez passé de bonnes ||| 0-0 1-1 1-2 2-3 3-4 4-5 ||| 0.7
+you ||| vous avez ||| 0-0 0-1 ||| 0.7
+you enjoyed ||| vous avez passé ||| 0-0 0-1 1-2 ||| 0.7
+you enjoyed a ||| vous avez passé de ||| 0-0 0-1 1-2 2-3 ||| 0.7
+you enjoyed a pleasant ||| vous avez passé de bonnes ||| 0-0 0-1 1-2 2-3 3-4 ||| 0.7
+enjoyed ||| passé ||| 0-0 ||| 0.7
+enjoyed a ||| passé de ||| 0-0 1-1 ||| 0.7
+enjoyed a pleasant ||| passé de bonnes ||| 0-0 1-1 2-2 ||| 0.7
+a ||| de ||| 0-0 ||| 0.7
+a pleasant ||| de bonnes ||| 0-0 1-1 ||| 0.7
+pleasant ||| bonnes ||| 0-0 ||| 0.7
+. ||| . ||| 0-0 ||| 0.7
