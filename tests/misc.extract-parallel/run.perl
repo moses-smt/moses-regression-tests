@@ -17,9 +17,24 @@ GetOptions("moses-root=s" => \$mosesRoot,
            "results-dir=s"=> \$results_dir,
           ) or exit 1;
 
-my $cmd;
+my $splitCmd = `gsplit --help 2>/dev/null`; 
+if($splitCmd) {
+  $splitCmd = 'gsplit';
+}
+else {
+  $splitCmd = 'split';
+}
 
-$cmd = "$mosesRoot/scripts/generic/extract-parallel.perl 2 split sort $mosesBin/extract $test_dir/$test_name/en $test_dir/$test_name/fr $test_dir/$test_name/align.fr-en $results_dir/extract 7 --GZOutput 2> $results_dir/log";
+my $sortCmd = `gsort --help 2>/dev/null`; 
+if($sortCmd) {
+  $sortCmd = 'gsort';
+}
+else {
+  $sortCmd = 'sort';
+}
+
+my $cmd;
+$cmd = "$mosesRoot/scripts/generic/extract-parallel.perl 2 $splitCmd $sortCmd $mosesBin/extract $test_dir/$test_name/en $test_dir/$test_name/fr $test_dir/$test_name/align.fr-en $results_dir/extract 7 --GZOutput 2> $results_dir/log";
 print STDERR "Executing: $cmd\n";
 `$cmd`;
 my $is_osx = ($^O eq "darwin");
