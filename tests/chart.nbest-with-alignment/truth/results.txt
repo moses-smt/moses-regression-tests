@@ -4,10 +4,9 @@ TRANSLATION_2=nach einem steilen Rückgang der Morgen der Prager Stock Markt ihr
 TRANSLATION_3=Geschäfte mit Aktien aus der Tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der täglichen Handel . regelmäßigen
 TRANSLATION_4=Über die Prag Stock Market sofort seinem Sturz von Montag Anfang der Handel , wenn es um beinahe sechs Prozent . Tuesday
 TRANSLATION_5=diesmal in Aktien an der Wall Street dem Fall ist für die fallen .
-LMLOAD_TIME ~ 1.043
-PTLOAD_TIME ~ 1.084
-PTLOAD_TIME ~ 37.340
-PTLOAD_TIME ~ 37.849
+PTLOAD_TIME ~ 0.224
+PTLOAD_TIME ~ 14.513
+PTLOAD_TIME ~ 14.644
 SCORE_0 = -12.918
 SCORE_1 = -0.774
 SCORE_2 = -12.745
@@ -35,4 +34,4 @@ TRANSLATION_5_NBEST_1=diesmal in Aktien an der Wall Street dem Fall ist für die
 TRANSLATION_5_NBEST_2=diesmal in Aktien an der Wall Street dem Fall ist dafür die fallen . ||| LM0: -32.2937 WordPenalty0: -6.94871 PhraseModel0: -15.8795 -25.4668 -16.7206 -25.3747 9.99896 PhraseModel1: 6.99927 ||| -9.15155 |||  ||| 
 TRANSLATION_5_NBEST_3=diesmal die fallen in Aktien an der Wall Street ist verantwortlich für die fallen . ||| LM0: -37.6507 WordPenalty0: -7.38301 PhraseModel0: -9.75694 -16.2587 -12.1807 -21.6218 10.9989 PhraseModel1: 10.9989 ||| -9.15602 |||  ||| 
 TRANSLATION_5_NBEST_4=diesmal die fallen in Aktien an der Wall Street ist verantwortungsvolle für die fallen . ||| LM0: -37.6507 WordPenalty0: -7.38301 PhraseModel0: -8.97208 -15.2468 -13.6316 -23.5387 10.9989 PhraseModel1: 10.9989 ||| -9.17054 |||  ||| 
-TOTAL_WALLTIME ~ 89
+TOTAL_WALLTIME ~ 30
