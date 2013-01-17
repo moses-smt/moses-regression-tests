@@ -1,8 +1,7 @@
 TRANSLATION_1=the first time the realm of the constitution 
 TRANSLATION_2=the rule of law 
-LMLOAD_TIME ~ 3.271
-PTLOAD_TIME ~ 3.271
-PTLOAD_TIME ~ 3.307
+PTLOAD_TIME ~ 3.043
+PTLOAD_TIME ~ 3.078
 SCORE_1 = -1.400
 SCORE_2 = -0.487
 TOTAL_WALLTIME ~ 3

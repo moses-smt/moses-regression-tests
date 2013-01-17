@@ -4,8 +4,7 @@ TRANSLATION_2=this is a little building .
 TRANSLATION_3=this is a small house . 
 TRANSLATION_4=this is a small house . 
 TRANSLATION_5=this is a nice place . 
-LMLOAD_TIME ~ 9.189
-PTLOAD_TIME ~ 9.197
+PTLOAD_TIME ~ 3.032
 SCORE_0 = -94.029
 SCORE_1 = -94.029
 SCORE_2 = -92.554
@@ -72,4 +71,4 @@ TRANSLATION_5_NBEST_7=this is an nice place . ||| Distortion0= 0 LM0= -31.5425 W
 TRANSLATION_5_NBEST_8=this is a little dwelling . ||| Distortion0= 0 LM0= -31.093 WordPenalty0= -6 PhraseModel0= 0.528273
 TRANSLATION_5_NBEST_9=this is a small dwelling . ||| Distortion0= 0 LM0= -31.5834 WordPenalty0= -6 PhraseModel0= 0.528273
 TRANSLATION_5_NBEST_10=it is a little dwelling . ||| Distortion0= 0 LM0= -31.1384 WordPenalty0= -6 PhraseModel0= -0.858022
-TOTAL_WALLTIME ~ 10
+TOTAL_WALLTIME ~ 3
