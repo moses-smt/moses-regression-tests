@@ -1,7 +1,8 @@
 TRANSLATION_0=there are various different opinions . 
-PTLOAD_TIME ~ 3.140
-PTLOAD_TIME ~ 4.005
+PTLOAD_TIME ~ 2.739
+PTLOAD_TIME ~ 3.593
+PTLOAD_TIME ~ 3.594
 SCORE_0 = -113.734
-TRANSLATION_0_NBEST_1=there are various different opinions . ||| Distortion0= 0 LM0= -21.6664 WordPenalty0= -6 Generation0= -0.0625204 -18.098 PhraseModel0= -3.46226 -10.822 -2.82666 -9.32004 2.99969 PhraseModel1= -2.44147 -4.91188 -6.12017 -10.5033 2.99969
-TRANSLATION_0_NBEST_2=there are various other opinions . ||| Distortion0= 0 LM0= -25.3276 WordPenalty0= -6 Generation0= -0.149241 -16.9924 PhraseModel0= -1.94591 -10.3833 -0.693147 -7.77959 1.99979 PhraseModel1= -0.924822 -4.91188 -3.33314 -10.5033 1.99979
+TRANSLATION_0_NBEST_1=there are various different opinions . ||| LM0= -21.6664 Distortion0= 0 WordPenalty0= -6 Generation0= -0.0625204 -18.098 PhraseModel0= -3.46226 -10.822 -2.82666 -9.32004 2.99969 PhraseModel1= -2.44147 -4.91188 -6.12017 -10.5033 2.99969
+TRANSLATION_0_NBEST_2=there are various other opinions . ||| LM0= -25.3276 Distortion0= 0 WordPenalty0= -6 Generation0= -0.149241 -16.9924 PhraseModel0= -1.94591 -10.3833 -0.693147 -7.77959 1.99979 PhraseModel1= -0.924822 -4.91188 -3.33314 -10.5033 1.99979
 TOTAL_WALLTIME ~ 4
