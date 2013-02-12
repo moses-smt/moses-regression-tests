@@ -3,9 +3,10 @@ TRANSLATION_2=the élus that we are have the with difference the us of the encou
 TRANSLATION_3=the prerequisites for the événements of these derniers time , the issue of the sufficiently of the essence to it also in remarquable . 
 TRANSLATION_4=in the , the council , it is train of examiner the inclusion of such mécanismes in article 7 . 
 TRANSLATION_5=secondly , in the transparency for the citizens , which are now the droits which they disposent vis-à-vis of those appliquent and élaborent the european law and , to those , precisely appliquent and élaborent this european law . 
+PTLOAD_TIME ~ 2.000
 SCORE_1 = -883.502
 SCORE_2 = -1994.346
 SCORE_3 = -898.780
 SCORE_4 = -894.141
 SCORE_5 = -1568.085
-TOTAL_WALLTIME ~ 7
+TOTAL_WALLTIME ~ 8
