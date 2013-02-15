@@ -1,8 +1,7 @@
 TRANSLATION_1=that is the order of business 
 TRANSLATION_2=this is the order of business 
 TRANSLATION_3=that is the order of business 
-PTLOAD_TIME ~ 3.059
 SCORE_1 = -2.966
 SCORE_2 = -2.565
 SCORE_3 = -2.966
-TOTAL_WALLTIME ~ 3
+TOTAL_WALLTIME ~ 4

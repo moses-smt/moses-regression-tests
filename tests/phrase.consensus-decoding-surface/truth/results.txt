@@ -3,6 +3,4 @@ TRANSLATION_2=if we look at the fälligkeitspläne the implementation of the budge
 TRANSLATION_3=three years ago , we have with our employment initiative started by small and medium-sized enterprises , halfen chancenkapital to obtain . 
 TRANSLATION_4=parliament wants the in two ways to do . 
 TRANSLATION_5=only then will the european institutions also its mandate fair . 
-PTLOAD_TIME ~ 3.039
-PTLOAD_TIME ~ 3.251
-TOTAL_WALLTIME ~ 65
+TOTAL_WALLTIME ~ 191
