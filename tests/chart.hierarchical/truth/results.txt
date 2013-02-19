@@ -4,13 +4,10 @@ TRANSLATION_3=nach einem steilen Rückgang der Morgen der Prager Stock Markt ihr
 TRANSLATION_4=Geschäfte mit Aktien aus der Tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der täglichen Handel . regelmäßigen
 TRANSLATION_5=Über die Prag Stock Market sofort seinem Sturz von Montag Anfang der Handel , wenn es um beinahe sechs Prozent . Tuesday
 TRANSLATION_6=diesmal in Aktien an der Wall Street dem Fall ist für die fallen .
-PTLOAD_TIME ~ 0.288
-PTLOAD_TIME ~ 14.404
-PTLOAD_TIME ~ 14.536
 SCORE_1 = -12.918
 SCORE_2 = -0.774
 SCORE_3 = -12.745
 SCORE_4 = -117.584
 SCORE_5 = -122.749
 SCORE_6 = -9.149
-TOTAL_WALLTIME ~ 30
+TOTAL_WALLTIME ~ 58

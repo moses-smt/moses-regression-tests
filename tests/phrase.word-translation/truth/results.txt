@@ -1,5 +1,6 @@
 TRANSLATION_1=of the realm of constitutional 
 TRANSLATION_2=rule 
+PTLOAD_TIME ~ 2.885
 SCORE_1 = -3.693
 SCORE_2 = -3.635
-TOTAL_WALLTIME ~ 4
+TOTAL_WALLTIME ~ 3
