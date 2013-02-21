@@ -1,4 +1,3 @@
 TRANSLATION_1=there are various different opinions . 
-PTLOAD_TIME ~ 3.125
 SCORE_1 = -113.734
-TOTAL_WALLTIME ~ 3
+TOTAL_WALLTIME ~ 8
