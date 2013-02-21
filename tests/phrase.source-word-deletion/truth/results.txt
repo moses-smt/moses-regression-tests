@@ -1,5 +1,6 @@
 TRANSLATION_1=especially the lawyers 
 TRANSLATION_2=country majority 
+PTLOAD_TIME ~ 3.000
 SCORE_1 = -2.819
 SCORE_2 = -0.390
-TOTAL_WALLTIME ~ 4
+TOTAL_WALLTIME ~ 3
