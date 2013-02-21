@@ -1,5 +1,4 @@
 TRANSLATION_0=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . 
-PTLOAD_TIME ~ 0.000
 SCORE_0 = -549.862
 TRANSLATION_0_NBEST_1=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . ||| IRSTLM0= -112.888 Distortion0= 0 WordPenalty0= -9 PhraseModel0= -5.01064 -2.17433 -1.73026 -6.17638 2.99969 ||| -549.862 ||| 0=0 1=1 2=2 3=3 4=4 5-6=5-6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
 TRANSLATION_0_NBEST_2=beide Versäumnisse , terroristische Gruppen in Pakistan gestärkt . ||| IRSTLM0= -112.888 Distortion0= 0 WordPenalty0= -9 PhraseModel0= -6.00156 -2.17433 -1.82688 -6.17638 3.99959 ||| -549.88 ||| 0=0 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 ||| 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 
