@@ -16,14 +16,15 @@ GetOptions("moses-root=s" => \$mosesRoot,
            "test-dir=s"=> \$test_dir,
            "results-dir=s"=> \$results_dir,
           ) or exit 1;
-
-my $cmd;
-
-$cmd = "$mosesRoot/scripts/generic/extract-parallel.perl 2 split sort $mosesBin/extract $test_dir/$test_name/en $test_dir/$test_name/fr $test_dir/$test_name/align.fr-en $results_dir/extract 7 --GZOutput --InstanceWeights $test_dir/$test_name/weights 2> $results_dir/log";
-print STDERR "Executing: $cmd\n";
-`$cmd`;
 my $is_osx = ($^O eq "darwin");
 my $catCmd = $is_osx?"gunzip -c ":"zcat ";
+my $splitCmd = $is_osx?"gsplit ":"split ";
+my $sortCmd = $is_osx?"gsort ":"sort ";
+
+my $cmd;
+$cmd = "$mosesRoot/scripts/generic/extract-parallel.perl 2 $splitCmd $sortCmd $mosesBin/extract $test_dir/$test_name/en $test_dir/$test_name/fr $test_dir/$test_name/align.fr-en $results_dir/extract 7 --GZOutput --InstanceWeights $test_dir/$test_name/weights 2> $results_dir/log";
+print STDERR "Executing: $cmd\n";
+`$cmd`;
 system("$catCmd $results_dir/extract.sorted.gz $results_dir/extract.inv.sorted.gz > $results_dir/out");
 
 
