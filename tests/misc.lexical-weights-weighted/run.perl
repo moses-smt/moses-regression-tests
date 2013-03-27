@@ -26,7 +26,7 @@ require "$mosesRoot/scripts/training/LexicalTranslationModel.pm";
               "$test_dir/$test_name/align.fr-en", "$results_dir/out",
               0, "","",undef,"$test_dir/$test_name/weights");
 
-system("cat $results_dir/out.f2e $results_dir/out.e2f > $results_dir/out");
+system("LC_ALL=C sort $results_dir/out.f2e $results_dir/out.e2f > $results_dir/out");
 
 
 
