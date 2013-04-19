@@ -17,16 +17,6 @@ GetOptions("moses-root=s" => \$mosesRoot,
            "results-dir=s"=> \$results_dir,
           ) or exit 1;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-my $cmd;
-$cmd = "$mosesRoot/scripts/generic/extract-parallel.perl 2 $splitCmd $sortCmd $mosesBin/extract $test_dir/$test_name/en $test_dir/$test_name/fr $test_dir/$test_name/align.fr-en $results_dir/extract 7 --GZOutput --InstanceWeights $test_dir/$test_name/weights 2> $results_dir/log";
-print STDERR "Executing: $cmd\n";
-`$cmd`;
-system("$catCmd $results_dir/extract.sorted.gz $results_dir/extract.inv.sorted.gz > $results_dir/out");
-=======
-=======
->>>>>>> 47addea26d2effd79843275644e2d287aa282266
 my $SPLIT_EXEC = `gsplit --help 2>/dev/null`; 
 if($SPLIT_EXEC) {
   $SPLIT_EXEC = 'gsplit';
@@ -51,9 +41,5 @@ print STDERR "Executing: $cmd\n";
 `$cmd`;
 
 system("$CAT_EXEC $results_dir/extract.sorted.gz $results_dir/extract.inv.sorted.gz > $results_dir/out");
-<<<<<<< HEAD
->>>>>>> 475688bf6e70934b733b1e3ffb711f997c993ba3
-=======
->>>>>>> 47addea26d2effd79843275644e2d287aa282266
 
 
