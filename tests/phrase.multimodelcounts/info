@@ -1,0 +1,12 @@
+perplexity minimization (not automated yet);
+optimized on ${MODEL_PATH}/multimodel/extract.sorted.gz
+
+
+Cross-entropy: 2.15755
+Weight vector for feature 0: 1 1.43374 
+Cross-entropy: 2.22417
+Weight vector for feature 1: 1 0.433226 
+Cross-entropy: 1.82226
+Weight vector for feature 2: 1 4.7673 
+Cross-entropy: 1.65899
+Weight vector for feature 3: 1 0.514971 
