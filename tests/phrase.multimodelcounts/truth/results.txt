@@ -1,0 +1,16 @@
+TRANSLATION_1=i declare resumed the session of the european parliament adjourned on thursday 3 february 2000 . 
+TRANSLATION_2=approval of the minutes of the previous sitting 
+TRANSLATION_3=the minutes of the sitting on thursday 3 february have been distributed . 
+TRANSLATION_4=are there any comments ? 
+TRANSLATION_5=i can see from your reaction that many of the members of parliament have not received the minutes and clearly you cannot approve minutes which you have not seen . 
+TRANSLATION_6=i therefore propose to submit the minutes for your approval tomorrow morning , since obviously you do not have them and i must apologise for this . 
+LMLOAD_TIME ~ 0.022
+PTLOAD_TIME ~ 0.025
+PTLOAD_TIME ~ 1.234
+SCORE_1 = -1196.237
+SCORE_2 = -797.813
+SCORE_3 = -997.015
+SCORE_4 = -398.716
+SCORE_5 = -2294.001
+SCORE_6 = -1994.913
+TOTAL_WALLTIME ~ 2
