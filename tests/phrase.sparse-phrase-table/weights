@@ -1,3 +1,3 @@
-SparsePhraseDictionaryFeature0_po 0.5
-SparsePhraseDictionaryFeature0_io -0.01
-SparsePhraseDictionaryFeature0_o 0.1
+PhraseDictionaryMemory0_po 0.5
+PhraseDictionaryMemory0_io -0.01
+PhraseDictionaryMemory0_o 0.1

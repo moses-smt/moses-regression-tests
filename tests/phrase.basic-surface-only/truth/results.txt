@@ -4,12 +4,10 @@ TRANSLATION_3=if we look at the fälligkeitspläne the implementation of the budge
 TRANSLATION_4=three years ago our employment strategy , we started by small and medium-sized enterprises , halfen chancenkapital to obtain . 
 TRANSLATION_5=parliament wants the in two ways . 
 TRANSLATION_6=only then will the european institutions to its mandate . 
-PTLOAD_TIME ~ 3.029
-PTLOAD_TIME ~ 3.240
 SCORE_1 = -14.843
 SCORE_2 = 0.000
 SCORE_3 = -153.032
 SCORE_4 = -278.157
 SCORE_5 = -5.995
 SCORE_6 = -7.015
-TOTAL_WALLTIME ~ 8
+TOTAL_WALLTIME ~ 31
