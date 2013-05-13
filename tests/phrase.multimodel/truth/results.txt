@@ -4,9 +4,6 @@ TRANSLATION_3=the minutes of the sitting on thursday 3 february have been distri
 TRANSLATION_4=are there any comments ? 
 TRANSLATION_5=i can see from your reaction that many of the members of parliament have not received the minutes and clearly you cannot approve minutes which you have not seen . 
 TRANSLATION_6=i therefore propose to submit the minutes for your approval tomorrow morning , since obviously you do not have them and i must apologise for this . 
-LMLOAD_TIME ~ 0.002
-PTLOAD_TIME ~ 0.005
-PTLOAD_TIME ~ 0.722
 SCORE_1 = -1197.531
 SCORE_2 = -797.813
 SCORE_3 = -997.538
