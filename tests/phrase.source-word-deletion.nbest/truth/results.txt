@@ -1,0 +1,107 @@
+TRANSLATION_1=especially the lawyers 
+TRANSLATION_2=country majority 
+SCORE_1 = -2.819
+SCORE_2 = -0.390
+TRANSLATION_0_NBEST_1=especially the lawyers ||| Distortion0= 0 KENLM0= -34.6013 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -0.693147 -1.47855 -0.693147 -9.42962 1.99979
+TRANSLATION_0_NBEST_2=especially the lawyers ' ||| Distortion0= 0 KENLM0= -36.962 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= 0 -3.80582 -0.693147 -9.42962 1.99979
+TRANSLATION_0_NBEST_3=especially the lawyers ||| Distortion0= 0 KENLM0= -34.6013 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -6.68461 -1.47854 -1.38629 -9.42962 2.99969
+TRANSLATION_0_NBEST_4=especially the lawyers ||| Distortion0= 0 KENLM0= -34.6013 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.31732 -1.47854 -1.57435 -9.42962 2.99969
+TRANSLATION_0_NBEST_5=especially the lawyers ' ||| Distortion0= 0 KENLM0= -36.962 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.99146 -3.80582 -1.38629 -9.42962 2.99969
+TRANSLATION_0_NBEST_6=especially the lawyers ' ||| Distortion0= 0 KENLM0= -36.962 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.62417 -3.80582 -1.57435 -9.42962 2.99969
+TRANSLATION_0_NBEST_7=especially lawyers the ||| Distortion0= -3 KENLM0= -35.606 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.31732 -1.47854 -1.57435 -9.42962 2.99969
+TRANSLATION_0_NBEST_8=especially to lawyers ||| Distortion0= 0 KENLM0= -34.2685 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.61841 -3.21315 -3.84303 -10.7807 2.99969
+TRANSLATION_0_NBEST_9=especially lawyers the ||| Distortion0= -5 KENLM0= -35.606 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -6.68461 -1.47854 -1.38629 -9.42962 2.99969
+TRANSLATION_0_NBEST_10=especially lawyers ' the ||| Distortion0= -3 KENLM0= -38.3181 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.62417 -3.80582 -1.57435 -9.42962 2.99969
+TRANSLATION_0_NBEST_11=the especially lawyers ||| Distortion0= -8 KENLM0= -33.3195 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -6.68461 -1.47854 -1.38629 -9.42962 2.99969
+TRANSLATION_0_NBEST_12=the especially lawyers ||| Distortion0= -8 KENLM0= -33.3195 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.31732 -1.47854 -1.57435 -9.42962 2.99969
+TRANSLATION_0_NBEST_13=especially to lawyers ' ||| Distortion0= 0 KENLM0= -36.6292 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.92527 -5.54042 -3.84303 -10.7807 2.99969
+TRANSLATION_0_NBEST_14=especially which lawyers ||| Distortion0= 0 KENLM0= -36.4623 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.59027 -3.61861 -3.84303 -8.61032 2.99969
+TRANSLATION_0_NBEST_15=especially lawyers ' the ||| Distortion0= -5 KENLM0= -38.3181 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.99146 -3.80582 -1.38629 -9.42962 2.99969
+TRANSLATION_0_NBEST_16=especially lawyers to ||| Distortion0= -3 KENLM0= -33.4945 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.61841 -3.21315 -3.84303 -10.7807 2.99969
+TRANSLATION_0_NBEST_17=especially lawyers who ||| Distortion0= -3 KENLM0= -32.9406 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -3.90629 -4.2485 -8.74385 2.99969
+TRANSLATION_0_NBEST_18=the especially lawyers ' ||| Distortion0= -8 KENLM0= -35.6802 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.99146 -3.80582 -1.38629 -9.42962 2.99969
+TRANSLATION_0_NBEST_19=the especially lawyers ' ||| Distortion0= -8 KENLM0= -35.6802 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.62417 -3.80582 -1.57435 -9.42962 2.99969
+TRANSLATION_0_NBEST_20=especially by lawyers ||| Distortion0= 0 KENLM0= -34.2574 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.64439 -5.0049 -4.94164 -10.5356 2.99969
+TRANSLATION_0_NBEST_21=especially which lawyers ' ||| Distortion0= 0 KENLM0= -38.823 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.89712 -5.94589 -3.84303 -8.61032 2.99969
+TRANSLATION_0_NBEST_22=especially lawyers which ||| Distortion0= -3 KENLM0= -35.6372 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.59027 -3.61861 -3.84303 -8.61032 2.99969
+TRANSLATION_0_NBEST_23=especially by lawyers ' ||| Distortion0= 0 KENLM0= -36.6181 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.95124 -7.33218 -4.94164 -10.5356 2.99969
+TRANSLATION_0_NBEST_24=especially his lawyers ||| Distortion0= 0 KENLM0= -35.7804 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.17049 -5.0049 -4.94164 -11.1862 2.99969
+TRANSLATION_0_NBEST_25=especially those lawyers ||| Distortion0= 0 KENLM0= -36.527 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -5.0049 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_26=especially who lawyers ||| Distortion0= 0 KENLM0= -38.6839 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -3.90629 -4.2485 -8.74385 2.99969
+TRANSLATION_0_NBEST_27=especially s lawyers ||| Distortion0= 0 KENLM0= -41.7353 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.92674 -3.21315 -3.14988 -10.0431 2.99969
+TRANSLATION_0_NBEST_28=especially lawyers were ||| Distortion0= -3 KENLM0= -34.4692 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.68888 -5.0049 -4.94164 -9.84246 2.99969
+TRANSLATION_0_NBEST_29=especially lawyers ' which ||| Distortion0= -3 KENLM0= -38.5613 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.89712 -5.94589 -3.84303 -8.61032 2.99969
+TRANSLATION_0_NBEST_30=especially his lawyers ' ||| Distortion0= 0 KENLM0= -38.1412 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.47734 -7.33218 -4.94164 -11.1862 2.99969
+TRANSLATION_0_NBEST_31=especially those lawyers ' ||| Distortion0= 0 KENLM0= -38.8877 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -7.33218 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_32=especially a lawyers ||| Distortion0= 0 KENLM0= -37.4219 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.71703 -5.0049 -4.94164 -11.8119 2.99969
+TRANSLATION_0_NBEST_33=especially lawyers ' s ||| Distortion0= -3 KENLM0= -40.299 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.23359 -5.54042 -3.14988 -10.0431 2.99969
+TRANSLATION_0_NBEST_34=especially who lawyers ' ||| Distortion0= 0 KENLM0= -41.0446 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -6.23357 -4.2485 -8.74385 2.99969
+TRANSLATION_0_NBEST_35=especially lawyers ' to ||| Distortion0= -3 KENLM0= -38.7354 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.92527 -5.54042 -3.84303 -10.7807 2.99969
+TRANSLATION_0_NBEST_36=especially lawyers there ||| Distortion0= -3 KENLM0= -35.4948 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.17805 -5.0049 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_37=especially lawyers s ||| Distortion0= -3 KENLM0= -39.8523 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.92674 -3.21315 -3.14988 -10.0431 2.99969
+TRANSLATION_0_NBEST_38=especially were lawyers ||| Distortion0= 0 KENLM0= -38.3492 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.68888 -5.0049 -4.94164 -9.84246 2.99969
+TRANSLATION_0_NBEST_39=especially lawyers by ||| Distortion0= -3 KENLM0= -35.3758 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.64439 -5.0049 -4.94164 -10.5356 2.99969
+TRANSLATION_0_NBEST_40=especially taking lawyers ||| Distortion0= 0 KENLM0= -39.1796 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -5.0049 -4.94164 -8.0507 2.99969
+TRANSLATION_0_NBEST_41=especially s lawyers ' ||| Distortion0= 0 KENLM0= -44.096 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.23359 -5.54042 -3.14988 -10.0431 2.99969
+TRANSLATION_0_NBEST_42=especially lawyers ' s ||| Distortion0= -3 KENLM0= -40.299 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.33221 -5.54042 -3.55535 -10.0431 2.99969
+TRANSLATION_0_NBEST_43=especially there lawyers ||| Distortion0= 0 KENLM0= -39.3632 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.17805 -5.0049 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_44=especially lawyers ' who ||| Distortion0= -3 KENLM0= -39.5361 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -6.23357 -4.2485 -8.74385 2.99969
+TRANSLATION_0_NBEST_45=especially a lawyers ' ||| Distortion0= 0 KENLM0= -39.7826 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.02388 -7.33218 -4.94164 -11.8119 2.99969
+TRANSLATION_0_NBEST_46=especially lawyers those ||| Distortion0= -3 KENLM0= -37.063 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -5.0049 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_47=especially were lawyers ' ||| Distortion0= 0 KENLM0= -40.7099 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.99573 -7.33218 -4.94164 -9.84246 2.99969
+TRANSLATION_0_NBEST_48=especially lawyers a ||| Distortion0= -3 KENLM0= -36.448 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.71703 -5.0049 -4.94164 -11.8119 2.99969
+TRANSLATION_0_NBEST_49=especially lawyers his ||| Distortion0= -3 KENLM0= -36.917 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.17049 -5.0049 -4.94164 -11.1862 2.99969
+TRANSLATION_0_NBEST_50=especially taking lawyers ' ||| Distortion0= 0 KENLM0= -41.5403 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -7.33218 -4.94164 -8.0507 2.99969
+TRANSLATION_0_NBEST_51=especially to be lawyers ||| Distortion0= 0 KENLM0= -40.7003 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.46574 -7.73765 -4.94164 -10.7807 2.99969
+TRANSLATION_0_NBEST_52=especially ' s lawyers ||| Distortion0= 0 KENLM0= -44.8746 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.33221 -5.54042 -3.55535 -10.0431 2.99969
+TRANSLATION_0_NBEST_53=especially fighting lawyers ||| Distortion0= 0 KENLM0= -40.6761 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -5.0049 -4.94164 -9.66014 2.99969
+TRANSLATION_0_NBEST_54=especially lawyers taking ||| Distortion0= -3 KENLM0= -38.0951 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -5.0049 -4.94164 -8.0507 2.99969
+TRANSLATION_0_NBEST_55=especially politics lawyers ||| Distortion0= 0 KENLM0= -40.7935 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.17805 -5.0049 -4.94164 -9.14931 2.99969
+TRANSLATION_0_NBEST_56=especially there lawyers ' ||| Distortion0= 0 KENLM0= -41.7239 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.48491 -7.33218 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_57=especially lawyers ' by ||| Distortion0= -3 KENLM0= -38.6742 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.95124 -7.33218 -4.94164 -10.5356 2.99969
+TRANSLATION_0_NBEST_58=especially shifting lawyers ||| Distortion0= 0 KENLM0= -41.5355 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -5.0049 -4.94164 -8.0507 2.99969
+TRANSLATION_0_NBEST_59=to especially lawyers ||| Distortion0= -8 KENLM0= -36.0489 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.61841 -3.21315 -3.84303 -10.7807 2.99969
+TRANSLATION_0_NBEST_60=especially lawyers ' there ||| Distortion0= -3 KENLM0= -39.3181 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.48491 -7.33218 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_61=especially lawyers to be ||| Distortion0= -3 KENLM0= -38.7881 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.46574 -7.73765 -4.94164 -10.7807 2.99969
+TRANSLATION_0_NBEST_62=especially lawyers ' a ||| Distortion0= -3 KENLM0= -38.7688 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.02388 -7.33218 -4.94164 -11.8119 2.99969
+TRANSLATION_0_NBEST_63=especially lawyers ' were ||| Distortion0= -3 KENLM0= -39.506 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.99573 -7.33218 -4.94164 -9.84246 2.99969
+TRANSLATION_0_NBEST_64=especially lawyers fighting ||| Distortion0= -3 KENLM0= -38.7931 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -5.0049 -4.94164 -9.66014 2.99969
+TRANSLATION_0_NBEST_65=especially lawyers politics ||| Distortion0= -3 KENLM0= -38.9105 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.17805 -5.0049 -4.94164 -9.14931 2.99969
+TRANSLATION_0_NBEST_66=especially to be lawyers ' ||| Distortion0= 0 KENLM0= -43.0611 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -10.0649 -4.94164 -10.7807 2.99969
+TRANSLATION_0_NBEST_67=especially ' s lawyers ' ||| Distortion0= 0 KENLM0= -47.2353 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.63906 -7.8677 -3.55535 -10.0431 2.99969
+TRANSLATION_0_NBEST_68=which especially lawyers ||| Distortion0= -8 KENLM0= -37.3652 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.59027 -3.61861 -3.84303 -8.61032 2.99969
+TRANSLATION_0_NBEST_69=especially removing the lawyers ||| Distortion0= 0 KENLM0= -43.0407 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -7.38935 -4.94164 -9.42962 2.99969
+TRANSLATION_0_NBEST_70=especially fighting lawyers ' ||| Distortion0= 0 KENLM0= -43.0368 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -7.33218 -4.94164 -9.66014 2.99969
+TRANSLATION_0_NBEST_71=especially lawyers ' taking ||| Distortion0= -3 KENLM0= -40.4295 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -7.33218 -4.94164 -8.0507 2.99969
+TRANSLATION_0_NBEST_72=especially politics lawyers ' ||| Distortion0= 0 KENLM0= -43.1542 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.48491 -7.33218 -4.94164 -9.14931 2.99969
+TRANSLATION_0_NBEST_73=especially lawyers shifting ||| Distortion0= -3 KENLM0= -39.6524 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -5.0049 -4.94164 -8.0507 2.99969
+TRANSLATION_0_NBEST_74=especially as the lawyers ||| Distortion0= 0 KENLM0= -34.2623 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 0 PhraseDictionaryMemory0= -6.26175 -3.42445 -3.3661 -7.78909 3.99959
+TRANSLATION_0_NBEST_75=especially the public lawyers ||| Distortion0= 0 KENLM0= -43.1784 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -7.38935 -4.94164 -9.42962 2.99969
+TRANSLATION_0_NBEST_76=especially lawyers ' those ||| Distortion0= -3 KENLM0= -40.4215 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -7.33218 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_77=to be especially lawyers ||| Distortion0= -8 KENLM0= -34.7944 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.46574 -7.73765 -4.94164 -10.7807 2.99969
+TRANSLATION_0_NBEST_78=especially lawyers who in ||| Distortion0= -3 KENLM0= -40.0589 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -8.43079 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_79=especially lawyers ' his ||| Distortion0= -3 KENLM0= -40.0835 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.47734 -7.33218 -4.94164 -11.1862 2.99969
+TRANSLATION_0_NBEST_80=especially shifting lawyers ' ||| Distortion0= 0 KENLM0= -43.8962 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -7.33218 -4.94164 -8.0507 2.99969
+TRANSLATION_0_NBEST_81=to especially lawyers ' ||| Distortion0= -8 KENLM0= -38.4096 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -3.92527 -5.54042 -3.84303 -10.7807 2.99969
+TRANSLATION_0_NBEST_82=who especially lawyers ||| Distortion0= -8 KENLM0= -37.6147 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -3.90629 -4.2485 -8.74385 2.99969
+TRANSLATION_0_NBEST_83=especially lawyers ' fighting ||| Distortion0= -3 KENLM0= -41.2929 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -7.33218 -4.94164 -9.66014 2.99969
+TRANSLATION_0_NBEST_84=especially lawyers ' to be ||| Distortion0= -3 KENLM0= -41.6367 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -10.0649 -4.94164 -10.7807 2.99969
+TRANSLATION_0_NBEST_85=especially lawyers ' politics ||| Distortion0= -3 KENLM0= -41.51 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.48491 -7.33218 -4.94164 -9.14931 2.99969
+TRANSLATION_0_NBEST_86=which especially lawyers ' ||| Distortion0= -8 KENLM0= -39.7259 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.89712 -5.94589 -3.84303 -8.61032 2.99969
+TRANSLATION_0_NBEST_87=a especially lawyers ||| Distortion0= -8 KENLM0= -35.1901 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.71703 -5.0049 -4.94164 -11.8119 2.99969
+TRANSLATION_0_NBEST_88=especially removing the lawyers ' ||| Distortion0= 0 KENLM0= -45.4014 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -9.71663 -4.94164 -9.42962 2.99969
+TRANSLATION_0_NBEST_89=those especially lawyers ||| Distortion0= -8 KENLM0= -36.0218 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -5.0049 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_90=especially as the lawyers ' ||| Distortion0= 0 KENLM0= -36.623 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 0 PhraseDictionaryMemory0= -5.56861 -5.75173 -3.3661 -7.78909 3.99959
+TRANSLATION_0_NBEST_91=especially the public lawyers ' ||| Distortion0= 0 KENLM0= -45.5391 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -9.71663 -4.94164 -9.42962 2.99969
+TRANSLATION_0_NBEST_92=especially but the lawyers ||| Distortion0= 0 KENLM0= -41.3809 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 0 PhraseDictionaryMemory0= -2.07944 -2.03816 -1.38629 -6.09741 2.99969
+TRANSLATION_0_NBEST_93=to be especially lawyers ' ||| Distortion0= -8 KENLM0= -37.1551 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.77259 -10.0649 -4.94164 -10.7807 2.99969
+TRANSLATION_0_NBEST_94=s especially lawyers ||| Distortion0= -8 KENLM0= -40.8711 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.92674 -3.21315 -3.14988 -10.0431 2.99969
+TRANSLATION_0_NBEST_95=by especially lawyers ||| Distortion0= -8 KENLM0= -36.2257 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -4.64439 -5.0049 -4.94164 -10.5356 2.99969
+TRANSLATION_0_NBEST_96=his especially lawyers ||| Distortion0= -8 KENLM0= -36.2194 WordPenalty0= -3 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -5.17049 -5.0049 -4.94164 -11.1862 2.99969
+TRANSLATION_0_NBEST_97=especially lawyers ' ' s ||| Distortion0= -3 KENLM0= -46.8668 WordPenalty0= -5 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.63906 -7.8677 -3.55535 -10.0431 2.99969
+TRANSLATION_0_NBEST_98=especially who in lawyers ||| Distortion0= 0 KENLM0= -45.4408 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -8.43079 -4.94164 -8.74385 2.99969
+TRANSLATION_0_NBEST_99=who especially lawyers ' ||| Distortion0= -8 KENLM0= -39.9754 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -2.07944 -6.23357 -4.2485 -8.74385 2.99969
+TRANSLATION_0_NBEST_100=especially lawyers ' shifting ||| Distortion0= -3 KENLM0= -43.3988 WordPenalty0= -4 SourceWordDeletionFeature0_aber= 1 PhraseDictionaryMemory0= -1.38629 -7.33218 -4.94164 -8.0507 2.99969
+TRANSLATION_1_NBEST_1=country majority ||| Distortion0= 0 KENLM0= -32.6072 WordPenalty0= -2 SourceWordDeletionFeature0_OTHER= 1 PhraseDictionaryMemory0= -2.07944 0 0 -5.83773 1.99979
+TRANSLATION_1_NBEST_2=majority country ||| Distortion0= -5 KENLM0= -29.1587 WordPenalty0= -2 SourceWordDeletionFeature0_OTHER= 1 PhraseDictionaryMemory0= -2.07944 0 0 -5.83773 1.99979
+TOTAL_WALLTIME ~ 3
