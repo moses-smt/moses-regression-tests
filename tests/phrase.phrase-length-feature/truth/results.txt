@@ -1,5 +1,5 @@
 TRANSLATION_1=especially the lawyers 
 TRANSLATION_2=country majority 
-SCORE_1 = -2.819
-SCORE_2 = -0.390
-TOTAL_WALLTIME ~ 7
+SCORE_1 = 7.298
+SCORE_2 = -4.648
+TOTAL_WALLTIME ~ 2
