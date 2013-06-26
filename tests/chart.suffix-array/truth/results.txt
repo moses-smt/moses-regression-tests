@@ -1,0 +1,21 @@
+TRANSLATION_1=Barack Obama budget as vierter US President of the Friedensnobelpreis
+TRANSLATION_2=the fancy President Barack Obama has on 26 hours the Oslo Agreement , Norway , there is a vierter US President @-@ in the history of the Friedensnobelpreis entgegenzunehmen .
+TRANSLATION_3=in addition to budget to the Diplom , as well as the Medaille and a Scheck , 1,4 USD 1 million for abnormal efforts to the Intensivierung Weltdiplomatie and cooperation in the peoples .
+TRANSLATION_4=in the of Weißen of it will , in this , the Michelle nordwegischen Metropole , and the whole of , .
+TRANSLATION_5=firstly stattet him the Nobel Institut on the on , it is the first five Ausschussmitglieder , which is , in October , 172 Leuten and 33 and elected .
+TRANSLATION_6=that is , few , then a meeting with the norwegischen König Harald fifth and Königin Sonja eingeplant .
+TRANSLATION_7=nachmittags the will of the to the point of the Zeremonie , also in the Obama Prestigepreis .
+TRANSLATION_8=this budget to be the fourth , the US President , it will be the third , the price directly in the office of the .
+TRANSLATION_9=the Weiße in avisierte , and dass Obama of Übernahme Preises of the Afghanistankrieg of .
+TRANSLATION_10=the President to this does not ausweichen , because they know dass to the price of a President takes the in the war in the two countries .
+SCORE_1 = -512.916
+SCORE_2 = -632.887
+SCORE_3 = -632.552
+SCORE_4 = -419.565
+SCORE_5 = -636.810
+SCORE_6 = -612.041
+SCORE_7 = -421.228
+SCORE_8 = -132.327
+SCORE_9 = -711.402
+SCORE_10 = -232.632
+TOTAL_WALLTIME ~ 31
