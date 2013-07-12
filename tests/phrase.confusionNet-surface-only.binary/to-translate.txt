@@ -1,0 +1,15 @@
+damit|PROADV 0.044
+ist|VSFIN 0.4 war|VSFIN 0.1 sei|VSFIN 0.3
+der|ART 0.5 die|ART 0.4 das|ART 0.2
+arbeitsplan|NN 0.6
+
+damit|PROADV 1.0 dies|PROADV 0.0
+ist|VSFIN 1.0 war|VSFIN 1.0 sei|VSFIN 1.0 dies|PROADV 0.0 das|DT 0.0
+der|ART 1.0 die|ART 1.0 das|ART 1.0 dies|PROADV 0.0
+arbeitsplan|NN 1.0 dies|PROADV 0.0
+
+damit|PROADV 0.1 dies|PROADV 0.9
+ist|VSFIN 0.2 war|VSFIN 0.3333 sei|VSFIN 0.444 ist|VVFIN 0.555 war|VVFIN 0.666 sei|VVFIN 0.777
+der|ART 0.999 die|ART 0.888 das|ART 0.01233 der|DT 0.5442 die|DT 0.656778 das|DT 0.353
+arbeitsplan|NN 1.0
+
