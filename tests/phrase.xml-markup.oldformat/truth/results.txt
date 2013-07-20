@@ -1,0 +1,73 @@
+TRANSLATION_0=this is a small house . 
+TRANSLATION_1=this is a small house . 
+TRANSLATION_2=this is a little building . 
+TRANSLATION_3=this is a small house . 
+TRANSLATION_4=this is a small house . 
+TRANSLATION_5=this is a nice place . 
+SCORE_0 = -94.029
+SCORE_1 = -94.029
+SCORE_2 = -92.554
+SCORE_3 = -94.029
+SCORE_4 = -94.029
+SCORE_5 = -93.875
+TRANSLATION_0_NBEST_1=this is a small house . ||| KENLM0= -22.1968 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_0_NBEST_2=it is a small house . ||| KENLM0= -22.2422 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_0_NBEST_3=this is a little house . ||| KENLM0= -26.517 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_0_NBEST_4=it is a little house . ||| KENLM0= -26.5625 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_0_NBEST_5=this is a little dwelling . ||| KENLM0= -31.093 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -2.05573
+TRANSLATION_0_NBEST_6=this is an small house . ||| KENLM0= -31.6579 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_0_NBEST_7=this is a small dwelling . ||| KENLM0= -31.5834 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -2.05573
+TRANSLATION_0_NBEST_8=it is a little dwelling . ||| KENLM0= -31.1384 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.44202
+TRANSLATION_0_NBEST_9=this is a house small . ||| KENLM0= -29.1723 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_0_NBEST_10=it is a small dwelling . ||| KENLM0= -31.6288 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.44202
+TRANSLATION_1_NBEST_1=this is a small house . ||| KENLM0= -22.1968 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_1_NBEST_2=it is a small house . ||| KENLM0= -22.2422 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_1_NBEST_3=this is a little building . ||| KENLM0= -25.3263 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -2.74887
+TRANSLATION_1_NBEST_4=this is a little house . ||| KENLM0= -26.517 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_1_NBEST_5=this is a small building . ||| KENLM0= -25.8167 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -2.74887
+TRANSLATION_1_NBEST_6=it is a little building . ||| KENLM0= -25.3718 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -4.13517
+TRANSLATION_1_NBEST_7=it is a little house . ||| KENLM0= -26.5625 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_1_NBEST_8=it is a small building . ||| KENLM0= -25.8622 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -4.13517
+TRANSLATION_1_NBEST_9=this is a little dwelling . ||| KENLM0= -31.093 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -2.34341
+TRANSLATION_1_NBEST_10=this is an small house . ||| KENLM0= -31.6579 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_2_NBEST_1=this is a little building . ||| KENLM0= -25.3263 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 2.77259
+TRANSLATION_2_NBEST_2=this is a small building . ||| KENLM0= -25.8167 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 2.77259
+TRANSLATION_2_NBEST_3=it is a little building . ||| KENLM0= -25.3718 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 1.38629
+TRANSLATION_2_NBEST_4=this is a small house . ||| KENLM0= -22.1968 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_2_NBEST_5=it is a small building . ||| KENLM0= -25.8622 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 1.38629
+TRANSLATION_2_NBEST_6=it is a small house . ||| KENLM0= -22.2422 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_2_NBEST_7=this is a little house . ||| KENLM0= -26.517 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_2_NBEST_8=this is an small building . ||| KENLM0= -32.235 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 2.77259
+TRANSLATION_2_NBEST_9=this is an little building . ||| KENLM0= -32.3167 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 2.77259
+TRANSLATION_2_NBEST_10=it is a little house . ||| KENLM0= -26.5625 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_3_NBEST_1=this is a small house . ||| KENLM0= -22.1968 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_3_NBEST_2=it is a small house . ||| KENLM0= -22.2422 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_3_NBEST_3=this is a little building . ||| KENLM0= -25.3263 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -2.74887
+TRANSLATION_3_NBEST_4=this is a little house . ||| KENLM0= -26.517 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_3_NBEST_5=this is a small building . ||| KENLM0= -25.8167 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -2.74887
+TRANSLATION_3_NBEST_6=it is a little building . ||| KENLM0= -25.3718 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -4.13517
+TRANSLATION_3_NBEST_7=it is a little house . ||| KENLM0= -26.5625 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_3_NBEST_8=it is a small building . ||| KENLM0= -25.8622 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -4.13517
+TRANSLATION_3_NBEST_9=this is a little dwelling . ||| KENLM0= -31.093 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 0.528273
+TRANSLATION_3_NBEST_10=this is a small dwelling . ||| KENLM0= -31.5834 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 0.528273
+TRANSLATION_4_NBEST_1=this is a small house . ||| KENLM0= -22.1968 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_4_NBEST_2=it is a small house . ||| KENLM0= -22.2422 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_4_NBEST_3=this is a little house . ||| KENLM0= -26.517 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_4_NBEST_4=it is a little house . ||| KENLM0= -26.5625 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_4_NBEST_5=this is a little dwelling . ||| KENLM0= -31.093 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 0.528273
+TRANSLATION_4_NBEST_6=this is a small dwelling . ||| KENLM0= -31.5834 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 0.528273
+TRANSLATION_4_NBEST_7=it is a little dwelling . ||| KENLM0= -31.1384 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -0.858022
+TRANSLATION_4_NBEST_8=it is a small dwelling . ||| KENLM0= -31.6288 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -0.858022
+TRANSLATION_4_NBEST_9=this is an small house . ||| KENLM0= -31.6579 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_4_NBEST_10=this is a house small . ||| KENLM0= -29.1723 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_5_NBEST_1=this is a nice place . ||| KENLM0= -25.0386 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 1.16315
+TRANSLATION_5_NBEST_2=this is a small house . ||| KENLM0= -22.1968 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_5_NBEST_3=it is a nice place . ||| KENLM0= -25.084 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -0.223144
+TRANSLATION_5_NBEST_4=it is a small house . ||| KENLM0= -22.2422 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_5_NBEST_5=this is a little house . ||| KENLM0= -26.517 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -1.83258
+TRANSLATION_5_NBEST_6=it is a little house . ||| KENLM0= -26.5625 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -3.21888
+TRANSLATION_5_NBEST_7=this is an nice place . ||| KENLM0= -31.5425 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 1.16315
+TRANSLATION_5_NBEST_8=this is a little dwelling . ||| KENLM0= -31.093 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 0.528273
+TRANSLATION_5_NBEST_9=this is a small dwelling . ||| KENLM0= -31.5834 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= 0.528273
+TRANSLATION_5_NBEST_10=it is a little dwelling . ||| KENLM0= -31.1384 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryBinary0= -0.858022
+TOTAL_WALLTIME ~ 3

@@ -1,0 +1,1 @@
+beide|PIAT|2|NK Versäumnisse|NN|3|SB haben|VAFIN|0|ROOT terroristische|ADJA|5|NK Gruppen|NN|8|MO in|APPR|8|MO Pakistan|NE|6|NK gestärkt|VVPP|3|OC .|$.|3|PUNC
