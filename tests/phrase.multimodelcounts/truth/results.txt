@@ -1,13 +1,13 @@
-TRANSLATION_1=i declare resumed the session of the european parliament adjourned on thursday 3 february 2000 . 
-TRANSLATION_2=approval of the minutes of the previous sitting 
-TRANSLATION_3=the minutes of the sitting on thursday 3 february have been distributed . 
+TRANSLATION_1=i erkläre the on thursday , the 3. february 2000 , unterbrochene part-session of the european parliament adjourned on . 
+TRANSLATION_2=adoption of the minutes of the previous sitting 
+TRANSLATION_3=the minutes for ' s sitting tomorrow has been set , unfortunately for next , the 3. february is been distributed been . 
 TRANSLATION_4=are there any comments ? 
-TRANSLATION_5=i can see from your reaction that many of the members of parliament have not received the minutes and clearly you cannot approve minutes which you have not seen . 
-TRANSLATION_6=i therefore propose to submit the minutes for your approval tomorrow morning , since obviously you do not have them and i must apologise for this . 
-SCORE_1 = -1196.237
-SCORE_2 = -797.813
-SCORE_3 = -997.015
-SCORE_4 = -398.715
-SCORE_5 = -2294.002
-SCORE_6 = -1994.913
+TRANSLATION_5=are to succeed this state aid code their reaktion schließe , i that many members of the when this minutes not obtain have , and it versteht of that kind to what is of even , that you a minutes , none of this is to they do not obtain have , not zustimmen citizens . 
+TRANSLATION_6=i schlage therefore meps , the minutes tomorrow to , there it the opportunity to propose to you however , not vorliegt , wofür i me entschuldige . 
+SCORE_1 = -299.073
+SCORE_2 = 1.311
+SCORE_3 = -99.917
+SCORE_4 = 0.503
+SCORE_5 = -403.499
+SCORE_6 = -401.264
 TOTAL_WALLTIME ~ 2
