@@ -1,13 +1,13 @@
-TRANSLATION_1=Prag Stock Markt fällt , ohne am Ende des Handel Tag
+TRANSLATION_1=Prag Stock Markt fällt , durch das Ende der Handel Tag
 TRANSLATION_2=
-TRANSLATION_3=nach einem steilen Rückgang am Morgen , der Prager Stock Markt korrigiert ihre Verluste .
-TRANSLATION_4=Transaktionen mit Aktien von der Tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel .
-TRANSLATION_5=der Prager Stock Markt sofort ihren fallen von Montag Anfang Tuesday der Handel , als es um beinahe sechs Prozent .
-TRANSLATION_6=diesmal dem Fall in Aktien an der Wall Street verantwortlich ist für die fallen .
-SCORE_1 = -12.143
-SCORE_2 = -0.590
-SCORE_3 = -13.177
-SCORE_4 = -117.664
-SCORE_5 = -123.038
-SCORE_6 = -8.702
+TRANSLATION_3=nach einem steilen Rückgang der Morgen , dem Prager Stock Markt korrigiert ihre Verluste .
+TRANSLATION_4=Transaktionen mit Aktien von der tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel .
+TRANSLATION_5=der Prager Stock Markt sofort ihren Sturz von Montag zu Beginn der Handel Tuesday , wenn es um beinahe sechs Prozent .
+TRANSLATION_6=dieses Mal den Rückgang der Aktien an der Wall Street verantwortlich ist für die fallen .
+SCORE_1 = -12.100
+SCORE_2 = -0.774
+SCORE_3 = -12.344
+SCORE_4 = -118.111
+SCORE_5 = -122.868
+SCORE_6 = -8.224
 TOTAL_WALLTIME ~ 12
