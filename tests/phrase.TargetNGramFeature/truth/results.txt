@@ -1,0 +1,22 @@
+TRANSLATION_1=Illhaeusern ... finally 
+TRANSLATION_2=Illhaeusern has finally found the way of the victory on the ground after a long period of disette . 
+TRANSLATION_3=without make a great match , the Jaunes and black have created the largest number of disabled and have succeeded in into a for the gain the match . 
+TRANSLATION_4=the pace was not very supported during this meeting where attaquants have been of ill @-@ speaking out . 
+TRANSLATION_5=after a first attempt capitaine visiteur Kauffmann that frôlait the lucarne on a tir far Illhaeusern take runs the ascendant and turn to turn Fonderflick far , then with Hirn above Romain overcome the or even Diebold venaient chatouiller the defense of . Dannemarie working , the packaging , the 
+TRANSLATION_6=in the face , you fa bloc in the mid @-@ ground and one left just the remuant Riahi to the high of the attack . 
+TRANSLATION_7=the start of &apos;s mid @-@ time packaging watershed with first two disabled signées Riahi and Temporale for Dannemarie , and aussitôt after the openness score for the Illhousiens by Marais , though positionné for a repoussée on a first attempt to Diebold ( 53e ) . &quot; armor to be 
+TRANSLATION_8=but the buteur Illhousiens will not savourer his bonheur long and will be forced to regain the vestiaires a douzaine of minutes later and let so its coéquipiers in infériorité numérique . 
+TRANSLATION_9=but Dannemarie do not in feast and do not of breadwinner in a onze illhousien that has just a few for &quot; compacter &quot; defense , hormis in the past secondes of hands where , after a typically cafouillage , the armor passait very of the . transversale almost all reculé problems posera saura 
+TRANSLATION_10=Sarkozy to the meeting of pêcheurs in anger 
+SCORE_1 = -103.331
+SCORE_2 = -211.032
+SCORE_3 = -417.448
+SCORE_4 = -112.459
+SCORE_5 = -1543.514
+SCORE_6 = -316.177
+SCORE_7 = -1240.537
+SCORE_8 = -1020.454
+SCORE_9 = -1241.007
+SCORE_10 = -205.845
+TOTAL_WALLTIME ~ 358
+
