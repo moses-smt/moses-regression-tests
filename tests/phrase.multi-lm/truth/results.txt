@@ -1,0 +1,21 @@
+TRANSLATION_1=inflation in europe , has dérapé on food 
+TRANSLATION_2=inflation accélérée , mesurée in the euro currency zone , is owing mainly to increase rapid prices of food . 
+TRANSLATION_3=in november , the increase prices , in the 13 countries of the euro currency zone , has been more important by the forecasts , after a rate of inflation of 2.6 % in october , a annual inflation of 3,1 % has been enregistrée , has indicated the bureau of statistics of the european community located in luxembourg . 
+TRANSLATION_4=the forecasts officielles have indicated that 3 % , has he bloomberg . 
+TRANSLATION_5=unlike central banks american british , and canadienne , the european central bank ( ecb ) has not baissé the rate of interest director @-@ when i say that the decrease interests , with growth prices of initial and the drop of the rate of unemployment , conduirait to the generation of a spirale inflationniste . 
+TRANSLATION_6=the ecb would like maintain the rate of the inflation below but immediate two % . 
+TRANSLATION_7=according to a analyste , that is the catch 22 for the ecb : &quot; it must dissuader &quot; inflation of do so more have to to speak on this subject at a later date . 
+TRANSLATION_8=in germany , the rate of inflation of 3,3 % is a record during these 12 in recent years and in spain they , it is remonté of 3,6 to 4,1 . 
+TRANSLATION_9=inflation in the euro currency zone has décollé because of the increase rapid prices of food and energy . 
+TRANSLATION_10=the cotes of the market in terms of céréales have increased of 88 % and the soja has also reached its value the most élevée since 1973 . 
+SCORE_1 = -107.198
+SCORE_2 = -217.924
+SCORE_3 = -245.691
+SCORE_4 = -211.627
+SCORE_5 = -544.498
+SCORE_6 = -17.826
+SCORE_7 = -324.797
+SCORE_8 = -421.826
+SCORE_9 = -116.215
+SCORE_10 = -520.984
+TOTAL_WALLTIME ~ 19
