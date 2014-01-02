@@ -4,10 +4,10 @@ TRANSLATION_3=the minutes for ' s sitting tomorrow has been set , unfortunately 
 TRANSLATION_4=are there any comments ? 
 TRANSLATION_5=are to succeed this state aid code their reaktion schließe , i that many members of the when this minutes not obtain have , and it versteht of that kind to what is of even , that you a minutes , none of this is to they do not obtain have , not zustimmen citizens . 
 TRANSLATION_6=i schlage therefore meps , the minutes tomorrow to , there it the opportunity to propose to you however , not vorliegt , wofür i me entschuldige . 
-SCORE_1 = -299.073
+SCORE_1 = -299.201
 SCORE_2 = 1.311
-SCORE_3 = -99.917
+SCORE_3 = -99.959
 SCORE_4 = 0.503
-SCORE_5 = -403.499
-SCORE_6 = -401.264
+SCORE_5 = -403.669
+SCORE_6 = -401.434
 TOTAL_WALLTIME ~ 2
