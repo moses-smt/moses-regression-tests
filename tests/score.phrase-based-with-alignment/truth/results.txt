@@ -224,7 +224,7 @@
 ! " ||| ! " ||| 0.00917533 ||| 0-0 1-1  ||| 233 29
 ! " ||| ! ' ' really ? ' ||| 0.0150846 ||| 0-0 1-1 1-2 0-3 0-4 1-5  ||| 233 1
 ! " ||| ! ' , ||| 0.0449274 ||| 0-0 1-1  ||| 233 1
-! " ||| ! ' . ||| 0.0449274 ||| 0-0 1-1  ||| 233 4
+! " ||| ! ' . ||| 0.0449274 ||| 0-0 1-1 0-2  ||| 233 4
 ! " ||| ! ' ||| 0.0449274 ||| 0-0 1-1  ||| 233 101
 ! " ||| ! .... ' ||| 0.0449274 ||| 0-0 1-2  ||| 233 1
 ! " ||| ! ||| 0.0775352 ||| 0-0  ||| 233 7
@@ -1206,7 +1206,7 @@
 ! Kommissar Patten meinte , wir ||| , Commissioner Patten said that we ||| 1 ||| 0-0 1-1 2-2 3-3 4-4 5-5  ||| 1 1
 ! Kommissar Patten meinte , ||| , Commissioner Patten said that ||| 1 ||| 0-0 1-1 2-2 3-3 4-4  ||| 1 1
 ! Kommissar Patten meinte ||| , Commissioner Patten said ||| 1 ||| 0-0 1-1 2-2 3-3  ||| 1 1
-! Kommissar Patten ||| , Commissioner Patten ||| 1 ||| 0-0 0-1 1-1 2-2  ||| 2 2
+! Kommissar Patten ||| , Commissioner Patten ||| 1 ||| 0-0 1-1 2-2  ||| 2 2
 ! Kommissar Verheugen hat soeben ||| , Commissioner Verheugen has just ||| 1 ||| 0-0 1-1 2-2 3-3 4-4  ||| 1 1
 ! Kommissar Verheugen hat ||| , Commissioner Verheugen has ||| 1 ||| 0-0 1-1 2-2 3-3  ||| 1 1
 ! Kommissar Verheugen ||| , Commissioner Verheugen ||| 1 ||| 0-0 1-1 2-2  ||| 1 1
