@@ -1,0 +1,21 @@
+TRANSLATION_1=mr president , after a member of , as we mentioned of you have wished , eight years on persistent cruel a civil war possible on 7 july this year , signed peace deal of all . given the opportunity on meeting of this new tragic event and peaceful and lasting resolution a conflict of work , unermeßliches suffering on the people , . 
+TRANSLATION_2=the hope for which cause for complaint , have , this cannot go in accordance with in poverty and today , five months later , we will have to worried concerned about and point out that the attack particular attention must be paid to the rebels civilians fact , the deaths and rape not stopped but even . 
+TRANSLATION_3=we would therefore christian democrats , the we have always for dialogue and reconciliation parliament , have , the eternal violence and the continued violation of human rights in the strongest possible terms to condemn and to our regret about the delays in the peace process , . 
+TRANSLATION_4=but above all , by the conflict we want to see the arms for all stand and your being put in peace deal commitments . 
+TRANSLATION_5=fridays because are not enough to say and , at action are needed we expressly ask the principle that measures and funding available in order to achieve the fulfilment of this agreement of air traffic . 
+TRANSLATION_6=in particular , it is see the united nations security council allowed establishing an international intervention power . 
+TRANSLATION_7=must also exercise aimed at implemented agreement necessary resources be particular - this has been already discussed , for the promotion of development , and that they should measures which may give rise to all the people of sierra leone , allow us to at long last quantity to himself who and in peace , and freedom and democracy . 
+TRANSLATION_8=mr president , the sierra leone at present a spectacle of my opinion , a dangerous precedent not only not for the sake of africa , but for the earth . 
+TRANSLATION_9=decision in july has always been place between the government and the ruf-rebellen a peace agreement closed down . 
+TRANSLATION_10=would be to be welcomed ; and it was not the brutalsten rebellengruppen around the world , whose only aim of priority political control of diamonds . 
+SCORE_1 = -403.393
+SCORE_2 = -178.173
+SCORE_3 = -99.690
+SCORE_4 = -76.588
+SCORE_5 = -116.173
+SCORE_6 = -45.374
+SCORE_7 = -171.864
+SCORE_8 = -67.699
+SCORE_9 = -143.957
+SCORE_10 = -280.211
+TOTAL_WALLTIME ~ 1

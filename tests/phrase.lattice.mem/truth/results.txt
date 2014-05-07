@@ -1,0 +1,21 @@
+TRANSLATION_1=mr president , after a - as has been mentioned , eight years persistent cruel possible for the civil war on 7 july this year and peace agreement , signed the opportunity to put an end to this tragic chapter and peaceful and lasting settlement of the conflict , unermeßliches suffering on the population . 
+TRANSLATION_2=the hopes , to which this reason , are not , however , in accordance with , and today , five months later , we need is a deeply concerned about and to say that the rebels the attacks against civilians , the deaths and rape not stopped , but even have increased . 
+TRANSLATION_3=we would therefore christian democrats , we have always fought for dialogue and reconciliation , the continuing violence and violations of human rights in the outright condemnation of our regret the delay in the peace process . 
+TRANSLATION_4=but above all , we would like to call the conflict , once and for all stand in the peace agreement and their commitments . 
+TRANSLATION_5=however , that words are not enough , but what is required , we call strongly that measures be taken and resources in order to achieve this agreement . 
+TRANSLATION_6=in particular , it is necessary , of the united nations security council decides the deployment of international intervention power . 
+TRANSLATION_7=furthermore , the need for the implementation of this agreement to the necessary resources . in particular , which has already been mentioned - for the promotion of development and education and all the measures which the people of sierra leone , at long last to find themselves and to live in peace , freedom and democracy . 
+TRANSLATION_8=mr president , what is currently in sierra leone a my opinion , a dangerous precedent , not only for africa , but for the whole world . 
+TRANSLATION_9=in july was between the government and the ruf-rebellen a peace agreement is closed . 
+TRANSLATION_10=this would be useful , was not a question of brutalsten rebellengruppen the political world , whose only aim is to gain control of diamonds . 
+SCORE_1 = -330.895
+SCORE_2 = -117.736
+SCORE_3 = -82.050
+SCORE_4 = -52.202
+SCORE_5 = -70.049
+SCORE_6 = -35.519
+SCORE_7 = -100.506
+SCORE_8 = -43.752
+SCORE_9 = -125.536
+SCORE_10 = -256.574
+TOTAL_WALLTIME ~ 9
