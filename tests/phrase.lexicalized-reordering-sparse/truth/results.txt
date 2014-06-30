@@ -1,0 +1,11 @@
+TRANSLATION_1=mr president , however , that we also devrons do to biarritz regarder , this is a little more loin . 
+TRANSLATION_2=we are the have élus that the difference , the us of the dépit encourager to in the progresser , that to the adversité messages that we relayer recevons of the in all opinion each of our countries . 
+TRANSLATION_3=the prerequisites for of événements derniers of these time , the issue of sufficiently of the to essence to a in to remarquable . 
+TRANSLATION_4=to the is , in the council train of examiner the in the mécanismes inclusion of such article 7 . 
+TRANSLATION_5=secondly , the citizens transparency in the to , which are to the droits s they disposent and vis-à-vis of those appliquent european law élaborent and , to those , appliquent stated law , and the european élaborent this . 
+SCORE_1 = -875.373
+SCORE_2 = -1970.490
+SCORE_3 = -896.978
+SCORE_4 = -877.636
+SCORE_5 = -1558.790
+TOTAL_WALLTIME ~ 28
