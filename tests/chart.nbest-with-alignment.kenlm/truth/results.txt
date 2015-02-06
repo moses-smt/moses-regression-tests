@@ -1,0 +1,39 @@
+TRANSLATION_0=Prag Stock Markt fällt , durch das Ende der Handel Tag
+TRANSLATION_1=
+TRANSLATION_2=nach einem steilen Rückgang der Morgen , dem Prager Stock Markt korrigiert ihre Verluste .
+TRANSLATION_3=Transaktionen mit Aktien von der tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel .
+TRANSLATION_4=der Prager Stock Markt sofort ihren Sturz von Montag zu Beginn der Handel Tuesday , wenn es um beinahe sechs Prozent .
+TRANSLATION_5=dieses Mal den Rückgang der Aktien an der Wall Street verantwortlich ist für die fallen .
+SCORE_0 = -12.100
+SCORE_1 = -0.774
+SCORE_2 = -12.344
+SCORE_3 = -116.629
+SCORE_4 = -121.386
+SCORE_5 = -8.128
+TRANSLATION_0_NBEST_1=Prag Stock Markt fällt , durch das Ende der Handel Tag ||| KENLM0= -86.7481 WordPenalty0= -13 PhraseDictionaryMemory0= -29.5858 -29.2361 -17.7968 -17.1117 9.99896 PhraseDictionaryMemory1= 7.99917 ||| -12.1003 |||  ||| 
+TRANSLATION_0_NBEST_2=Prag Stock Markt fällt , durch das Ende der Handel Tag ||| KENLM0= -86.7481 WordPenalty0= -13 PhraseDictionaryMemory0= -32.2084 -29.2361 -17.3548 -17.1117 9.99896 PhraseDictionaryMemory1= 8.99907 ||| -12.1446 |||  ||| 
+TRANSLATION_0_NBEST_3=Prag Stock Markt fällt , die durch das Ende der Handel Tag ||| KENLM0= -86.4187 WordPenalty0= -14 PhraseDictionaryMemory0= -30.4669 -29.2361 -20.7037 -19.756 9.99896 PhraseDictionaryMemory1= 7.99917 ||| -12.1579 |||  ||| 
+TRANSLATION_0_NBEST_4=Prag Stock Markt fällt , durch das Ende der Handel Tag ||| KENLM0= -86.7481 WordPenalty0= -13 PhraseDictionaryMemory0= -29.0844 -29.2361 -17.5334 -17.1117 9.99896 PhraseDictionaryMemory1= 6.99927 ||| -12.1779 |||  ||| 
+TRANSLATION_0_NBEST_5=Prag Stock Markt fällt , um das Ende der Handel Tag ||| KENLM0= -85.0268 WordPenalty0= -13 PhraseDictionaryMemory0= -31.3671 -31.5486 -19.6396 -18.8801 9.99896 PhraseDictionaryMemory1= 7.99917 ||| -12.1796 |||  ||| 
+TRANSLATION_1_NBEST_1= ||| KENLM0= -9.02167 WordPenalty0= -2 PhraseDictionaryMemory0= 0 0 0 0 0 PhraseDictionaryMemory1= 0 ||| -0.774376 |||  ||| 
+TRANSLATION_2_NBEST_1=nach einem steilen Rückgang der Morgen , dem Prager Stock Markt korrigiert ihre Verluste . ||| KENLM0= -106.223 WordPenalty0= -17 PhraseDictionaryMemory0= -17.1001 -18.2034 -17.2694 -23.3655 11.9988 PhraseDictionaryMemory1= 11.9988 ||| -12.3444 |||  ||| 
+TRANSLATION_2_NBEST_2=nach einem steilen Rückgang der Morgen , dem Prager Stock Markt korrigiert ihre Verluste . ||| KENLM0= -106.223 WordPenalty0= -17 PhraseDictionaryMemory0= -17.3542 -18.2034 -17.2709 -23.3655 11.9988 PhraseDictionaryMemory1= 11.9988 ||| -12.3641 |||  ||| 
+TRANSLATION_2_NBEST_3=nach einem steilen Rückgang der Morgen , dem Prager Stock Markt korrigiert ihre Verluste . ||| KENLM0= -106.223 WordPenalty0= -17 PhraseDictionaryMemory0= -16.8493 -18.2034 -18.5185 -23.3655 12.9986 PhraseDictionaryMemory1= 12.9986 ||| -12.3656 |||  ||| 
+TRANSLATION_2_NBEST_4=nach einem steilen Rückgang der Morgen , der Prager Stock Markt korrigiert ihre Verluste . ||| KENLM0= -107.615 WordPenalty0= -17 PhraseDictionaryMemory0= -16.4653 -18.2393 -15.8234 -21.4071 11.9988 PhraseDictionaryMemory1= 11.9988 ||| -12.3718 |||  ||| 
+TRANSLATION_2_NBEST_5=nach einem steilen Rückgang der Morgen , dem Prager Stock Markt korrigiert ihre Verluste . ||| KENLM0= -106.223 WordPenalty0= -17 PhraseDictionaryMemory0= -17.1035 -18.2033 -18.52 -23.3655 12.9986 PhraseDictionaryMemory1= 12.9986 ||| -12.3853 |||  ||| 
+TRANSLATION_3_NBEST_1=Transaktionen mit Aktien von der tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel . ||| KENLM0= -151.58 WordPenalty0= -22 PhraseDictionaryMemory0= -16.1293 -16.4249 -17.4557 -20.5512 15.9983 PhraseDictionaryMemory1= 16.9982 ||| -116.629 |||  ||| 
+TRANSLATION_3_NBEST_2=Transaktionen mit Aktien aus der tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel . ||| KENLM0= -152.058 WordPenalty0= -22 PhraseDictionaryMemory0= -15.4298 -15.659 -17.7368 -20.9226 15.9983 PhraseDictionaryMemory1= 16.9982 ||| -116.638 |||  ||| 
+TRANSLATION_3_NBEST_3=Geschäfte mit Aktien von der tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel . ||| KENLM0= -146.54 WordPenalty0= -22 PhraseDictionaryMemory0= -20.64 -19.6977 -21.1191 -22.9183 15.9983 PhraseDictionaryMemory1= 16.9982 ||| -116.648 |||  ||| 
+TRANSLATION_3_NBEST_4=Transaktionen mit Aktien von der tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel . ||| KENLM0= -151.58 WordPenalty0= -22 PhraseDictionaryMemory0= -16.1526 -16.4249 -17.8929 -20.5512 15.9983 PhraseDictionaryMemory1= 16.9982 ||| -116.657 |||  ||| 
+TRANSLATION_3_NBEST_5=Geschäfte mit Aktien aus der tschechischen Energy Enterprise ( ČEZ ) erreicht beinahe die Hälfte der regelmäßigen täglich Handel . ||| KENLM0= -147.017 WordPenalty0= -22 PhraseDictionaryMemory0= -19.9404 -18.9318 -21.4003 -23.2897 15.9983 PhraseDictionaryMemory1= 16.9982 ||| -116.657 |||  ||| 
+TRANSLATION_4_NBEST_1=der Prager Stock Markt sofort ihren Sturz von Montag zu Beginn der Handel Tuesday , wenn es um beinahe sechs Prozent . ||| KENLM0= -155.792 WordPenalty0= -24 PhraseDictionaryMemory0= -53.4786 -56.6966 -29.8325 -32.2668 17.9981 PhraseDictionaryMemory1= 15.9983 ||| -121.386 |||  ||| 
+TRANSLATION_4_NBEST_2=der Prager Stock Markt sofort ihren Sturz von Montag Anfang Tuesday der Handel , wenn es um beinahe sechs Prozent . ||| KENLM0= -155.784 WordPenalty0= -23 PhraseDictionaryMemory0= -55.4887 -58.4985 -29.4898 -30.0415 18.998 PhraseDictionaryMemory1= 18.998 ||| -121.394 |||  ||| 
+TRANSLATION_4_NBEST_3=der Prager Stock Markt sofort ihren Sturz von Montag zu Beginn der Handel Tuesday , wenn es um beinahe sechs Prozent . ||| KENLM0= -155.792 WordPenalty0= -24 PhraseDictionaryMemory0= -53.4731 -56.6966 -29.5623 -32.2668 16.9982 PhraseDictionaryMemory1= 14.9984 ||| -121.404 |||  ||| 
+TRANSLATION_4_NBEST_4=der Prager Stock Markt sofort ihren Sturz von Montag Anfang Tuesday der Handel , wenn es um beinahe sechs Prozent . ||| KENLM0= -155.784 WordPenalty0= -23 PhraseDictionaryMemory0= -55.4832 -58.4985 -29.2196 -30.0415 17.9981 PhraseDictionaryMemory1= 17.9981 ||| -121.411 |||  ||| 
+TRANSLATION_4_NBEST_5=der Prager Stock Markt sofort ihren Sturz von Montag zu Beginn der Handel Tuesday , wenn es um beinahe sechs Prozent . ||| KENLM0= -155.792 WordPenalty0= -24 PhraseDictionaryMemory0= -52.944 -56.6966 -30.946 -32.2668 16.9982 PhraseDictionaryMemory1= 14.9984 ||| -121.445 |||  ||| 
+TRANSLATION_5_NBEST_1=dieses Mal den Rückgang der Aktien an der Wall Street verantwortlich ist für die fallen . ||| KENLM0= -77.5729 WordPenalty0= -18 PhraseDictionaryMemory0= -11.3985 -18.3169 -12.1917 -28.9359 9.99896 PhraseDictionaryMemory1= 9.99896 ||| -8.12769 |||  ||| 
+TRANSLATION_5_NBEST_2=diesmal den Rückgang der Aktien an der Wall Street verantwortlich ist für die fallen . ||| KENLM0= -76.1978 WordPenalty0= -17 PhraseDictionaryMemory0= -11.9186 -18.8248 -11.7477 -28.3001 9.99896 PhraseDictionaryMemory1= 9.99896 ||| -8.13317 |||  ||| 
+TRANSLATION_5_NBEST_3=dieses Mal den Rückgang der Aktien an der Wall Street verantwortlich ist für die fallen . ||| KENLM0= -77.5729 WordPenalty0= -18 PhraseDictionaryMemory0= -11.4615 -18.3169 -12.9923 -28.936 10.9989 PhraseDictionaryMemory1= 10.9989 ||| -8.14649 |||  ||| 
+TRANSLATION_5_NBEST_4=diesmal den Rückgang der Aktien an der Wall Street verantwortlich ist für die fallen . ||| KENLM0= -76.1978 WordPenalty0= -17 PhraseDictionaryMemory0= -11.9816 -18.8248 -12.5483 -28.3001 10.9989 PhraseDictionaryMemory1= 10.9989 ||| -8.15197 |||  ||| 
+TRANSLATION_5_NBEST_5=dieses Mal den Rückgang der Aktien an der Wall Street ist für die fallen . ||| KENLM0= -70.7917 WordPenalty0= -17 PhraseDictionaryMemory0= -17.8051 -26.6071 -14.4769 -27.8341 10.9989 PhraseDictionaryMemory1= 10.9989 ||| -8.18574 |||  ||| 
+TOTAL_WALLTIME ~ 11
