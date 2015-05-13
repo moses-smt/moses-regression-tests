@@ -1,0 +1,10 @@
+#! /bin/sh -w
+
+bin=$1; shift
+testdir=$1; shift
+cd $testdir
+
+cmd="$bin/hgdecode --hypergraph data/hg.gz -d data/dense.weights"
+#echo $cmd
+$cmd 
+

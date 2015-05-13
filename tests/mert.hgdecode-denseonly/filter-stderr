@@ -1,0 +1,9 @@
+#!/usr/bin/perl
+
+$x=0;
+while (<>) {
+  chomp;
+  next if !/^WEIGHTS/;
+  $x++;
+  print "STDERR_$x=$_\n";
+}
