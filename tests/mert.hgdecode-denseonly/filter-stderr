@@ -1,0 +1,11 @@
+#!/usr/bin/perl
+
+while (<>) {
+  chomp;
+  next unless /^WEIGHTS/;
+  $x = 0;
+  foreach $feat (sort split) {
+    print "STDERR_$x=$feat\n";
+    ++$x;
+  }
+}
