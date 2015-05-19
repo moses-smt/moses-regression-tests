@@ -1,0 +1,2 @@
+das ist  <nae translation="a cute place">ein kleines haus</nae>
+das ist  <ne translation="@tag@" entity="blah bling blong">@tag@</ne>

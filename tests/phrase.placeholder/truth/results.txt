@@ -1,0 +1,5 @@
+TRANSLATION_1=this is a cute place 
+TRANSLATION_2=this is blah bling blong 
+SCORE_1 = -37.798
+SCORE_2 = -245.452
+TOTAL_WALLTIME ~ 1
