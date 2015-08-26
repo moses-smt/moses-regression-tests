@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 #add_empties_to_phrase_table: go through an old-style pharaoh phrase table (no empty target sources) and add one such line for each single-word source phrase in the table,
 #complete with factors (note the number and type of factors are hardcoded here);
