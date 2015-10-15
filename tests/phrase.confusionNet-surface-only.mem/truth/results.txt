@@ -19,91 +19,91 @@ TRANSLATION_0_NBEST_12=so that is the order of business ||| KENLM0= -32.8426 Dis
 TRANSLATION_0_NBEST_13=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.72795 -11.8073 -2.49649 -6.76887 2.99969 InputFeature0= -6.16012
 TRANSLATION_0_NBEST_14=in the order of business ||| KENLM0= -23.4275 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -14.1799 -14.2544 -4.35386 -6.6968 2.99969 InputFeature0= -5.24383
 TRANSLATION_0_NBEST_15=so is the order of business ||| KENLM0= -29.8969 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -5.91252 -8.90234 -3.46004 -7.19509 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_16=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.43626 -11.1157 -2.26443 -7.10808 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_17=there is the order of business ||| KENLM0= -25.5199 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.77908 -11.7647 -4.55342 -9.48531 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_18=that is of the order of business ||| KENLM0= -31.2127 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -6.89962 -10.3193 -3.90282 -7.87731 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_19=so that is the order of business ||| KENLM0= -32.8426 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.17957 -9.1735 -2.76166 -8.93325 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_20=is that the order of business ||| KENLM0= -29.7303 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_21=this is the order of business ||| KENLM0= -23.7478 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.75121 -12.5562 -3.28495 -8.1188 2.99969 InputFeature0= -6.16012
-TRANSLATION_0_NBEST_22=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.12346 -10.9317 -1.98703 -7.00041 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_23=so is the order of business ||| KENLM0= -29.8969 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -5.86807 -8.7184 -3.86027 -7.08742 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_24=in is the order of business ||| KENLM0= -34.2005 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.21896 -11.1157 -1.95596 -7.10808 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_25=with is the order of business ||| KENLM0= -33.6099 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.18696 -10.4656 -2.36142 -7.64707 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_26=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.2929 -16.4721 -1.62745 -8.08798 2.99969 InputFeature0= -6.4478
-TRANSLATION_0_NBEST_27=in that is the order of business ||| KENLM0= -32.9147 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -4.415 -10.5681 -4.15319 -8.95391 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_28=with this is the order of business ||| KENLM0= -32.4614 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.37355 -10.6845 -4.15319 -10.8428 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_29=in the order of business ||| KENLM0= -23.4275 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -14.8731 -14.0705 -5.49169 -6.58913 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_30=with the order of business ||| KENLM0= -26.7851 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -13.1479 -13.6043 -4.75932 -7.23579 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_31=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.21896 -11.1157 -1.95596 -7.10808 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_32=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.18696 -10.4656 -2.36142 -7.64707 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_33=in is the order of business ||| KENLM0= -34.2005 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.1745 -10.9317 -2.3562 -7.00041 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_34=with is the order of business ||| KENLM0= -33.6099 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.14251 -10.2816 -2.76166 -7.53941 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_35=that the order of business ||| KENLM0= -29.1097 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -14.1628 -13.355 -4.15318 -5.88586 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_36=that was the order of business ||| KENLM0= -27.8118 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.53636 -10.8822 -1.62745 -6.60874 2.99969 InputFeature0= -6.63012
-TRANSLATION_0_NBEST_37=so that the order of business ||| KENLM0= -29.7792 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.185 -12.4962 -4.75932 -8.62963 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_38=this is the order of business ||| KENLM0= -23.7478 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.3162 -17.221 -2.41591 -9.43791 2.99969 InputFeature0= -6.4478
-TRANSLATION_0_NBEST_39=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.20186 -10.2162 -1.75529 -6.29714 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_40=with the order of business is ||| KENLM0= -31.433 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -6.40426 -10.4656 -2.66989 -7.64707 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_41=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.43626 -11.1157 -2.26443 -7.10808 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_42=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.40426 -10.4656 -2.66989 -7.64707 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_43=in order is the order of business ||| KENLM0= -36.3654 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -2.96808 -9.31125 -3.46004 -10.8634 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_44=so the order of business ||| KENLM0= -27.1064 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -12.8735 -12.0411 -5.85793 -6.78381 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_45=that the order of business is ||| KENLM0= -33.7575 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_46=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_47=so that the order of business is ||| KENLM0= -34.4271 Distortion0= -4 WordPenalty0= -7 PhraseDictionaryMemory0= -3.44132 -9.35743 -2.66989 -9.04091 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_48=the order of business is that ||| KENLM0= -30.9561 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_49=with the order of business is ||| KENLM0= -31.433 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -6.09147 -10.2816 -2.3925 -7.53941 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_50=in that is the order of business ||| KENLM0= -32.9147 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -4.37055 -10.3841 -4.55342 -8.84624 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_51=with this is the order of business ||| KENLM0= -32.4614 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.32909 -10.5005 -4.55342 -10.7352 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_52=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.12346 -10.9317 -1.98703 -7.00041 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_53=the order of business that is ||| KENLM0= -32.2919 Distortion0= -6 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_54=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.09147 -10.2816 -2.3925 -7.53941 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_55=by this is the order of business ||| KENLM0= -34.5505 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.5277 -11.3073 -4.15319 -12.3833 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_56=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.1745 -10.9317 -2.3562 -7.00041 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_57=this was the order of business ||| KENLM0= -27.3267 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.55961 -11.631 -2.41591 -7.95867 2.99969 InputFeature0= -6.63012
-TRANSLATION_0_NBEST_58=that the order of business is ||| KENLM0= -33.7575 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_59=in order of business is the ||| KENLM0= -33.5586 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.21896 -11.1157 -1.95596 -7.10808 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_60=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_61=that is order of business ||| KENLM0= -31.3971 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -11.7324 -11.8262 -3.68158 -5.79225 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_62=so that the order of business is ||| KENLM0= -34.4271 Distortion0= -4 WordPenalty0= -7 PhraseDictionaryMemory0= -3.12853 -9.1735 -2.3925 -8.93325 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_63=so the order of business is ||| KENLM0= -31.7542 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -6.12982 -8.90234 -3.7685 -7.19509 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_64=the order of business is that ||| KENLM0= -30.9561 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_65=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.14251 -10.2816 -2.76166 -7.53941 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_66=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -12.4252 -15.7805 -2.89593 -8.42719 3.99959 InputFeature0= -5.53151
-TRANSLATION_0_NBEST_67=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.15741 -10.0323 -2.15552 -6.18948 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_68=the order of business that is ||| KENLM0= -32.2919 Distortion0= -6 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_69=the order of business is thus ||| KENLM0= -27.5511 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -3.87853 -8.8375 -4.46165 -9.18752 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_70=order of business that is the ||| KENLM0= -33.4261 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -7.20186 -10.2162 -1.75529 -6.29714 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_71=that is of the order of business ||| KENLM0= -31.2127 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -11.8885 -14.9841 -4.53432 -9.19642 3.99959 InputFeature0= -5.53151
-TRANSLATION_0_NBEST_72=that is an order of business ||| KENLM0= -29.2427 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -8.79812 -12.5003 -5.29102 -11.7011 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_73=in order of business is the ||| KENLM0= -33.5586 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.43626 -11.1157 -2.26443 -7.10808 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_74=that was the order of business ||| KENLM0= -27.8118 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.22951 -10.6982 -2.3206 -6.50107 2.99969 InputFeature0= -6.85327
-TRANSLATION_0_NBEST_75=so the order of business is ||| KENLM0= -31.7542 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -5.81703 -8.7184 -3.49111 -7.08742 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_76=is that the order of business ||| KENLM0= -29.7303 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -12.4081 -14.881 -2.69525 -7.61626 3.99959 InputFeature0= -5.53151
-TRANSLATION_0_NBEST_77=with the order of business ||| KENLM0= -26.7851 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -13.8411 -13.4204 -5.89715 -7.12813 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_78=is the order of business this ||| KENLM0= -33.4998 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.22511 -10.9651 -2.54375 -7.64707 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_79=that is order of business the ||| KENLM0= -36.8948 Distortion0= -3 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_80=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -12.1124 -15.5965 -2.61853 -8.31952 3.99959 InputFeature0= -5.75465
-TRANSLATION_0_NBEST_81=this is an order of business ||| KENLM0= -27.5615 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -8.82138 -13.2492 -6.07948 -13.051 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_82=the order of business is thus ||| KENLM0= -27.5511 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -3.56574 -8.65356 -4.18426 -9.07986 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_83=in order of business is the ||| KENLM0= -33.5586 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.12346 -10.9317 -1.98703 -7.00041 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_84=that the order of business ||| KENLM0= -29.1097 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -14.856 -13.1711 -5.29102 -5.7782 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_85=so that the order of business ||| KENLM0= -29.7792 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.8781 -12.3123 -5.89715 -8.52197 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_86=that is order of business the ||| KENLM0= -36.8948 Distortion0= -3 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_87=is the order of business this ||| KENLM0= -33.4998 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.44241 -10.9651 -2.85221 -7.64707 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_88=in the order of business was ||| KENLM0= -27.7241 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -11.1395 -14.9258 -3.99454 -9.45681 3.99959 InputFeature0= -5.53151
-TRANSLATION_0_NBEST_89=that is of order of business ||| KENLM0= -37.4859 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.11687 -10.4342 -3.51412 -7.37242 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_90=order of business is that the ||| KENLM0= -31.8917 Distortion0= -9 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_91=in order of business is the ||| KENLM0= -33.5586 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.1745 -10.9317 -2.3562 -7.00041 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_92=is the order of business so ||| KENLM0= -33.8671 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -5.91252 -8.90234 -3.46004 -7.19509 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_93=the order of business is so ||| KENLM0= -31.0113 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -6.12982 -8.90234 -3.7685 -7.19509 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_94=the order of business in ||| KENLM0= -27.6018 Distortion0= -5 WordPenalty0= -5 PhraseDictionaryMemory0= -14.1799 -14.2544 -4.35386 -6.6968 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_95=is the order of business in order ||| KENLM0= -35.1244 Distortion0= -5 WordPenalty0= -7 PhraseDictionaryMemory0= -2.96808 -9.31125 -3.46004 -10.8634 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_96=this is order of business ||| KENLM0= -31.7575 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -11.7557 -12.5751 -4.47004 -7.14218 2.99969 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_97=the order of business with ||| KENLM0= -27.3171 Distortion0= -5 WordPenalty0= -5 PhraseDictionaryMemory0= -13.1479 -13.6043 -4.75932 -7.23579 2.99969 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_98=the order of business is in ||| KENLM0= -33.6115 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -7.43626 -11.1157 -2.26443 -7.10808 3.99959 InputFeature0= -5.24383
-TRANSLATION_0_NBEST_99=is the order of business this ||| KENLM0= -33.4998 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.12962 -10.7812 -2.57482 -7.53941 3.99959 InputFeature0= -5.46697
-TRANSLATION_0_NBEST_100=in the order of business was ||| KENLM0= -27.7241 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -10.8267 -14.7418 -3.71714 -9.34914 3.99959 InputFeature0= -5.75465
+TRANSLATION_0_NBEST_16=there is the order of business ||| KENLM0= -25.5199 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.04084 -11.9487 -4.46165 -9.59298 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_17=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -9.02173 -11.8073 -2.37968 -6.76887 3.99959 InputFeature0= -6.16012
+TRANSLATION_0_NBEST_18=this is the order of business ||| KENLM0= -23.7478 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -12.4313 -15.6299 -3.48371 -8.96618 3.99959 InputFeature0= -5.53151
+TRANSLATION_0_NBEST_19=so that is the order of business ||| KENLM0= -32.8426 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.44132 -9.35743 -2.66989 -9.04091 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_20=there is the order of business ||| KENLM0= -25.5199 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.72804 -11.7647 -4.18426 -9.48531 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_21=this is the order of business ||| KENLM0= -23.7478 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -12.1185 -15.446 -3.20632 -8.85852 3.99959 InputFeature0= -5.75465
+TRANSLATION_0_NBEST_22=so is the order of business ||| KENLM0= -29.8969 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.12982 -8.90234 -3.7685 -7.19509 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_23=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.43626 -11.1157 -2.26443 -7.10808 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_24=so that is the order of business ||| KENLM0= -32.8426 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.12853 -9.1735 -2.3925 -8.93325 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_25=there is the order of business ||| KENLM0= -25.5199 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.77908 -11.7647 -4.55342 -9.48531 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_26=that is of the order of business ||| KENLM0= -31.2127 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -6.89962 -10.3193 -3.90282 -7.87731 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_27=so that is the order of business ||| KENLM0= -32.8426 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.17957 -9.1735 -2.76166 -8.93325 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_28=is that the order of business ||| KENLM0= -29.7303 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_29=so is the order of business ||| KENLM0= -29.8969 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -5.81703 -8.7184 -3.49111 -7.08742 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_30=this is the order of business ||| KENLM0= -23.7478 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.75121 -12.5562 -3.28495 -8.1188 2.99969 InputFeature0= -6.16012
+TRANSLATION_0_NBEST_31=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.12346 -10.9317 -1.98703 -7.00041 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_32=this is the order of business ||| KENLM0= -23.7478 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -9.04498 -12.5562 -3.16814 -8.1188 3.99959 InputFeature0= -6.16012
+TRANSLATION_0_NBEST_33=so is the order of business ||| KENLM0= -29.8969 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -5.86807 -8.7184 -3.86027 -7.08742 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_34=in is the order of business ||| KENLM0= -34.2005 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.21896 -11.1157 -1.95596 -7.10808 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_35=with is the order of business ||| KENLM0= -33.6099 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.18696 -10.4656 -2.36142 -7.64707 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_36=is that the order of business ||| KENLM0= -29.7303 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_37=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.2929 -16.4721 -1.62745 -8.08798 2.99969 InputFeature0= -6.4478
+TRANSLATION_0_NBEST_38=this is of the order of business ||| KENLM0= -30.9048 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -6.92287 -11.0682 -4.69128 -9.22724 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_39=in that is the order of business ||| KENLM0= -32.9147 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -4.415 -10.5681 -4.15319 -8.95391 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_40=with this is the order of business ||| KENLM0= -32.4614 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.37355 -10.6845 -4.15319 -10.8428 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_41=in the order of business ||| KENLM0= -23.4275 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -14.8731 -14.0705 -5.49169 -6.58913 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_42=with the order of business ||| KENLM0= -26.7851 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -13.1479 -13.6043 -4.75932 -7.23579 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_43=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.21896 -11.1157 -1.95596 -7.10808 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_44=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.18696 -10.4656 -2.36142 -7.64707 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_45=in is the order of business ||| KENLM0= -34.2005 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.1745 -10.9317 -2.3562 -7.00041 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_46=with is the order of business ||| KENLM0= -33.6099 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.14251 -10.2816 -2.76166 -7.53941 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_47=that the order of business ||| KENLM0= -29.1097 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -14.1628 -13.355 -4.15318 -5.88586 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_48=that was the order of business ||| KENLM0= -27.8118 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.53636 -10.8822 -1.62745 -6.60874 2.99969 InputFeature0= -6.63012
+TRANSLATION_0_NBEST_49=so that the order of business ||| KENLM0= -29.7792 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.185 -12.4962 -4.75932 -8.62963 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_50=this is the order of business ||| KENLM0= -23.7478 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.3162 -17.221 -2.41591 -9.43791 2.99969 InputFeature0= -6.4478
+TRANSLATION_0_NBEST_51=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.20186 -10.2162 -1.75529 -6.29714 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_52=with the order of business is ||| KENLM0= -31.433 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -6.40426 -10.4656 -2.66989 -7.64707 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_53=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.43626 -11.1157 -2.26443 -7.10808 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_54=is this the order of business ||| KENLM0= -30.9289 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.44241 -10.9651 -2.85221 -7.64707 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_55=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.40426 -10.4656 -2.66989 -7.64707 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_56=in order is the order of business ||| KENLM0= -36.3654 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -2.96808 -9.31125 -3.46004 -10.8634 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_57=so the order of business ||| KENLM0= -27.1064 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -12.8735 -12.0411 -5.85793 -6.78381 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_58=that the order of business is ||| KENLM0= -33.7575 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_59=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_60=so that the order of business is ||| KENLM0= -34.4271 Distortion0= -4 WordPenalty0= -7 PhraseDictionaryMemory0= -3.44132 -9.35743 -2.66989 -9.04091 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_61=the order of business is that ||| KENLM0= -30.9561 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_62=with the order of business is ||| KENLM0= -31.433 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -6.09147 -10.2816 -2.3925 -7.53941 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_63=in that is the order of business ||| KENLM0= -32.9147 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -4.37055 -10.3841 -4.55342 -8.84624 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_64=with this is the order of business ||| KENLM0= -32.4614 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.32909 -10.5005 -4.55342 -10.7352 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_65=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.12346 -10.9317 -1.98703 -7.00041 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_66=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -14.0107 -16.4721 -3.01118 -8.08798 3.99959 InputFeature0= -6.4478
+TRANSLATION_0_NBEST_67=is this the order of business ||| KENLM0= -30.9289 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.12962 -10.7812 -2.57482 -7.53941 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_68=the order of business that is ||| KENLM0= -32.2919 Distortion0= -6 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_69=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.09147 -10.2816 -2.3925 -7.53941 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_70=that is of the order of business ||| KENLM0= -31.2127 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -8.59036 -10.0323 -5.62897 -7.24786 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_71=by this is the order of business ||| KENLM0= -34.5505 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -3.5277 -11.3073 -4.15319 -12.3833 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_72=is the order of business in ||| KENLM0= -31.1536 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.1745 -10.9317 -2.3562 -7.00041 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_73=this was the order of business ||| KENLM0= -27.3267 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -6.55961 -11.631 -2.41591 -7.95867 2.99969 InputFeature0= -6.63012
+TRANSLATION_0_NBEST_74=that the order of business is ||| KENLM0= -33.7575 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_75=in order of business is the ||| KENLM0= -33.5586 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.21896 -11.1157 -1.95596 -7.10808 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_76=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_77=is that of the order of business ||| KENLM0= -32.4221 Distortion0= -4 WordPenalty0= -7 PhraseDictionaryMemory0= -6.89962 -10.3193 -3.90282 -7.87731 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_78=that is order of business ||| KENLM0= -31.3971 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -11.7324 -11.8262 -3.68158 -5.79225 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_79=so that the order of business is ||| KENLM0= -34.4271 Distortion0= -4 WordPenalty0= -7 PhraseDictionaryMemory0= -3.12853 -9.1735 -2.3925 -8.93325 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_80=so the order of business is ||| KENLM0= -31.7542 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -6.12982 -8.90234 -3.7685 -7.19509 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_81=the order of business is that ||| KENLM0= -30.9561 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_82=is the order of business with ||| KENLM0= -30.8689 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -6.14251 -10.2816 -2.76166 -7.53941 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_83=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -12.4252 -15.7805 -2.89593 -8.42719 3.99959 InputFeature0= -5.53151
+TRANSLATION_0_NBEST_84=is the order of business that ||| KENLM0= -32.7862 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.15741 -10.0323 -2.15552 -6.18948 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_85=the order of business that is ||| KENLM0= -32.2919 Distortion0= -6 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_86=that is to the order of business ||| KENLM0= -31.106 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -8.51439 -10.2162 -6.77812 -7.59993 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_87=the order of business is thus ||| KENLM0= -27.5511 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -3.87853 -8.8375 -4.46165 -9.18752 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_88=that is , the order of business ||| KENLM0= -30.504 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -8.53988 -10.2162 -7.04049 -8.47262 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_89=order of business that is the ||| KENLM0= -33.4261 Distortion0= -7 WordPenalty0= -6 PhraseDictionaryMemory0= -7.20186 -10.2162 -1.75529 -6.29714 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_90=that is of the order of business ||| KENLM0= -31.2127 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -11.8885 -14.9841 -4.53432 -9.19642 3.99959 InputFeature0= -5.53151
+TRANSLATION_0_NBEST_91=that is an order of business ||| KENLM0= -29.2427 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -8.79812 -12.5003 -5.29102 -11.7011 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_92=in order of business is the ||| KENLM0= -33.5586 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.43626 -11.1157 -2.26443 -7.10808 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_93=that was the order of business ||| KENLM0= -27.8118 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.22951 -10.6982 -2.3206 -6.50107 2.99969 InputFeature0= -6.85327
+TRANSLATION_0_NBEST_94=so the order of business is ||| KENLM0= -31.7542 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -5.81703 -8.7184 -3.49111 -7.08742 3.99959 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_95=is that the order of business ||| KENLM0= -29.7303 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -12.4081 -14.881 -2.69525 -7.61626 3.99959 InputFeature0= -5.53151
+TRANSLATION_0_NBEST_96=with the order of business ||| KENLM0= -26.7851 Distortion0= 0 WordPenalty0= -5 PhraseDictionaryMemory0= -13.8411 -13.4204 -5.89715 -7.12813 2.99969 InputFeature0= -5.46697
+TRANSLATION_0_NBEST_97=that is in the order of business ||| KENLM0= -29.2591 Distortion0= 0 WordPenalty0= -7 PhraseDictionaryMemory0= -10.296 -10.2162 -7.63832 -10.1461 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_98=is the order of business this ||| KENLM0= -33.4998 Distortion0= -5 WordPenalty0= -6 PhraseDictionaryMemory0= -7.22511 -10.9651 -2.54375 -7.64707 2.99969 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_99=that is order of business the ||| KENLM0= -36.8948 Distortion0= -3 WordPenalty0= -6 PhraseDictionaryMemory0= -7.41916 -10.2162 -2.06375 -6.29714 3.99959 InputFeature0= -5.24383
+TRANSLATION_0_NBEST_100=in the order of business is ||| KENLM0= -28.0753 Distortion0= -4 WordPenalty0= -6 PhraseDictionaryMemory0= -12.1124 -15.5965 -2.61853 -8.31952 3.99959 InputFeature0= -5.75465
 TRANSLATION_1_NBEST_1=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.20186 -10.2162 -1.75529 -6.29714 2.99969 InputFeature0= 0
 TRANSLATION_1_NBEST_2=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.10637 -10.0323 -1.78636 -6.18948 3.99959 InputFeature0= 0
 TRANSLATION_1_NBEST_3=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -7.15741 -10.0323 -2.15552 -6.18948 2.99969 InputFeature0= 0
@@ -304,4 +304,4 @@ TRANSLATION_2_NBEST_97=this was the order of business ||| KENLM0= -27.3267 Disto
 TRANSLATION_2_NBEST_98=that is the order of business ||| KENLM0= -24.0518 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -10.5865 -14.3267 -2.39347 -7.27687 3.99959 InputFeature0= -0.918292
 TRANSLATION_2_NBEST_99=this was the order of business ||| KENLM0= -27.3267 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -2.51621 -9.1887 -1.47326 -5.73124 2.99969 InputFeature0= -1.20507
 TRANSLATION_2_NBEST_100=it was the order of business ||| KENLM0= -27.3173 Distortion0= 0 WordPenalty0= -6 PhraseDictionaryMemory0= -5.50596 -10.4814 -2.98023 -7.0161 2.99969 InputFeature0= -0.63061
-TOTAL_WALLTIME ~ 4
+TOTAL_WALLTIME ~ 3
