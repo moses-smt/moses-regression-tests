@@ -1,0 +1,13 @@
+TRANSLATION_1=i erkläre which originated thursday , the 3. february 2000 , unterbrochene part-session of the european parliament adjourned on . 
+TRANSLATION_2=adoption of the minutes of the previous sitting 
+TRANSLATION_3=the minutes for ' s sitting tomorrow thursday , the 3. february 's been distributed been . 
+TRANSLATION_4=are there any comments ? 
+TRANSLATION_5=from their reaktion schließe i , that many members of the when this minutes 't obtain have , and it versteht of that kind to what is from even , that you a minutes , it you 't obtain have , 't zustimmen can . 
+TRANSLATION_6=i schlage so a , it minutes tomorrow to , there it the opportunity to propose to you however , now 't vorliegt , wofür i me entschuldige . 
+SCORE_1 = -301.799
+SCORE_2 = 0.036
+SCORE_3 = -102.562
+SCORE_4 = -0.102
+SCORE_5 = -410.920
+SCORE_6 = -403.121
+TOTAL_WALLTIME ~ 3
