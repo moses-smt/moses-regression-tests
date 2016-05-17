@@ -1,0 +1,4 @@
+es++PPER gibt++VVFIN verschiedene++ADJ andere++ADJ meinungen++NN .++PE
+<dlt type="cache" cbtm="es++PPER gibt++VVFIN verschiedene++ADJ andere++ADJ meinungen++NN .++PE ||| there++EX are++VBP plenty++JJ different++JJ opinions++NNS .++PE ||| 0.4 0.5 0.2 0.7"/>es++PPER gibt++VVFIN verschiedene++ADJ andere++ADJ meinungen++NN .++PE
+<dlt type="cache" cbtm="es++PPER gibt++VVFIN verschiedene++ADJ ||| there++EX are++VBP awful++JJ ||| 1 0.4 0.7 0.1"/>es++PPER gibt++VVFIN verschiedene++ADJ andere++ADJ meinungen++NN .++PE
+es++PPER gibt++VVFIN verschiedene++ADJ andere++ADJ meinungen++NN .++PE
