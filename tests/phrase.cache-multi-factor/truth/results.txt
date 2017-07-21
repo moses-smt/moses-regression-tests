@@ -1,0 +1,9 @@
+TRANSLATION_1=there are various different opinions . 
+TRANSLATION_2=there are plenty different opinions . 
+TRANSLATION_3=there are awful different opinions . 
+TRANSLATION_4=there are various different opinions . 
+SCORE_1 = -113.734
+SCORE_2 = -2.282
+SCORE_3 = -111.154
+SCORE_4 = -113.734
+TOTAL_WALLTIME ~ 4
